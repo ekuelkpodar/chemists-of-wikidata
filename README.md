@@ -4,9 +4,20 @@
 
 **Live site → https://ekuelkpodar.github.io/chemists-of-wikidata/**
 
-![The Story page: hero and key numbers](docs/screenshots/story-desktop-light.png)
+![Chemists of Wikidata: the Story page](docs/screenshots/app/01-story.png)
 
 A reproducible Python pipeline turns a messy Wikidata export into a clean, enriched dataset and seven analyses. A static web app (no backend) then lets anyone explore the results: a migration map, a bar-chart race, Kaplan–Meier curves, academic family trees, and a SQL console running DuckDB in the browser.
+
+## Screenshots
+
+| | |
+|---|---|
+| **Story**: scrollytelling intro with the headline numbers<br>![Story](docs/screenshots/app/01-story.png) | **Migration map**: flow arcs from birth country to citizenship, with net brain gain<br>![Migration map](docs/screenshots/app/02-migration.png) |
+| **Center of gravity**: bar-chart race and each country's share by birth decade<br>![Center of gravity](docs/screenshots/app/03-center-of-gravity.png) | **Specialties**: specialty co-occurrence network and growth curves<br>![Specialties](docs/screenshots/app/04-specialties.png) |
+| **Lifespans**: Kaplan–Meier curves with right-censoring, and a Cox model<br>![Lifespans](docs/screenshots/app/05-lifespans.png) | **Family trees**: advisor → student genealogy, lineage tracing<br>![Family trees](docs/screenshots/app/06-family-trees.png) |
+| **Explorer**: SQL over Parquet with DuckDB-WASM in the browser<br>![Explorer](docs/screenshots/app/07-explorer.png) | **Data & methods**: pipeline, quality report, limitations<br>![Data & methods](docs/screenshots/app/08-data-methods.png) |
+
+Light-theme and mobile captures of every page are in [`docs/screenshots/`](docs/screenshots/).
 
 ## Five findings
 
