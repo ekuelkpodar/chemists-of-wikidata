@@ -1,0 +1,13 @@
+# Single-ish attributes: P21 sex or gender, P31 instance of, P19 place of birth (+coords,
+# current country P17 and its ISO 3166-1 alpha-3 code P298).
+SELECT ?item ?sexLabel ?instanceOf ?birthPlace ?birthPlaceLabel ?coord ?bpCountry ?bpCountryLabel ?bpIso WHERE {
+  VALUES ?item { {{VALUES}} }
+  OPTIONAL { ?item wdt:P21 ?sex }
+  OPTIONAL { ?item wdt:P31 ?instanceOf }
+  OPTIONAL {
+    ?item wdt:P19 ?birthPlace .
+    OPTIONAL { ?birthPlace wdt:P625 ?coord }
+    OPTIONAL { ?birthPlace wdt:P17 ?bpCountry . OPTIONAL { ?bpCountry wdt:P298 ?bpIso } }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
+}

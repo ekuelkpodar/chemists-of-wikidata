@@ -1,0 +1,11 @@
+# Lineage pass for people OUTSIDE the chemist set who appear as doctoral advisors:
+# fetch their own advisors (P184) and awards (P166), iterated until no new ancestors appear.
+SELECT ?item ?itemLabel ?prop ?value ?valueLabel ?birth WHERE {
+  VALUES ?item { {{VALUES}} }
+  OPTIONAL { ?item wdt:P569 ?birth }
+  OPTIONAL {
+    VALUES (?prop ?p) { ("P184" wdt:P184) ("P166" wdt:P166) }
+    ?item ?p ?value .
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
+}

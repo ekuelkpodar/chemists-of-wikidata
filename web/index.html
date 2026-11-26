@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chemists of Wikidata — the science of scientists</title>
+    <meta name="description" content="Three centuries of 11,903 chemists from Wikidata: where chemistry lived, how chemists moved, how long they lived, and who trained whom." />
+    <meta name="theme-color" content="#f7f5f0" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ekuelkpodar.github.io/chemists-of-wikidata/" />
+    <meta property="og:title" content="Chemists of Wikidata — the science of scientists" />
+    <meta property="og:description" content="Paris → Berlin → the US: 300 years of chemistry's center of gravity, migration corridors, lifespans and academic family trees, from 11,903 Wikidata records." />
+    <meta property="og:image" content="https://ekuelkpodar.github.io/chemists-of-wikidata/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="627" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://ekuelkpodar.github.io/chemists-of-wikidata/og.png" />
+    <script>
+      // Apply the saved theme before first paint to avoid a flash.
+      try { const t = localStorage.getItem('theme'); if (t) document.documentElement.dataset.theme = t } catch {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>This interactive explorer needs JavaScript. The data and analyses are on GitHub.</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

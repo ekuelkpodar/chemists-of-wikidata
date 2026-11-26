@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+@theme {
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter Variable", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-rule: var(--rule);
+  --color-accent: var(--accent);
+}
+
+/* Tokens. Light is the default; dark is *selected* (own steps), not inverted. */
+:root {
+  color-scheme: light;
+  --paper: #f7f5f0;
+  --surface: #ffffff;
+  --ink: #191919;
+  --muted: #5c5c5c;
+  --faint: #6b6b6b;
+  --rule: #e4e1da;
+  --axis: #c2c2c2;
+  --grid: #ebe8e1;
+  --accent: #1b64be;
+  --s1: #257de0; --s2: #f47230; --s3: #00b894; --s4: #f2a600;
+  --s5: #ee7fac; --s6: #008a17; --s7: #6a4ce2; --s8: #ec4647;
+  --other: #b9b5ad;
+  --highlight: #c98a00;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --paper: #121212; --surface: #191919; --ink: #efefef; --muted: #a3a3a3; --faint: #949494;
+    --rule: #2c2c2c; --axis: #474747; --grid: #262626; --accent: #6aabf1;
+    --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05;
+    --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263;
+    --other: #555555; --highlight: #f2b632;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #121212; --surface: #191919; --ink: #efefef; --muted: #a3a3a3; --faint: #949494;
+  --rule: #2c2c2c; --axis: #474747; --grid: #262626; --accent: #6aabf1;
+  --s1: #338ced; --s2: #e76624; --s3: #00a888; --s4: #d28e05;
+  --s5: #e24d8b; --s6: #0aac23; --s7: #9887ef; --s8: #eb6263;
+  --other: #555555; --highlight: #f2b632;
+}
+
+html { background: var(--paper); color: var(--ink); }
+body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+.font-display { font-weight: 600; letter-spacing: -0.015em; }
+.tabular { font-variant-numeric: tabular-nums; }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+/* Chart chrome */
+.axis text { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.axis line, .axis path { stroke: var(--axis); }
+.grid line { stroke: var(--grid); }
+
+.skeleton { background: linear-gradient(90deg, var(--rule) 0%, var(--grid) 50%, var(--rule) 100%);
+  background-size: 200% 100%; animation: shimmer 1.4s ease-in-out infinite; border-radius: 8px; }
+@keyframes shimmer { from { background-position: 200% 0 } to { background-position: -200% 0 } }
+
+.flow-arc { stroke-dasharray: 4 6; animation: flow 1.6s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -20 } }
+
+.fade-in { animation: fadein .35s ease-out both; }
+@keyframes fadein { from { opacity: 0; transform: translateY(4px) } to { opacity: 1; transform: none } }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+  .flow-arc { stroke-dasharray: none; }
+}
+
+input[type="range"] { accent-color: var(--accent); }
+::selection { background: color-mix(in oklab, var(--accent) 25%, transparent); }

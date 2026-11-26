@@ -1,0 +1,11 @@
+# Multi-valued relations for a batch of people. {{VALUES}} is replaced by ~200 QIDs.
+# prop in: P184 doctoral advisor, P185 doctoral student, P166 award received,
+#          P108 employer, P69 educated at
+SELECT ?item ?prop ?value ?valueLabel WHERE {
+  VALUES ?item { {{VALUES}} }
+  VALUES (?prop ?p) {
+    ("P184" wdt:P184) ("P185" wdt:P185) ("P166" wdt:P166) ("P108" wdt:P108) ("P69" wdt:P69)
+  }
+  ?item ?p ?value .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
+}
