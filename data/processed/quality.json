@@ -1,0 +1,317 @@
+{
+  "reference_year": 2026,
+  "raw": {
+    "rows": 15635,
+    "misaligned_rows": 18
+  },
+  "people": 11903,
+  "unique_names": 11883,
+  "fill_rates_pct": {
+    "birth_year": 89.7,
+    "death_year": 60.8,
+    "country": 80.5,
+    "occupation": 100.0,
+    "wikipedia_url": 100.0
+  },
+  "birth_year_range": [
+    -1201,
+    2006
+  ],
+  "birth_precision": {
+    "day": 8492,
+    "year": 2183,
+    "None": 1228
+  },
+  "living_likely": 3439,
+  "living_likely_rule": "no death date and birth_year > 1916",
+  "multi_occupation_people": 1079,
+  "country_labels": 291,
+  "country_label_kinds": {
+    "historical": 141,
+    "modern": 138,
+    "subnational": 9,
+    "non_country": 3
+  },
+  "multi_label_people": 1452,
+  "name_change_only_people": 825,
+  "multi_country_people": 626,
+  "pair_relations": {
+    "name_change": 1403,
+    "multi_country": 824
+  },
+  "flags": {
+    "missing_country": 2323,
+    "birth_year_precision": 2183,
+    "missing_birth": 1228,
+    "death_year_precision": 740,
+    "conflicting_birth_dates": 192,
+    "conflicting_death_dates": 133,
+    "death_missing_presumed_dead": 38,
+    "no_english_label": 24,
+    "misaligned_source_row": 15,
+    "non_country_citizenship": 3,
+    "lifespan_under_15": 3,
+    "lifespan_over_110": 3,
+    "unknown_value_country": 3,
+    "bce_date": 2,
+    "suspected_non_human": 1
+  },
+  "flag_definitions": {
+    "missing_birth": "no birth date in Wikidata",
+    "missing_country": "no country of citizenship",
+    "birth_year_precision": "birth rendered as '1 January' = Wikidata year precision (a true 1 Jan birthday is indistinguishable)",
+    "death_year_precision": "death rendered as '1 January' = year precision",
+    "conflicting_birth_dates": "more than one birth date statement; most precise then earliest kept",
+    "conflicting_death_dates": "more than one death date statement; most precise then earliest kept",
+    "death_missing_presumed_dead": "no death date but born <= 1916; excluded from survival analysis",
+    "lifespan_over_110": "lifespan > 110 years: likely date error",
+    "lifespan_under_15": "lifespan < 15 years: likely date error",
+    "death_before_birth": "death year earlier than birth year",
+    "bce_date": "birth or death date is BCE",
+    "misaligned_source_row": "a source row had keys out of step with values; parsed by content type",
+    "no_english_label": "no English label; name decoded from Wikipedia URL",
+    "unknown_value_country": "country statement is Wikidata 'unknown value'",
+    "non_country_citizenship": "citizenship value is not a state (statelessness, ethnic group, fictional)",
+    "suspected_non_human": "hand-flagged: not a real chemist (e.g. fictional character)"
+  },
+  "flagged_examples": {
+    "lifespan_over_110": [
+      {
+        "qid": "Q3147472",
+        "name": "Ibn Al-Thahabi",
+        "birth_date": "1 January 0901",
+        "death_date": "1 January 1033",
+        "lifespan": 132
+      },
+      {
+        "qid": "Q4406004",
+        "name": "Alexander Imich",
+        "birth_date": "4 February 1903",
+        "death_date": "8 June 2014",
+        "lifespan": 111
+      },
+      {
+        "qid": "Q23303280",
+        "name": "Ernest Noble",
+        "birth_date": "1 January 1901",
+        "death_date": "17 October 2017",
+        "lifespan": 116
+      }
+    ],
+    "lifespan_under_15": [
+      {
+        "qid": "Q902388",
+        "name": "William Cruickshank",
+        "birth_date": "1 January 1800",
+        "death_date": "14 February 1809",
+        "lifespan": 9
+      },
+      {
+        "qid": "Q17021355",
+        "name": "Jean-Claude Bradley",
+        "birth_date": "1 January 2000",
+        "death_date": "13 May 2014",
+        "lifespan": 14
+      },
+      {
+        "qid": "Q27907233",
+        "name": "P. M. de Respour",
+        "birth_date": "1 January 1650",
+        "death_date": "1 January 1650",
+        "lifespan": 0
+      }
+    ],
+    "bce_date": [
+      {
+        "qid": "Q743993",
+        "name": "Crateuas",
+        "birth_date": "1 January 0201 BCE",
+        "death_date": "1 January 0101 BCE",
+        "lifespan": 100
+      },
+      {
+        "qid": "Q4355213",
+        "name": "Tapputi",
+        "birth_date": "1 January 1201 BCE",
+        "death_date": null,
+        "lifespan": null
+      }
+    ],
+    "misaligned_source_row": [
+      {
+        "qid": "Q158940",
+        "name": "Bane",
+        "birth_date": null,
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q421675",
+        "name": "Louis Le Prince",
+        "birth_date": "28 August 1841",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q971757",
+        "name": "Shabbethai Donnolo",
+        "birth_date": "1 January 0913",
+        "death_date": "1 January 0982",
+        "lifespan": 69
+      },
+      {
+        "qid": "Q2069138",
+        "name": "Petro Franko",
+        "birth_date": "28 June 1890",
+        "death_date": "1 January 1941",
+        "lifespan": 51
+      },
+      {
+        "qid": "Q2856923",
+        "name": "Antoine de Saint-Yon",
+        "birth_date": "1 January 1715",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q4355213",
+        "name": "Tapputi",
+        "birth_date": "1 January 1201 BCE",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q5240337",
+        "name": "David Thomas",
+        "birth_date": null,
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q15709502",
+        "name": "Judith Kimble",
+        "birth_date": null,
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q15994331",
+        "name": "John Browne",
+        "birth_date": "1 January 1735",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q16063075",
+        "name": "Irma Goldberg",
+        "birth_date": "1 January 1871",
+        "death_date": null,
+        "lifespan": null
+      }
+    ],
+    "suspected_non_human": [
+      {
+        "qid": "Q158940",
+        "name": "Bane",
+        "birth_date": null,
+        "death_date": null,
+        "lifespan": null
+      }
+    ],
+    "non_country_citizenship": [
+      {
+        "qid": "Q158940",
+        "name": "Bane",
+        "birth_date": null,
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q2630619",
+        "name": "Nikolai Sudzilovsky",
+        "birth_date": "15 December 1850",
+        "death_date": "30 April 1930",
+        "lifespan": 80
+      },
+      {
+        "qid": "Q3696065",
+        "name": "Salimuzzaman Siddiqui",
+        "birth_date": "19 October 1897",
+        "death_date": "14 April 1994",
+        "lifespan": 97
+      }
+    ],
+    "death_missing_presumed_dead": [
+      {
+        "qid": "Q56178",
+        "name": "Ma. Assunta Cuyegkeng",
+        "birth_date": "1 January 1901",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q421675",
+        "name": "Louis Le Prince",
+        "birth_date": "28 August 1841",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q2841293",
+        "name": "Sébastien Basson",
+        "birth_date": "1 January 1573",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q2856923",
+        "name": "Antoine de Saint-Yon",
+        "birth_date": "1 January 1715",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q3045219",
+        "name": "Exili",
+        "birth_date": "1 January 1650",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q4355213",
+        "name": "Tapputi",
+        "birth_date": "1 January 1201 BCE",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q5362772",
+        "name": "Elizabeth Finkel",
+        "birth_date": "1 January 1901",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q5584828",
+        "name": "Gordon Aylward",
+        "birth_date": "1 January 1900",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q5617345",
+        "name": "Inanendra Das Gupta",
+        "birth_date": "1 August 1888",
+        "death_date": null,
+        "lifespan": null
+      },
+      {
+        "qid": "Q6782779",
+        "name": "Masayori Inouye",
+        "birth_date": "1 January 1900",
+        "death_date": null,
+        "lifespan": null
+      }
+    ]
+  }
+}

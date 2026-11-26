@@ -1,0 +1,140 @@
+iso3,name,region,lat,lon
+USA,United States,North America,39.5,-95.5
+CAN,Canada,North America,49.5,-88.0
+MEX,Mexico,Latin America & Caribbean,23.6,-102.5
+GBR,United Kingdom,Western Europe,53.5,-1.8
+IRL,Ireland,Western Europe,53.2,-8.0
+FRA,France,Western Europe,46.6,2.4
+DEU,Germany,Western Europe,51.2,10.4
+NLD,Netherlands,Western Europe,52.2,5.5
+BEL,Belgium,Western Europe,50.6,4.6
+LUX,Luxembourg,Western Europe,49.8,6.1
+CHE,Switzerland,Western Europe,46.8,8.2
+AUT,Austria,Western Europe,47.6,14.1
+LIE,Liechtenstein,Western Europe,47.2,9.6
+ITA,Italy,Southern Europe,42.8,12.6
+ESP,Spain,Southern Europe,40.2,-3.7
+PRT,Portugal,Southern Europe,39.6,-8.0
+GRC,Greece,Southern Europe,39.1,22.0
+MLT,Malta,Southern Europe,35.9,14.4
+CYP,Cyprus,Southern Europe,35.0,33.2
+DNK,Denmark,Northern Europe,56.0,10.0
+NOR,Norway,Northern Europe,60.5,9.0
+SWE,Sweden,Northern Europe,60.1,15.6
+FIN,Finland,Northern Europe,62.0,25.7
+ISL,Iceland,Northern Europe,64.9,-18.6
+EST,Estonia,Northern Europe,58.6,25.0
+LVA,Latvia,Northern Europe,56.9,24.6
+LTU,Lithuania,Northern Europe,55.2,23.9
+POL,Poland,Central & Eastern Europe,52.1,19.4
+CZE,Czech Republic,Central & Eastern Europe,49.8,15.5
+SVK,Slovakia,Central & Eastern Europe,48.7,19.7
+HUN,Hungary,Central & Eastern Europe,47.2,19.5
+ROU,Romania,Central & Eastern Europe,45.9,24.9
+BGR,Bulgaria,Central & Eastern Europe,42.7,25.5
+SVN,Slovenia,Central & Eastern Europe,46.1,14.8
+HRV,Croatia,Central & Eastern Europe,45.1,15.2
+BIH,Bosnia and Herzegovina,Central & Eastern Europe,43.9,17.7
+SRB,Serbia,Central & Eastern Europe,44.0,20.9
+MNE,Montenegro,Central & Eastern Europe,42.7,19.4
+MKD,North Macedonia,Central & Eastern Europe,41.6,21.7
+ALB,Albania,Central & Eastern Europe,41.2,20.2
+XKX,Kosovo,Central & Eastern Europe,42.6,20.9
+RUS,Russia,Former USSR,55.8,37.6
+UKR,Ukraine,Former USSR,49.0,31.2
+BLR,Belarus,Former USSR,53.7,28.0
+MDA,Moldova,Former USSR,47.4,28.4
+GEO,Georgia,Former USSR,42.3,43.4
+ARM,Armenia,Former USSR,40.1,45.0
+AZE,Azerbaijan,Former USSR,40.1,47.6
+KAZ,Kazakhstan,Former USSR,48.0,67.0
+UZB,Uzbekistan,Former USSR,41.4,64.6
+KGZ,Kyrgyzstan,Former USSR,41.2,74.8
+TJK,Tajikistan,Former USSR,38.9,71.3
+TKM,Turkmenistan,Former USSR,38.97,59.6
+TUR,Turkey,Middle East & North Africa,39.0,35.2
+ISR,Israel,Middle East & North Africa,31.4,35.0
+PSE,Palestine,Middle East & North Africa,31.9,35.2
+LBN,Lebanon,Middle East & North Africa,33.9,35.9
+SYR,Syria,Middle East & North Africa,34.8,38.9
+JOR,Jordan,Middle East & North Africa,31.2,36.5
+IRQ,Iraq,Middle East & North Africa,33.2,43.7
+IRN,Iran,Middle East & North Africa,32.4,53.7
+SAU,Saudi Arabia,Middle East & North Africa,23.9,45.1
+KWT,Kuwait,Middle East & North Africa,29.3,47.5
+ARE,United Arab Emirates,Middle East & North Africa,23.4,53.8
+OMN,Oman,Middle East & North Africa,21.5,55.9
+YEM,Yemen,Middle East & North Africa,15.6,48.5
+EGY,Egypt,Middle East & North Africa,26.8,30.8
+LBY,Libya,Middle East & North Africa,26.3,17.2
+TUN,Tunisia,Middle East & North Africa,34.0,9.5
+DZA,Algeria,Middle East & North Africa,28.0,1.7
+MAR,Morocco,Middle East & North Africa,31.8,-7.1
+SDN,Sudan,Sub-Saharan Africa,12.9,30.2
+NGA,Nigeria,Sub-Saharan Africa,9.1,8.7
+GHA,Ghana,Sub-Saharan Africa,7.9,-1.0
+CIV,Ivory Coast,Sub-Saharan Africa,7.5,-5.5
+SEN,Senegal,Sub-Saharan Africa,14.5,-14.5
+NER,Niger,Sub-Saharan Africa,17.6,8.1
+BFA,Burkina Faso,Sub-Saharan Africa,12.2,-1.6
+BEN,Benin,Sub-Saharan Africa,9.3,2.3
+CMR,Cameroon,Sub-Saharan Africa,7.4,12.4
+GNQ,Equatorial Guinea,Sub-Saharan Africa,1.7,10.3
+COD,Democratic Republic of the Congo,Sub-Saharan Africa,-4.0,21.8
+AGO,Angola,Sub-Saharan Africa,-11.2,17.9
+ETH,Ethiopia,Sub-Saharan Africa,9.1,40.5
+SOM,Somalia,Sub-Saharan Africa,5.2,46.2
+KEN,Kenya,Sub-Saharan Africa,-0.02,37.9
+UGA,Uganda,Sub-Saharan Africa,1.4,32.3
+TZA,Tanzania,Sub-Saharan Africa,-6.4,34.9
+MOZ,Mozambique,Sub-Saharan Africa,-18.7,35.5
+MDG,Madagascar,Sub-Saharan Africa,-18.8,46.9
+MUS,Mauritius,Sub-Saharan Africa,-20.3,57.6
+ZWE,Zimbabwe,Sub-Saharan Africa,-19.0,29.2
+NAM,Namibia,Sub-Saharan Africa,-22.96,18.5
+ZAF,South Africa,Sub-Saharan Africa,-30.6,22.9
+LSO,Lesotho,Sub-Saharan Africa,-29.6,28.2
+SWZ,Eswatini,Sub-Saharan Africa,-26.5,31.5
+CPV,Cape Verde,Sub-Saharan Africa,16.0,-24.0
+IND,India,South Asia,21.0,78.0
+PAK,Pakistan,South Asia,30.4,69.3
+BGD,Bangladesh,South Asia,23.7,90.4
+LKA,Sri Lanka,South Asia,7.9,80.8
+NPL,Nepal,South Asia,28.4,84.1
+CHN,China,East Asia,33.0,108.0
+HKG,Hong Kong,East Asia,22.3,114.2
+TWN,Taiwan,East Asia,23.7,121.0
+JPN,Japan,East Asia,36.2,138.3
+KOR,South Korea,East Asia,36.5,127.8
+PRK,North Korea,East Asia,40.3,127.5
+MNG,Mongolia,East Asia,46.9,103.8
+MMR,Myanmar,Southeast Asia,21.9,96.0
+THA,Thailand,Southeast Asia,15.9,100.99
+VNM,Vietnam,Southeast Asia,14.1,108.3
+MYS,Malaysia,Southeast Asia,4.2,101.98
+SGP,Singapore,Southeast Asia,1.35,103.8
+IDN,Indonesia,Southeast Asia,-2.5,118.0
+PHL,Philippines,Southeast Asia,12.9,121.8
+AUS,Australia,Oceania,-28.0,140.0
+NZL,New Zealand,Oceania,-41.0,174.0
+PNG,Papua New Guinea,Oceania,-6.3,143.96
+GTM,Guatemala,Latin America & Caribbean,15.8,-90.2
+BLZ,Belize,Latin America & Caribbean,17.2,-88.5
+HND,Honduras,Latin America & Caribbean,15.2,-86.2
+SLV,El Salvador,Latin America & Caribbean,13.8,-88.9
+CRI,Costa Rica,Latin America & Caribbean,9.7,-83.8
+CUB,Cuba,Latin America & Caribbean,21.5,-77.8
+HTI,Haiti,Latin America & Caribbean,18.97,-72.3
+JAM,Jamaica,Latin America & Caribbean,18.1,-77.3
+DMA,Dominica,Latin America & Caribbean,15.4,-61.4
+TTO,Trinidad and Tobago,Latin America & Caribbean,10.7,-61.2
+COL,Colombia,Latin America & Caribbean,4.6,-74.3
+VEN,Venezuela,Latin America & Caribbean,6.4,-66.6
+ECU,Ecuador,Latin America & Caribbean,-1.8,-78.2
+PER,Peru,Latin America & Caribbean,-9.2,-75.0
+BOL,Bolivia,Latin America & Caribbean,-16.3,-63.6
+BRA,Brazil,Latin America & Caribbean,-14.2,-51.9
+PRY,Paraguay,Latin America & Caribbean,-23.4,-58.4
+URY,Uruguay,Latin America & Caribbean,-32.5,-55.8
+ARG,Argentina,Latin America & Caribbean,-34.0,-64.0
+CHL,Chile,Latin America & Caribbean,-33.5,-70.7
