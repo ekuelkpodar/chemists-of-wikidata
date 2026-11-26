@@ -1,0 +1,3322 @@
+qid,name,is_nobel
+Q80061,Nobel Prize in Physiology or Medicine,True
+Q278248,Dr A.H. Heineken Prize for Medicine,False
+Q458338,Paul Ehrlich and Ludwig Darmstaedter Prize,False
+Q477467,Gruber Prize in Genetics,False
+Q604370,Time 100,False
+Q746756,Royal Medal,False
+Q782797,Australia Prize,False
+Q817496,Benjamin Franklin Medal,False
+Q899039,Louisa Gross Horwitz Prize,False
+Q904645,Grand Prix Charles-Leopold Mayer,False
+Q964506,"Alfred P. Sloan, Jr. Prize",False
+Q975308,NAS Award in Molecular Biology,False
+Q999734,Albert Lasker Award for Basic Medical Research,False
+Q1031994,Canada Gairdner International Award,False
+Q1210161,Dickson Prize in Medicine,False
+Q1273466,E. B. Wilson Medal,False
+Q1324940,Keio Medical Science Prize,False
+Q1577949,Rosenstiel Award,False
+Q1587906,Harvey Prize,False
+Q1738081,Keith R. Porter Lecture,False
+Q1786381,L'Oréal-UNESCO Award For Women in Science,False
+Q1926301,Meyenburg Prize,False
+Q2637278,Albany Medical Center Prize,False
+Q3853553,American Institute of Chemists Gold Medal,False
+Q4654099,ASCB Public Service Award,False
+Q5020532,California Hall of Fame,False
+Q5442484,Fellow of the American Association for the Advancement of Science,False
+Q7158133,Pearl Meister Greengard Prize,False
+Q7795894,Clarivate Citation Laureates,False
+Q7927224,Victorian Honour Roll of Women,False
+Q7980447,Weizmann Women & Science Award,False
+Q9680541,Companion of the Order of Australia,False
+Q30123919,Bristol-Myers Squibb Award for Distinguished Achievement in Cancer Research,False
+Q32945345,WICB Senior Award,False
+Q39384825,honorary doctor of Harvard University,False
+Q56221148,Robert J. and Claire Pasarow Foundation Award for Distinguished Contributions to Cancer Research,False
+Q59772119,Fellow of the Royal Society of New South Wales,False
+Q60577592,AACR-G.H.A. Clowes Award for Outstanding Basic Cancer Research,False
+Q66988003,Corresponding Member of the Australian Academy of Science,False
+Q86241109,honorary doctor of Brandeis University,False
+Q100377523,Vanderbilt Prize in Biomedical Science,False
+Q101542581,Distinguished Fellow of the Royal Society of New South Wales,False
+Q121359767,Great Immigrants Award,False
+Q137258850,Alma Dea Morani Award,False
+Q1765722,Richard Lounsbery Award,False
+Q6781530,Maryland Women's Hall of Fame,False
+Q52382875,Fellow of the American Academy of Arts and Sciences,False
+Q52413852,AACR Award for Outstanding Achievement in Cancer Research,False
+Q4767,Hawthornden Prize,False
+Q845188,George Polk Award,False
+Q1316544,Guggenheim Fellowship,False
+Q3656174,Oskar Pfister Award,False
+Q4936657,Bodley Medal,False
+Q6537108,Lewis Thomas Prize,False
+Q12201477,Commander of the Order of the British Empire,False
+Q74267946,Emperor Has No Clothes Award,False
+Q97446358,honorary doctorate from the Pontifical Catholic University of Peru,False
+Q519055,Wolf Prize in Agriculture,False
+Q737051,National Medal of Science,False
+Q6240976,John J. Carty Award for the Advancement of Science,False
+Q266012,Nebula Award for Best Novel,False
+Q1086189,Nebula Award for Best Novella,False
+Q15812419,Glenn T. Seaborg Award for Nuclear Chemistry,False
+Q41955909,Fellow of the American Physical Society,False
+Q3305342,Fellow of the Royal Society of Canada,False
+Q3332201,Flavelle Medal,False
+Q3517661,Canadian Medical Hall of Fame,False
+Q15278107,Companion of the Order of Canada,False
+Q15631401,Fellow of the Royal Society,False
+Q57082824,Honorary doctorate from University of Toronto,False
+Q62592341,Honorary doctor of the University of Ottawa,False
+Q112145770,,False
+Q445673,Order of Merit of Baden-Württemberg,False
+Q136567,Lasker-Koshland Special Achievement Award in Medical Science,False
+Q1543268,MacArthur Fellows Program,False
+Q2424864,Thomas Hunt Morgan Medal,False
+Q4649717,AAAS Award for Scientific Freedom and Responsibility,False
+Q14906020,Foreign Member of the Royal Society,False
+Q21659514,Leo Szilard Lectureship Award,False
+Q62061080,honorary doctorate from the McGill University,False
+Q63638576,Mendel Medal,False
+Q18560140,Bourke Award,False
+Q220842,Davy Medal,False
+Q449767,Alwin Mittasch Prize,False
+Q5442487,Fellow of the Royal Society of Chemistry,False
+Q18342538,Fellow of the Royal Academy of Engineering,False
+Q59772620,Fellow of the Learned Society of Wales,False
+Q610188,Kettering Prize,False
+Q6428295,Komen Brinker Award for Scientific Distinction,False
+Q18410199,Amory Prize,False
+Q56239664,honorary doctor of the University of Athens,False
+Q56297945,Fred Conrad Koch Award,False
+Q56509042,honorary doctor of the University of Hamburg,False
+Q826100,Priestley Medal,False
+Q901579,Irving Langmuir Award in Chemical Physics,False
+Q901607,Glenn T. Seaborg Medal,False
+Q15851109,Tolman Award,False
+Q30120085,King Faisal Prize in Science,False
+Q12177415,Knight Commander of the Order of St Michael and St George,False
+Q12177423,Knight Grand Cross of the Order of St Michael and St George,False
+Q14947473,Knight Commander of the Order of the Star of India,False
+Q14947476,Companion of the Order of the Star of India,False
+Q16006972,Knight Grand Commander of the Order of the Indian Empire,False
+Q16008267,Knight Commander of the Order of the Indian Empire,False
+Q16008317,Companion of the Order of the Indian Empire,False
+Q20006267,Fellow of the Royal Geographical Society,False
+Q25513903,Fellow of the Zoological Society of London,False
+Q1385301,Perkin Medal,False
+Q1632244,Welch Award in Chemistry,False
+Q1777741,ACS Award in Pure Chemistry,False
+Q25324505,William H. Nichols Medal,False
+Q59767813,Fellow of the American Institute for Medical and Biological Engineering,False
+Q188397,Heinrich Wieland Prize,False
+Q2083899,Pfizer Award in Enzyme Chemistry,False
+Q3405402,ASHG Lifetime Achievement Award,False
+Q7970020,Warren Alpert Foundation Prize,False
+Q110471679,honorary doctor of the University of Miami,False
+Q120717812,George M. Kober Medal,False
+Q126416289,honorary doctorate from University of Paris-XI,False
+Q756994,Darwin Medal,False
+Q833163,Knight Bachelor,False
+Q1158951,Dan David Prize,False
+Q1508409,George W. Beadle Award,False
+Q3320352,Princess of Asturias Award for Technical and Scientific Research,False
+Q7342519,Robert Burns Humanitarian Award,False
+Q7945315,W. Alden Spencer Award,False
+Q16947520,Companion of Honour,False
+Q22000992,Edinburgh Medal,False
+Q26268243,EMBO Membership,False
+Q29364864,Annual Review Prize Lecture,False
+Q42609895,Baly Medal,False
+Q28003,Copley Medal,False
+Q162873,72 names on the Eiffel Tower,False
+Q4710826,Albert Medal,False
+Q10855226,Grand Cross of the Legion of Honour,False
+Q1741617,Kimber Genetics Award,False
+Q1328817,Eli Lilly Award in Biological Chemistry,False
+Q2275356,Ariëns Kappers Medal,False
+Q50620568,honorary doctorate of the University of La Coruña,False
+Q126416222,honorary doctorate from the University of Paris-VII,False
+Q44585,Nobel Prize in Chemistry,True
+Q905656,NAS Award in Chemical Sciences,False
+Q1340199,Lomonosov Gold Medal,False
+Q2475932,Arthur C. Cope Award,False
+Q3332223,Kołos Medal,False
+Q3910565,Linus Pauling Award,False
+Q5676302,Harvard Centennial Medal,False
+Q6143927,James T. Grady-James H. Stack Award for Interpreting Chemistry,False
+Q15782922,American Chemical Society Award in Inorganic Chemistry,False
+Q15842139,Remsen Award,False
+Q18560142,Centenary Prize,False
+Q27966910,George C. Pimentel Award in Chemical Education,False
+Q38257102,honorary doctor of Royal Institute of Technology,False
+Q42303748,honorary doctor of the University of Rennes I,False
+Q61744405,Fellow of the American Chemical Society,False
+Q86752757,Marie Curie Medal,False
+Q18560176,Longstaff Prize,False
+Q18560178,Ludwig Mond Award,False
+Q50610972,honorary doctorate of the University of Granada,False
+Q10855195,Officer of the Legion of Honour,False
+Q10855271,Knight of the Legion of Honour,False
+Q136699,Lasker-Bloomberg Public Service Award,False
+Q1967852,National Women's Hall of Fame,False
+Q5161648,Connecticut Women's Hall of Fame,False
+Q6837811,Michigan Women's Hall of Fame,False
+Q18600746,Bayerische Verfassungsmedaille in silver,False
+Q185493,Order of Lenin,False
+Q208167,Hero of Socialist Labour,False
+Q478850,Order of the Red Banner of Labour,False
+Q728960,Order of the October Revolution,False
+Q16787467,Commander of the Order of Leopold II,False
+Q17461359,KNCV Gold Medal,False
+Q950604,Order of the Star of Romania,False
+Q105979196,honorary doctorate of Hasselt University,False
+Q5438598,Fellow of the Royal Society of Edinburgh,False
+Q1572080,Oliver E. Buckley Condensed Matter Prize,False
+Q1287930,Albert Einstein World Award of Science,False
+Q2246384,Schmiedeberg Plaque,False
+Q5119206,Novartis-Drew Award,False
+Q10905276,Commander's Cross of the Order of Merit of the Federal Republic of Germany,False
+Q29841295,Karl Heinz Beckurts Award,False
+Q29869884,Carl-Ludwig Honorary Medal,False
+Q29886440,Ernst Jung Prize for Medicine,False
+Q41966773,Honorary doctor of the Heidelberg University,False
+Q56509472,honorary doctorate of the University of Basel,False
+Q68674299,honorary doctor of the University of Munich,False
+Q1486336,Decoration for Art and Science (Austria-Hungary),False
+Q10519151,honorary member,False
+Q1069798,"Medal ""For the Defence of Moscow""",False
+Q1600457,"Medal ""For Valiant Labour in the Great Patriotic War 1941–1945""",False
+Q1980962,"""Hammer and Sickle"" gold medal",False
+Q2634074,"Medal ""In Commemoration of the 800th Anniversary of Moscow""",False
+Q56669015,"Stalin Prize, 2nd degree",False
+Q56669016,"Stalin Prize, 3rd degree",False
+Q20886648,Grand Cross of the Military Order of Saint James of the Sword,False
+Q59188764,Grand Cross of the Order of Public Instruction,False
+Q67155306,Grand Officer of the Order of Public Instruction,False
+Q1164466,Dannie Heineman Prize,False
+Q7095600,Oparin Medal,False
+Q20858371,Stanley Miller Medal,False
+Q18560214,Tilden Prize,False
+Q126416239,honorary doctor of Louis Pasteur University,False
+Q2248337,Commander of the Order of the Netherlands Lion,False
+Q88466601,honorary doctor of Comenius University,False
+Q535375,Leverhulme Medal,False
+Q1383983,Michael Faraday Prize,False
+Q5086793,Chartered Chemist,False
+Q6812094,Meldola Medal and Prize,False
+Q18560166,Interdisciplinary Prize,False
+Q18560177,Lord Lewis Prize,False
+Q18560185,Nyholm Prize for Education,False
+Q968876,Wolf Prize in Chemistry,False
+Q18560175,Liversidge Award,False
+Q26270762,doctor honoris causa from the Pierre and Marie Curie University,False
+Q898961,Corday-Morgan Prize,False
+Q5665453,Harrison-Meldola Memorial Prize,False
+Q18560180,Marlow Award,False
+Q5343341,Edward Harrison Memorial Prize,False
+Q24081884,Fellow of the Institute of Physics,False
+Q60686130,Moseley medal,False
+Q9684829,Officer of the Order of Australia,False
+Q59260322,Fellow of the Australian Academy of Science,False
+Q59771737,Fellow of the Australian Academy of Technology and Engineering,False
+Q2329480,Stalin Prize,False
+Q5412815,European Medal for Bio-Inorganic Chemistry,False
+Q107972231,Richard R. Ernst Prize,False
+Q15994975,Charles Goodyear Medal,False
+Q10458475,TWAS fellow,False
+Q30132492,Padma Shri in Science & Engineering,False
+Q16621672,Morosoli Award,False
+Q6458057,A. I. Virtanen Award,False
+Q23774382,Knight First Class of the Order of the White Rose of Finland,False
+Q1700684,Von Hippel Award,False
+Q13422138,Knight of the National Order of Merit,False
+Q59153507,Fellow of the Bangladesh Academy of Science,False
+Q59712568,Fellow of the Institution of Chemical Engineers,False
+Q1069189,Chemical Pioneer Award,False
+Q11415564,honorary doctorate,False
+Q26204035,Fellow of the Royal College of Physicians of London,False
+Q30337212,Fellow of the Royal College of Pathologists,False
+Q1996511,Garvan–Olin Medal,False
+Q56569416,Polanyi Medal,False
+Q17132005,Hoover Medal,False
+Q1336363,Emil Kirschbaum Medal,False
+Q19277923,Dechema Prize,False
+Q372007,Shanti Swarup Bhatnagar Prize for Science and Technology,False
+Q2158480,Robert Pfleger Research Award,False
+Q703205,Gottfried Wilhelm Leibniz Prize,False
+Q29981552,Clair C. Patterson Award,False
+Q66966543,Alfred E. Treibs Award,False
+Q5209824,Daiwa Adrian Prize,False
+Q20521021,Kidrič Prize,False
+Q253936,Fulbright Scholarship,False
+Q15811821,George A. Olah Award in Hydrocarbon or Petroleum Chemistry,False
+Q117458155,James Flack Norris Award in Physical Organic Chemistry,False
+Q6773236,Marsden Medal,False
+Q30456287,Fellow of the Royal Society Te Apārangi,False
+Q2175096,Ruhrpreis for Arts and Science,False
+Q15854432,Wilhelm-Klemm Prize,False
+Q31837964,Polymer Physics Prize,False
+Q56293779,ACS Award in Colloid Chemistry,False
+Q56240567,John H. Dillon Medal,False
+Q1256023,Ernest Guenther Award,False
+Q137915278,72 scientist women names on the Eiffel tower,False
+Q3607779,Alan T. Waterman Award,False
+Q56885473,National Fresenius Award,False
+Q56885512,F. Albert Cotton Award in Synthetic Inorganic Chemistry,False
+Q96249876,Sackler Prize for Chemistry,False
+Q113469875,Packard Fellowship for Science and Engineering,False
+Q126416259,honorary doctor of Paris Descartes University,False
+Q2393205,Centenary Medal,False
+Q9678710,Member of the Order of Australia,False
+Q5411214,Eureka Prizes,False
+Q57398745,Prime Minister's Prize for Innovation,False
+Q68084614,Liversidge Medal,False
+Q68085268,Le Fèvre Medal,False
+Q68096733,David Craig Medal and Lecture,False
+Q5150333,Colworth Medal,False
+Q28020499,Fellow of the Royal Society of Biology,False
+Q15715252,Commander of the Order of Polonia Restituta,False
+Q3113752,Grand prix Pierre-Süe,False
+Q3404822,Irène-Joliot-Curie Prize,False
+Q13422140,Officer of the National Order of Merit,False
+Q1907790,Massry Prize,False
+Q616568,Israel Prize,False
+Q25386857,Rothschild Prize,False
+Q5133020,Clifford Paterson Lecture,False
+Q6452191,Kyoto Prize in Advanced Technology,False
+Q902788,Willard Gibbs Award,False
+Q3332215,John Scott Award,False
+Q15972370,"Order of Saint Anna, 2nd class",False
+Q19344818,"Order of St. Vladimir, 3rd class",False
+Q21148960,"Order of St. Vladimir, 4th class",False
+Q10855216,Grand Officer of the Legion of Honour,False
+Q19689642,Knight Grand Cross of the Order of the Reunion,False
+Q17144,Presidential Medal of Freedom,False
+Q505132,Robert Koch Prize,False
+Q1590608,AMA Scientific Achievement Award,False
+Q1631920,Howard Taylor Ricketts Prize,False
+Q2172237,Rudolf-Diesel-Medaille,False
+Q29026864,Cameron Prize of the University of Edinburgh,False
+Q126416242,honorary doctor of Toulouse-III University,False
+Q1107771,Royal Society Bakerian Medal,False
+Q1192912,Croonian Medal and Lecture,False
+Q59772493,Honorary Fellow of the Royal Society of Edinburgh,False
+Q109595718,Royal Society Bakerian Medal,False
+Q17291441,Othmer Gold Medal,False
+Q23055176,Winthrop-Sears Medal,False
+Q28502289,Mendel Medal,False
+Q52413759,AACR Award for Lifetime Achievement in Cancer Research,False
+Q24591090,Fellow of the Linnean Society of London,False
+Q41541577,Fellow of the Society of Antiquaries of Scotland,False
+Q96233293,honorary doctor of the University of Calcutta,False
+Q10855212,Commander of the Legion of Honour,False
+Q134613391,"honorary member of the Physics Association (Frankfurt am Main, Germany)",False
+Q15972369,"Order of Saint Anna, 1st class",False
+Q19908374,Lomonosov Prize,False
+Q163700,Legion of Honour,False
+Q844872,Hughes Medal,False
+Q285167,Rumford Medal,False
+Q112457,Order of Saint Stanislaus,False
+Q758861,USSR State Prize,False
+Q4375595,honorary citizen of Crimea,False
+Q15972371,"Order of Saint Anna, 3rd class",False
+Q18084455,"Order of Saint Stanislaus, 2nd class",False
+Q56669004,"State Stalin Prize, 1st degree",False
+Q1323284,Fukuoka Asian Culture Prize,False
+Q1506778,George Sarton Medal,False
+Q1688445,Prix Stanislas Julien,False
+Q3910493,Dexter Award,False
+Q17101942,John Desmond Bernal Prize,False
+Q27988727,Fellow of the British Academy,False
+Q63072128,honorary doctor of the University of Hong Kong,False
+Q63091774,honorary doctor of the Chinese Academy of Social Sciences,False
+Q63101620,honorary doctor of the Chinese University of Hong Kong,False
+Q4564349,Decoration of the Cross of Honour of the Dannebrog,False
+Q28100916,Knight Grand Officer of the Order of the Dannebrog,False
+Q57394994,honorary doctor of the Technical University of Denmark,False
+Q61106806,honorary doctorate of the University of Oslo,False
+Q66881732,honorary doctorate of Lund University,False
+Q93578093,honorary doctor of the University of Bordeaux,False
+Q113452529,Medal of Merit in Gold,False
+Q126418747,doctor honoris causa from the University of Paris,False
+Q134540050,H. C. Ørsted Gold Medal,False
+Q1332315,Elliott Cresson Medal,False
+Q58777369,Finsen Medal,False
+Q125812138,Charles F. Kettering Award,False
+Q126416233,honorary doctorate from University of Bordeaux-II,False
+Q1912039,Max Planck Research Award,False
+Q3332287,CNRS silver medal,False
+Q1366018,National Inventors Hall of Fame,False
+Q21843362,Edward Longstreth Medal,False
+Q42307030,honorary doctor of the Ohio State University,False
+Q1307788,Marcel Benoist Prize,False
+Q78756071,Torbern Bergman Medal,False
+Q1492769,Galvanism Prize,False
+Q1551843,Order of Saints Cyril and Methodius Equal-to-apostles,False
+Q117353804,honorary member of the German Mineralogical Society,False
+Q126416218,honorary doctor of the University of Provence - Aix-Marseille I,False
+Q19597849,Melchett Medal,False
+Q19877225,AAAS Award for Science Diplomacy,False
+Q4377121,A. Butlerov Prize,False
+Q6502783,Lavoisier Medal,False
+Q19344746,"Order of Saint Stanislaus, 1st class",False
+Q21148942,"Order of St. Vladimir, 2nd class",False
+Q42304660,honorary doctorate from the University of Strasbourg,False
+Q68659268,honorary doctor of the Northwestern University,False
+Q105446393,Berthelot medal,False
+Q61663688,Fellow of the American Geophysical Union,False
+Q782022,Kalinga Prize,False
+Q94036,Honorary Order of the Yellow Star,False
+Q1783222,Order of the Nile,False
+Q2032408,Shohrat Order,False
+Q2399188,National Order of the Lion of Senegal,False
+Q3885164,Supreme Order of the Renaissance,False
+Q16683303,Order of Ismoili Somoni,False
+Q20570767,Order of Sheikh-ul-Islam,False
+Q25395423,Ordre des Palmes Academiques du Niger,False
+Q41695835,honorary doctor of the Moscow State Institute of International Relations,False
+Q57446605,honorary doctor of the University of Padua,False
+Q59560494,honorary doctor of Sofia University,False
+Q68442370,Alexandre Koyré Medal,False
+Q104767284,honorary doctor of the University of Exeter,False
+Q1496528,Gay-Lussac-Humboldt-Prize,False
+Q2038021,Otto Wallach Plaque,False
+Q3404878,Jecker Prize,False
+Q907169,Peter Debye Award in Physical Chemistry,False
+Q15782925,ACS Award in Theoretical Chemistry,False
+Q25138330,Schrödinger Medal,False
+Q63092006,honorary doctor of the Beijing Institute of Technology,False
+Q24590727,Fellow of the Geological Society of London,False
+Q18204187,Officier de l'Instruction publique,False
+Q1511763,Gerhard Herzberg Canada Gold Medal for Science and Engineering,False
+Q3404320,Alfred Bader Award,False
+Q3405354,Acfas Urgel-Archambeault Award,False
+Q6101413,Killam Prize,False
+Q14539729,Commander of the Order of Merit of the Italian Republic,False
+Q15278116,Officer of the Order of Canada,False
+Q56605823,Chemical Institute of Canada Medal,False
+Q56607543,LeSueur Memorial Award,False
+Q900321,Gregori Aminoff Prize,False
+Q15646830,Officer of the Order of Orange-Nassau,False
+Q1356190,Ernest Orlando Lawrence Award,False
+Q4377042,Gerard P. Kuiper Prize,False
+Q6128801,Leonard Medal,False
+Q17091138,NASA Exceptional Scientific Achievement Medal,False
+Q41578548,Fellow of the Royal Institute of Chemistry,False
+Q5740213,Herman Skolnik Award,False
+Q63872451,Ivan Peychès Prize,False
+Q21089122,general price Muteau,False
+Q51527076,honorary doctorate at the Laval University,False
+Q99670094,honorary doctor of Bowdoin College,False
+Q3113718,Grand Prix  Achille-Le-Bel,False
+Q3332320,CNRS bronze medal,False
+Q56324978,Langlois prize,False
+Q3003646,Croix du combattant volontaire de la Résistance,False
+Q13422141,Commander of the National Order of Merit,False
+Q14637188,Commander of the French Order of Academic Palms,False
+Q60824489,honorary doctor of the University of Neuchâtel,False
+Q125151689,honorary doctorate of the Łódź University of Technology,False
+Q166072,Francqui Prize,False
+Q5230623,David Adler Lectureship Award in the Field of Materials Physics,False
+Q23055155,Olin Palladium Award,False
+Q28496163,Prix de l'Etat,False
+Q1663633,Prelog Medal and Lecture,False
+Q13422142,Grand Officer of the National Order of Merit,False
+Q55339172,"Order of the Rising Sun, Gold and Silver Star",False
+Q908745,Japan Prize,False
+Q1063447,Charles Stark Draper Prize,False
+Q1210165,Dickson Prize in Science,False
+Q15781180,ACS Award in Polymer Chemistry,False
+Q31836463,Herman Mark Award in Polymer Chemistry,False
+Q126373749,honorary doctorate of Claude Bernard University Lyon 1,False
+Q209896,honorary degree,False
+Q48741142,Gunning Victoria Jubilee Prize,False
+Q56294522,ACS Award for Creative Invention,False
+Q15303658,Scheele Award,False
+Q670473,Resistance Medal,False
+Q3324507,mort pour la France,False
+Q3161078,James Flack Norris Award for Outstanding Achievement in the Teaching of Chemistry,False
+Q15278101,Member of the Order of Canada,False
+Q30212138,Robert B. Balles Prize in Critical Thinking,False
+Q61745062,Fellow of the Committee for Skeptical Inquiry,False
+Q112134244,honorary doctor of the University of Poitiers,False
+Q126416220,honorary doctorate from the University of Nice-Sophia Antipolis,False
+Q13501094,Knight Commander of the Order of St. Gregory the Great,False
+Q615585,Holweck Prize,False
+Q12201434,Dame Commander of the Order of the British Empire,False
+Q69797486,Erna Hamburger Prize,False
+Q96603354,honorary degree of the University of Leeds,False
+Q124175112,Sam Edwards Medal and Prize,False
+Q2547676,Croix de guerre 1939–1945,False
+Q3405022,Prix Marie-Victorin,False
+Q194099,Feynman Prize in Nanotechnology,False
+Q873412,Humboldt Prize,False
+Q1131142,Spinoza Prize,False
+Q6453962,Körber European Science Prize,False
+Q15116950,August Wilhelm von Hofmann Medal,False
+Q18560188,Organic Stereochemistry Award,False
+Q21061286,Tetrahedron Prize,False
+Q24321806,Paracelsus Prize,False
+Q28000456,Cino Del Duca Science Prize,False
+Q30686552,Chirality Medal,False
+Q50620312,honorary doctorate of the University of Santiago de Compostela,False
+Q61761454,honorary doctorate of Slovak University of Technology in Bratislava,False
+Q97184598,Ernest Solvay Prize,False
+Q2204509,European Inventor Award,False
+Q3332330,CNRS innovation medal,False
+Q18043370,Descartes-Huygens Prize,False
+Q3404993,Léo-Pariseau Prize,False
+Q120737049,honorary doctor of Caen University,False
+Q24081923,Fellow of the Academy of Medical Sciences,False
+Q27888577,John Maddox Prize,False
+Q992455,Molson Prize,False
+Q3404998,Prix Léon-Gérin,False
+Q15464524,Officer of the National Order of Quebec,False
+Q22117474,Huxley Memorial Medal,False
+Q23034946,president of the French Academy of Sciences,False
+Q12201526,Member of the Order of the British Empire,False
+Q27839491,Associate of the Royal Red Cross,False
+Q56294519,ACS Award for Computers in Chemical and Pharmaceutical Research,False
+Q895417,Bower Award and Prize for Achievement in Science,False
+Q14637182,Knight of the French Order of Academic Palms,False
+Q937629,National Medal of Technology and Innovation,False
+Q1335064,Military Cross,False
+Q126415081,honorary doctor of the University of Toulouse,False
+Q15715251,Officer of the Order of Polonia Restituta,False
+Q3405012,Marcel-Piché Prize,False
+Q15463524,Knight of the National Order of Quebec,False
+Q17019057,Women of Distinction Awards,False
+Q111143897,honorary doctorate at École Normale Supérieure de Lyon,False
+Q126728033,honorary doctorate of University Grenoble-Alpes,False
+Q1287727,Carlos J. Finlay UNESCO Prize for Microbiology,False
+Q6008338,Medalla de Honor al Fomento de la Invención,False
+Q6008386,Medal of Work Merit,False
+Q6008390,Medal of Merit in Research and University Education,False
+Q6084732,National Research Prize Santiago Ramon y Cajal,False
+Q20884576,Grand Cross of the Civil Order of Alfonso X the Wise,False
+Q22019538,honorary doctorate of the University of Cadiz,False
+Q22696814,Premio México de Ciencia y Tecnología,False
+Q28534251,Premio Prismas,False
+Q28798225,honorary doctorate of the University Polytechnic of Madrid,False
+Q36640258,King James I Prize for Research,False
+Q43096299,gold Medal of the Community of Madrid,False
+Q43431094,Echegaray Medal,False
+Q47035798,honorary doctor of the Autonomous University of Barcelona,False
+Q50611286,honorary doctorate of the University of Malaga,False
+Q50612028,honorary doctorate of the University of Caen (France),False
+Q50613260,honorary doctorate of the University of Oviedo,False
+Q50615406,honorary doctorate of the Pontifical University of Salamanca,False
+Q50615715,honorary doctorate of the University of Burgos,False
+Q50620191,honorary doctorate of the University of Extremadura,False
+Q50621397,honorary doctorate of the International University Menendez Pelayo,False
+Q50621774,honorary doctorate of the National University of Distance Education,False
+Q50622024,honorary doctorate of Carlos III University,False
+Q50625368,honorary doctorate of King Juan Carlos University,False
+Q50625921,honorary doctorate of the University of Murcia,False
+Q60177115,Spanish National Team of Science,False
+Q5326607,Early Career Life Scientist Award,False
+Q15811193,Gabbay Award,False
+Q111734,IEEE Fellow,False
+Q59767676,Fellow of the International Federation of Automatic Control,False
+Q47892460,Inserm honor price,False
+Q627147,Lalande Prize,False
+Q753072,Gold Medal of the Royal Astronomical Society,False
+Q15056034,Pour le Mérite for Sciences and Arts order,False
+Q38104,Nobel Prize in Physics,True
+Q1419938,Matteucci Medal,False
+Q3910698,Vallauri Prize,False
+Q24954950,Great Gold medal of the Société d'Encouragement au Progrès,False
+Q30727734,La Caze Prize of the Academy of Sciences,False
+Q56259977,Jean Reynaud Prize,False
+Q110929260,,False
+Q241344,German Environmental Prize,False
+Q1892257,Tyler Prize for Environmental Achievement,False
+Q7941307,Volvo Environment Prize,False
+Q10905235,Knight Commander's Cross of the Order of Merit of the Federal Republic of Germany,False
+Q20853537,Honorary doctor of the Catholic University of Louvain,False
+Q23700921,Honorary doctor of the University of Liège,False
+Q28854612,Humboldt Research Fellowship,False
+Q42310166,honorary doctor of Tel Aviv University,False
+Q96781938,honorary doctor of Ca' Foscari University of Venice,False
+Q117250955,honorary doctorate of University of Burgundy,False
+Q126416278,honorary doctorate from Joseph Fourier University,False
+Q15782921,"ACS Award for Creative Work in Synthetic Organic Chemistry,",False
+Q15842831,Roger Adams Award in Organic Chemistry,False
+Q782788,Australian of the Year,False
+Q4554830,1851 Research Fellowship,False
+Q42736999,Flintoff medal,False
+Q56419654,Portland Press Excellence in Science Award,False
+Q3141777,Franklin Medal,False
+Q18560196,Robert Robinson Award,False
+Q18560200,Sir Derek Barton Gold medal,False
+Q34342994,honorary doctor of the University of Alicante,False
+Q1562531,Dr H.P. Heineken Prize for Biochemistry and Biophysics,False
+Q5282987,Distinguished Eagle Scout Award,False
+Q7017608,Newcomb Cleveland Prize,False
+Q61636373,Fellow of the AACR Academy,False
+Q94056,Order of Merit,False
+Q700368,Wilhelm Exner Medal,False
+Q1204346,Rhodes Scholarship,False
+Q1528088,Lister Medal,False
+Q105339055,Honorary Fellow of the Royal College of Surgeons,False
+Q126415845,doctor honoris causa from the University of Lyon,False
+Q20853466,Commander of the Cross of the Order of Merit of the Republic of Poland,False
+Q20853550,honorary doctor of the Jagiellonian University of Krakow,False
+Q50621171,honorary doctor of the University of Madrid Complutense,False
+Q50621866,honorary doctorate of the University of Alcala,False
+Q832424,Wollaston Medal,False
+Q1634098,Murchison Medal,False
+Q2580812,Prestwich Medal,False
+Q105812880,honorary doctor of Amherst College,False
+Q1646443,Ralph W. Gerard Prize,False
+Q15464509,Grand Officer of the National Order of Quebec,False
+Q17149573,Karl Spencer Lashley Award,False
+Q124838901,F.N.G. Starr Award,False
+Q126648311,doctor honoris causa from the University of Aix-Marseille,False
+Q329157,Princess of Asturias Awards,False
+Q530124,Order of Culture,False
+Q628457,Balzan Prize,False
+Q720434,Asahi Prize,False
+Q1350431,Nishina Memorial Prize,False
+Q2545449,Person of Cultural Merit,False
+Q4389487,Imperial Prize of Japan Academy,False
+Q6130765,James C. McGroddy Prize for New Materials,False
+Q18889779,Kavli Prize in Nanoscience,False
+Q28368757,Carbon Medal,False
+Q99980667,honorary doctor of the University of Antwerp,False
+Q6952555,William O. Baker Award for Initiatives in Research,False
+Q7761923,Ryoji Noyori Prize,False
+Q28456505,NIH MERIT award,False
+Q107299278,Camille Dreyfus Teacher-Scholar Awards,False
+Q20204999,Four Freedoms Award – Freedom from Fear,False
+Q760639,August-Kekulé Medal,False
+Q449353,National Prize of East Germany,False
+Q514659,Banner of Labor,False
+Q583881,Order of Friendship of Peoples,False
+Q694401,Order of Karl Marx,False
+Q1614821,Hervorragender Wissenschaftler des Volkes,False
+Q61014793,"honorary citizen of Teltow, Germany",False
+Q17484040,Order of the Red Eagle 3rd Class,False
+Q43900491,Bessemer Gold Medal,False
+Q931545,Enrico Fermi Award,False
+Q1557678,Otto Warburg Medal,False
+Q845333,Wolf Prize in Physics,False
+Q891656,Boltzmann Medal,False
+Q1522873,Josiah Willard Gibbs Lectureship,False
+Q1806156,Lars Onsager Prize,False
+Q1959812,NAS Award for Scientific Reviewing,False
+Q6085042,BBVA Foundation Frontiers of Knowledge Award,False
+Q7094531,Onsager Medal,False
+Q7331107,Richtmyer Memorial Lecture Award,False
+Q56293611,Joel Henry Hildebrand Award,False
+Q61576125,Guthrie Medal and Prize,False
+Q2607382,Roebling Medal,False
+Q2110577,Prince Mahidol Award,False
+Q2578215,William C. Rose Award,False
+Q917808,Academy Award for Best Animated Short Film,False
+Q1036432,Carl Duisberg Memorial Award,False
+Q27973268,Erich Hückel Award,False
+Q1988615,Lower Saxony State Prize,False
+Q10905334,Officer's Cross of the Order of Merit of the Federal Republic of Germany,False
+Q115779497,Cross of Merit on Ribbon of the Lower Saxony Order of Merit,False
+Q97461163,honorary doctor of the Christian Albrechts University of Kiel,False
+Q136534150,Poulsson Prize,False
+Q6234290,John Fritz Medal,False
+Q15806980,E. V. Murphree Award in Industrial and Engineering Chemistry,False
+Q3046356,Eagle Scout,False
+Q5326446,Earle K. Plyler Prize,False
+Q7072982,Fellow of the Optical Society,False
+Q63949553,honorary doctor of the Aix-Marseille University,False
+Q708262,Arthur L. Day Prize and Lectureship,False
+Q1195902,V. M. Goldschmidt Award,False
+Q1780740,William Bowie Medal,False
+Q2582970,Arthur L. Day Medal,False
+Q3332183,Arthur Holmes Medal,False
+Q9031006,J. Lawrence Smith Medal,False
+Q21051209,Harry H. Hess Medal,False
+Q57233027,Crafoord Prize in Geosciences,False
+Q63072267,honorary doctor of the University of Chicago,False
+Q68672330,honorary doctor of the University of Turin,False
+Q21635757,FF Busse Award,False
+Q21877347,Golden Laurel of the Polish Academy of Literature,False
+Q1770225,etatsråd,False
+Q3480726,,False
+Q18601713,commander of the Order of the Dannebrog,False
+Q116985602,The Royal Danish Academy Silver Medal,False
+Q47998788,Prize for Health Research,False
+Q110632,John J. Abel Award,False
+Q918979,William B. Coley Award,False
+Q2268592,Selman A. Waksman Award in Microbiology,False
+Q56289447,Novartis Prize for Basic Immunology,False
+Q13452528,Chevalier des Arts et des Lettres,False
+Q23300723,"Order of the White Star, 3rd Class",False
+Q20155647,Aston Medal,False
+Q16550275,Gratias Agit,False
+Q34476636,honorary doctor of the University of Vienna,False
+Q97556388,Honorary doctor of Leiden University,False
+Q1099860,Clemens Winkler Medal For Analytical Chemistry,False
+Q916276,Kalckhoff Medal,False
+Q1090076,Lindenberg Medal,False
+Q1555550,Hans Wagner Medal,False
+Q3440394,Roll of Distinguished Philatelists,False
+Q130267450,Kobold Medal,False
+Q132399667,Hanover Medal in Silver,False
+Q629393,Order of Franz Joseph,False
+Q537286,German Future Prize,False
+Q278739,Order of the Crown of Romania,False
+Q4335985,Order of Labour,False
+Q12726017,Commemorative Cross of the 1916–1918 War,False
+Q5873865,Ho-Am Prize in Science,False
+Q19483802,Korea Science Award,False
+Q95680171,TWAS Prize for Chemistry,False
+Q55733626,Inchon Award,False
+Q104855466,Young Scientist Award,False
+Q123511141,POSCO TJ Park Prize,False
+Q123982389,Songgok Science and Technology Award,False
+Q6973758,National Institutes of Health Director's Pioneer Award,False
+Q18198971,Wikipedia:WikiOwl,False
+Q96372793,Australian Laureate Fellowship,False
+Q18757335,"Fridtjof Nansen Award of Excellence, Mathematics-Natural sciences class",False
+Q63091803,honorary doctor of the Shanghai Jiao Tong University,False
+Q3132815,National Order of Scientific Merit,False
+Q1635542,Linnean Medal,False
+Q932650,Padma Bhushan,False
+Q19894899,Om Prakash Bhasin Award,False
+Q69092328,Fellow of the Nigerian Academy of Science,False
+Q1588758,Paul Martini Prize,False
+Q2571565,Wilhelm Vaillant Prize,False
+Q141992994,CRSI Bronze Medal,False
+Q2133818,Edward Medal,False
+Q10762848,Officer of the Order of the British Empire,False
+Q84020,Order of the White Eagle,False
+Q4677703,Actonian Prize,False
+Q4888659,Benjamin Franklin Medal,False
+Q46636944,prix Gegner,False
+Q125121451,Honorary Fellow of the Royal Society Te Apārangi,False
+Q4650822,ACS Award for Encouraging Women into Careers in the Chemical Sciences,False
+Q8000166,Wilbur Cross Medal,False
+Q21715442,Laura R. Leonard Prize,False
+Q62268700,Miyake Prize,False
+Q62268739,Tanka Prize,False
+Q3295036,Vannevar Bush Award,False
+Q4693035,Agnes Fay Morgan Research Award,False
+Q4811818,NAS Public Welfare Medal,False
+Q19877229,Philip Hauge Abelson Prize,False
+Q47508225,Presidential Rank Award of Distinguished Executive,False
+Q47508295,Viktor Hamburger Outstanding Educator Prize,False
+Q1136626,Cothenius Medal,False
+Q567492,Liebig Medal,False
+Q637399,Kossuth Prize,False
+Q1162159,State Award of the People's Republic of Hungary,False
+Q876062,Adlerschild des Deutschen Reiches,False
+Q1585689,Harnack medal,False
+Q29869512,Bunsen Medal,False
+Q156478,Pour le Mérite,False
+Q5676698,Harveian Oration,False
+Q12201378,Knight Grand Cross of the Order of the British Empire,False
+Q17200423,Grand Cross of the Order of the Crown,False
+Q17521493,Banting Medal,False
+Q59505670,honorary doctorate of the University of Graz,False
+Q1152913,DECHEMA Medal,False
+Q1335744,Emil Fischer Medal,False
+Q1396769,Goethe Medal for Art and Science,False
+Q1455666,Fresenius Prize,False
+Q323413,Stern–Gerlach Medal,False
+Q634067,Hessian Order of Merit,False
+Q678979,Max Born Prize,False
+Q2757765,Lise Meitner Prize,False
+Q15821143,Johann Heinrich Merck Honour,False
+Q154554,Iron Cross,False
+Q6356993,Kamerlingh Onnes Award,False
+Q61577006,Guthrie Lecture,False
+Q690732,Lieben Prize,False
+Q950017,Gustav Hertz Prize,False
+Q1514918,Rontgen-Preis,False
+Q19343195,Otto-Hahn Prize of the City of Frankfurt am Main,False
+Q672787,Bavarian Order of Merit,False
+Q360626,Adolf-von-Baeyer Gold Medal,False
+Q879351,Werner von Siemens Ring,False
+Q15116837,Hermann Staudinger Prize,False
+Q28498641,Carl Duisberg Plaque,False
+Q60991786,100 Outstanding Private Entrepreneurs in the 40 Years of Reform and Opening-up,False
+Q51067,Lenin Prize,False
+Q695106,Order of the Red Star,False
+Q1960603,Kurchatov Medal,False
+Q4193249,D. I. Mendeleyev Gold Medal,False
+Q4286735,"Jubilee Medal ""50 Years of the Mongolian People's Revolution""",False
+Q4287149,Medal of Friendship,False
+Q4287153,Friendship Medal,False
+Q4335888,Order of Cyril and Methodius,False
+Q18080149,"Order of the Patriotic War, 1st class",False
+Q18200478,"Order of the Patriotic War, 2nd class",False
+Q99951011,International Space Hall of Fame,False
+Q608197,Sterling Professor,False
+Q2129590,Ralph F. Hirschmann Award in Peptide Chemistry,False
+Q2978113,Claude S. Hudson Award in Carbohydrate Chemistry,False
+Q31836935,F. A. Cotton Medal,False
+Q56230591,Bristol-Myers Squibb Award for Distinguished Achievement in Synthetic Organic Chemistry Research,False
+Q69420858,honorary doctor of Yeshiva University,False
+Q3405071,Microsoft Award,False
+Q16335182,ISCB Senior Scientist Award,False
+Q7241478,Presidential Young Investigator Award,False
+Q85746978,Biemann Medal,False
+Q18560137,Beilby Medal and Prize,False
+Q56532757,Geoffrey Barker Medal,False
+Q6513893,St. Olav's Medal With Oak Branch,False
+Q2671505,Order of the People's Liberation,False
+Q2671523,Order of the Hero of Socialist Labour,False
+Q2671871,Order of Brotherhood and Unity,False
+Q2671901,"Order ""For Merit to the People""",False
+Q18084456,"Order of Saint Stanislaus, 3rd class",False
+Q12177470,Knight Commander of the Order of the Bath,False
+Q1745238,R. W. Wood Prize,False
+Q42794562,"Order of Tomáš Garrigue Masaryk, 3rd class",False
+Q60130697,honorary citizen of Prague,False
+Q1912401,Max Delbrück Prize in Biological Physics,False
+Q129661,Rutherford Medal,False
+Q5696835,Hector Medal,False
+Q104451522,James Cook Research Fellowship,False
+Q117188412,Dan Walls Medal,False
+Q140995202,Fukui medal,False
+Q15782923,American Chemical Society Award in Organometallic Chemistry,False
+Q165558,Knight's Cross of the Iron Cross,False
+Q17412908,German Cross in Gold,False
+Q134391157,Benedetti–Pichler award,False
+Q1457688,,False
+Q2760808,Logan Medal,False
+Q64756748,honorary doctorate of the Masaryk University,False
+Q126617182,doctor honoris causa from the University of Nancy,False
+Q4888612,Benjamin Franklin Award,False
+Q23807736,ISCB Fellow,False
+Q124708823,Fellow of the American College of Medical Informatics,False
+Q63675767,honorary doctor of the University of Paris-Est-Marne-la-Vallée,False
+Q107601967,Jacob F. Schoellkopf Medal,False
+Q126416221,honorary doctorate of the Henri Poincaré University,False
+Q106690287,North Carolina Award for Science,False
+Q6867862,Minkowski Prize,False
+Q104628072,Fellow of the New Zealand Institute of Chemistry,False
+Q48893537,Alfred Burger Award,False
+Q6976776,Michael Bruno Memorial Award,False
+Q9384263,Academician of the Chinese Academy of Sciences,False
+Q63065713,HLHL Science and Technology Achievement Award,False
+Q3332189,Bingham Medal,False
+Q15094090,Robert Boyle Prize for Analytical Science,False
+Q48893529,ACS Award in Analytical Chemistry,False
+Q127867410,Man of Reconciliation,False
+Q3633192,Maharashtra Bhushan Award,False
+Q5636299,H K Firodia awards,False
+Q17053191,G.D. Birla Award for Scientific Research,False
+Q30147268,Padma Vibhushan in Science & Engineering,False
+Q30197118,Padma Bhushan in Science & Engineering,False
+Q140809982,TWAS-Lenovo Science Prize,False
+Q30168724,honorary doctor of the Katholieke Universiteit Leuven,False
+Q59767038,Fellow of the Biomedical Engineering Society,False
+Q17521957,Chemical Industry Medal,False
+Q6934163,Mullard Award,False
+Q18357228,Beckman Young Investigators Award,False
+Q7444292,Secretary of Defense Exceptional Civilian Service Award,False
+Q127356498,Los Alamos National Laboratory Distinguished Performance Award,False
+Q8033214,The Institute for Citizens & Scholars,False
+Q1596363,Heinrich Emanuel Merck Award For Analytical Science,False
+Q57233813,MRS Medal Award,False
+Q63208574,Fellow of the African Academy of Sciences,False
+Q33177437,Vilcek Prize for Creative Promise,False
+Q72859645,Associate Fellow of the African Academy of Sciences,False
+Q56513650,honorary citizen of Szeged,False
+Q5700571,Heinz Award,False
+Q17365974,Grand Cross of the Order of Isabella the Catholic,False
+Q10430643,Björkén Prize,False
+Q1994574,Faraday Lectureship Prize,False
+Q577432,Albert Einstein Award,False
+Q28663097,Golden Plate Award,False
+Q6516542,Leeuwenhoek Lecture,False
+Q7515378,Silliman Memorial Lectures,False
+Q15279702,Order of Mapungubwe in Gold,False
+Q124376857,Honorary member of the British Biophysical Society,False
+Q818600,Order of the Rising Sun,False
+Q1301832,Széchenyi Prize,False
+Q16131406,The Eric and Sheila Samson Prime Minister's Prize for Innovation in Alternative Fuels for Transportation,False
+Q56479277,honorary citizen of Budapest,False
+Q126416266,honorary doctorate from University of Montpellier-II,False
+Q107473961,honorary doctor of Heriot-Watt University,False
+Q1143433,James Craig Watson Medal,False
+Q1711648,Prix Jules Janssen,False
+Q1730176,Karl Schwarzschild Medal,False
+Q2080569,Petrie Prize Lecture,False
+Q2613401,Akademiehoogleraren Prize,False
+Q6761225,Maria Goeppert-Mayer Award,False
+Q7031462,Niels Bohr International Gold Medal,False
+Q18889778,Kavli Prize in Astrophysics,False
+Q28976321,Pastoor Schmeitsprijs,False
+Q96378755,Fritz Zwicky Prize for Astrophysics and Cosmology,False
+Q2075591,H. M. The King's Medal,False
+Q30120368,Prix International de l’INSERM,False
+Q42559576,honorary doctor of the University of Gothenburg,False
+Q317172,Otto Hahn Prize,False
+Q1317104,Otto Bayer Award,False
+Q1339919,Ernst Hellmut Vits Award,False
+Q1412480,Karl Ziegler Prize,False
+Q18412678,Inhoffen-Medaille,False
+Q137863480,Nagoya Gold Medal,False
+Q1335764,Emil-von-Behring-Prize,False
+Q15119005,Robert Koch Gold Medal,False
+Q96868584,honorary doctor of the University of Ferrara,False
+Q565030,Bavarian Maximilian Order for Science and Art,False
+Q10905380,Cross of the Order of Merit of the Federal Republic of Germany,False
+Q27926786,Heinz Maier Leibnitz Medal,False
+Q323396,Alfred Stock Memorial Prize,False
+Q112557130,,False
+Q19694514,Officer of the New Zealand Order of Merit,False
+Q131837509,honorary doctor of Lincoln University,False
+Q26196499,Fellow of the Society of Antiquaries,False
+Q18560150,De Gennes Prize,False
+Q1459678,Alfred Wegener Medal,False
+Q2541739,Waldo E. Smith Award,False
+Q20858196,Patterson-Crane Award,False
+Q50194524,Klaus Schwarz Commemorative Medal,False
+Q60141383,Jefferson Science Fellow,False
+Q4187996,Honoured Science Worker of the Russian Federation,False
+Q4375600,Honoured Worker of Higher Professional Education of the Russian Federation,False
+Q7313340,Rennie Memorial Medal,False
+Q612907,Order of Alexander Nevsky,False
+Q791135,Order of Friendship,False
+Q2268261,Order of Honour,False
+Q19910782,Mikhail Lomonosov Award,False
+Q6084667,Premio Nacional de Ciencias Naturales,False
+Q1957671,CNRS Gold medal,False
+Q5323706,ENI award,False
+Q59773145,Fellow of the Chemical Society,False
+Q1818405,Knight of the Order of the Netherlands Lion,False
+Q708269,Arthur L. Schawlow Prize in Laser Science,False
+Q3910497,E. Bright Wilson Award in Spectroscopy,False
+Q5365969,Ellis R. Lippincott Award,False
+Q8021013,William F. Meggers Award,False
+Q56876590,Ahmed Zewail Award,False
+Q136696,Lasker-DeBakey Clinical Medical Research Award,False
+Q1732108,Karl Landsteiner Memorial Award,False
+Q7241124,President's Certificate of Merit,False
+Q18560159,Hickinbottom Award,False
+Q18560191,Perkin Prize for Organic Chemistry,False
+Q61745623,Fellow of the American Institute of Chemical Engineers,False
+Q61744931,Fellow of the Geological Society of America,False
+Q10680486,Stockholm Water Prize,False
+Q62505651,honorary doctor of ETH Zürich,False
+Q48893531,Marks-Ipatieff Award in Catalysis,False
+Q5086851,Chartered Scientist,False
+Q6582199,Rappaport Prize,False
+Q7731313,"The EMET Prize for Art, Science and Culture",False
+Q110904365,,False
+Q58272034,Elias James Corey Award,False
+Q109598510,Mukaiyama Award,False
+Q28403496,Bisset Hawkins Medal,False
+Q94985119,Makdougall Brisbane Prize,False
+Q4397936,Russian Academy of Natural Sciences,False
+Q23774380,Commander of the Order of the White Rose of Finland,False
+Q19833528,Kavli Education Medal,False
+Q195552,Keith Medal,False
+Q7900442,H. C. Urey Award,False
+Q30226280,Goyal Prize,False
+Q95681503,TWAS Prize for Medical Sciences,False
+Q59771619,Fellow of the Australian Academy of Health and Medical Sciences,False
+Q17775155,,False
+Q18759577,The Norwegian Chemical Society Guldberg-Waage Medal,False
+Q1402356,Feldberg Foundation Prize,False
+Q18889781,Kavli Prize in Neuroscience,False
+Q30123933,Bristol-Myers Squibb Award for Distinguished Achievement in Neuroscience Research,False
+Q318770,Order of Merit of North Rhine-Westphalia,False
+Q17481324,Patriotic Order of Merit in Gold,False
+Q883845,Wehrwirtschaftsführer,False
+Q1379827,Schiller Prize of the City of Mannheim,False
+Q115687447,Theodor Heuss Medal,False
+Q19353807,Otto Hahn Prize for Chemistry and Physics,False
+Q1525629,Lautenschläger Research Prize,False
+Q1395117,Hansen Family Prize,False
+Q1554462,Philip Morris Research Prize,False
+Q29842705,Breuer Award,False
+Q551250,Lemelson–MIT Prize,False
+Q17149490,Biotechnology Heritage Award,False
+Q21662156,James Madison Medal,False
+Q514976,Star of People's Friendship,False
+Q108172311,Sahitya Akademi Award in Urdu,False
+Q12201445,Knight Commander of the Order of the British Empire,False
+Q1282608,Three Physicists Prize,False
+Q13422143,Grand Cross of the National Order of Merit,False
+Q21055518,Prize Louis Ancel,False
+Q38040410,honorary doctor of the University of Uppsala,False
+Q41795590,honorary doctorate from Columbia University,False
+Q106153901,Oesper Award,False
+Q97614039,Narcís Monturiol Medal,False
+Q123301136,IEEE Jack A. Morton Award,False
+Q104417533,Commander of the Friedrich Order,False
+Q14865239,Knight of the Order of the Crown of Italy,False
+Q100296857,,False
+Q55497032,Knight Grand Cross of the Iron Crown (Austria),False
+Q75202229,"Cross of Liberty, 1st Class",False
+Q99659751,1st Class Order of the Crown,False
+Q140668176,"Iron Cross (1914), 2nd class",False
+Q15821575,John Price Wetherill Medal,False
+Q56509162,honorary doctor of Semmelweis University,False
+Q56669045,honorary doctorate of the University of Copenhagen,False
+Q59334755,doctor honoris causa of the University of Helsinki,False
+Q63092009,honorary doctor of the Huazhong University of Science and Technology,False
+Q86503339,Honorary Doctor at Karolinska Institutet,False
+Q110907270,honorary doctorate at the University of Rome Tor Vergata,False
+Q24286833,Adolf Windaus Medal,False
+Q55139818,honorary doctorate of the Vrije Universiteit Brussel,False
+Q4992959,H. C. Ørsted Medal,False
+Q18601721,Knight of the Order of the Dannebrog,False
+Q99141532,Thunberg Medal,False
+Q6805076,Medal of the 10th Anniversary of People's Poland,False
+Q6805081,Medal of the 30th Anniversary of People's Poland,False
+Q11776615,Medal of the National Education Commission,False
+Q21891702,"Work Flag Order, 1st class",False
+Q21954284,Gold Cross of Merit,False
+Q2791048,Henry Marshall Tory Medal,False
+Q40683907,honorary doctor of the University of St Andrews,False
+Q63057295,honorary doctorate from McMaster University,False
+Q63111265,honorary doctorate from Dalhousie University,False
+Q60671348,Padma Shri in Trade & Industry,False
+Q15987848,Emily M. Gray Award,False
+Q96249874,Sackler Prize for Biophysics,False
+Q96625498,honorary doctor of the University of Duisburg-Essen,False
+Q20049852,WATOC Dirac Medal,False
+Q7618534,Sir George Stokes Award,False
+Q126416295,honorary doctorate from UTC,False
+Q5148987,Colorado Women's Hall of Fame,False
+Q7246543,Prize of the Foundation for Polish Science,False
+Q20853411,Member of the Order of Merit of the Republic of Poland,False
+Q1558677,Leipziger Science Award,False
+Q27973269,Albrecht Kossel Award,False
+Q111470475,Vincent du Vigneaud Award,False
+Q137858886,,False
+Q11572123,Saruhashi Prize,False
+Q4824493,Australian Natural History Medallion,False
+Q5462709,Fluid Dynamics Prize (APS),False
+Q14416191,G. I. Taylor Medal,False
+Q65952921,Marion Spencer Fay Award,False
+Q104072406,William Streifer Scientific Achievement Award,False
+Q23055113,Edward Goodrich Acheson Award,False
+Q11973343,Gunnerus Medal,False
+Q13377520,Commander of the Order of St. Olav,False
+Q1673732,Pfizer Award,False
+Q79893909,Francis Bacon Award,False
+Q12410732,Genesis Prize,False
+Q21409347,Gold cross of the Order of the Redeemer,False
+Q101063835,Bower Award for Business Leadership,False
+Q27491365,Walsh McDermott Medal,False
+Q94973003,Continuing Bass University Fellow in Undergraduate Education,False
+Q21476518,honorary doctor of the University of Edinburgh,False
+Q37018860,Governor General's Award in Commemoration of the Persons Case,False
+Q49000065,3M Teaching Fellow,False
+Q5423786,F.W. Clarke Medal,False
+Q64137965,Bruce C. Heezen Memorial Prize,False
+Q64138369,Bass Fellow,False
+Q24255499,Nakanishi Prize,False
+Q8017107,William Procter Prize for Scientific Achievement,False
+Q28402617,ACS Award for Encouraging Underrepresented and Economically Disadvantaged Students into Careers in the Chemical Sciences,False
+Q7241433,Presidential Early Career Award for Scientists and Engineers,False
+Q67856316,Burton Medal,False
+Q64767963,Chemeca Medal,False
+Q694151,Order of the Iron Crown (Kingdom of Italy),False
+Q1036458,Carl Friedrich Gauss Medal,False
+Q908793,Concours général,False
+Q821609,Berliner Kunstpreis,False
+Q2576463,Will Grohmann Award,False
+Q312496,Order of the Patriotic War,False
+Q4377154,Timiryazev Prize,False
+Q99228749,honorary doctor of the University of Wrocław,False
+Q1240301,Prima Primissima Prize,False
+Q4287143,Vernadsky medal,False
+Q64502248,EMKE Life Achievement Award,False
+Q88794518,Ronald Breslow Award for Achievement in Biomimetic Chemistry,False
+Q414528,academician,False
+Q1065982,Charles S. Mott Prize,False
+Q1253930,Dr. Josef Steiner Cancer Research Award,False
+Q15715250,Knight of the Order of Polonia Restituta,False
+Q11776640,Wiktor Kemula Medal,False
+Q20872,Order of the Dannebrog,False
+Q26126,Order of Leopold,False
+Q63091758,honorary doctor of the Fudan University,False
+Q58186965,Fellow of the American Academy of Microbiology,False
+Q56876672,Coblentz Award,False
+Q48977503,Charles Lathrop Parsons Award,False
+Q21855534,Thomas William Salmon Medal,False
+Q46209064,Fellow of the New York Academy of Medicine,False
+Q987080,honorary citizenship,False
+Q15815186,Herbert P. Broida Prize,False
+Q18560144,Chemical Dynamics Award,False
+Q56647955,Arthur C. Cope Scholar Award,False
+Q25303789,DeLano Award for Computational Biosciences,False
+Q108508051,Bert and Natalie Vallee Award in Biomedical Science,False
+Q17060634,William Bate Hardy Prize,False
+Q59712349,Fellow of the Royal Statistical Society,False
+Q28814622,Honorary doctors of Ghent University,False
+Q68599272,honorary doctorate from the University of Notre Dame,False
+Q126416251,honorary doctor of the National Polytechnic Institute of Lorraine,False
+Q64509423,médaille du centenaire de la Société chimique de France,False
+Q59780328,Fellow of the Royal Philatelic Society London,False
+Q25004611,NIH Director's New Innovator Award,False
+Q2335916,Stefan Banach Prize,False
+Q11415560,honorary master's degree,False
+Q60620988,Hood Medal,False
+Q60824974,Commander of the Order of the Lion of Finland,False
+Q841695,State Preeminent Science and Technology Award,False
+Q10873733,Member of the Chinese Academy of Engineering,False
+Q1530146,Glazebrook Medal,False
+Q64732857,"The Order of the Sacred Treasure, Gold Rays with Neck Ribbon",False
+Q98968172,Ellen et Niels Bjerrums Chemistry Prize,False
+Q7062230,Weizmann Prize for Exact Sciences,False
+Q50322326,Ekushey Padak in Education,False
+Q59767926,Fellow of the Pakistan Academy of Sciences,False
+Q61358183,Independence Award in Science and Technology,False
+Q2065289,Sitara-i-Imtiaz,False
+Q68164329,Kepler Prize,False
+Q4286956,NASA Exceptional Achievement Medal,False
+Q111591446,Julius Axelrod Award,False
+Q278798,"Medal ""For the Victory over Germany in the Great Patriotic War 1941–1945""",False
+Q2359180,"Medal ""For Labour Valour""",False
+Q4349568,Discoverer of mineral deposit,False
+Q110271577,Merited Scientist of the Uzbek SSR,False
+Q3405172,Poncelet Prize,False
+Q28861731,honorary doctor of the Hebrew University of Jerusalem,False
+Q50618211,honorary doctor of the University of Valencia,False
+Q58597795,honorary citizen of Hildesheim,False
+Q15784053,Aronson Prize,False
+Q28918638,Grand Cross of the Order of Civil Health,False
+Q317038,Max Planck Medal,False
+Q332542,General Honor Decoration,False
+Q976101,Pro Ecclesia et Pontifice,False
+Q1357178,Ernst Reuter Medal,False
+Q1534190,Goethe Plaque of the City of Frankfurt,False
+Q1562616,Helmholtz Medal,False
+Q10905105,Grand Cross 1st class of the Order of Merit of the Federal Republic of Germany,False
+Q10905171,Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany,False
+Q15124573,honorary citizen of Berlin,False
+Q20883263,honorary citizen of Frankfurt am Main,False
+Q55798498,knight of the Royal House Order of Hohenzollern with Swords,False
+Q105103892,,False
+Q2096481,Rumford Prize,False
+Q130463315,Hanseatic Cross (Hamburg),False
+Q140668177,"Iron Cross (1914), 1st class",False
+Q2202680,X-ray badge,False
+Q5066118,Chaconia Medal,False
+Q22303943,"Order of the Three Stars, 2nd Class",False
+Q23280328,"Order of the National Coat of Arms, 2nd Class",False
+Q838936,Lorentz Medal,False
+Q14539884,Grand Officer of the Order of Merit of the Italian Republic,False
+Q1911316,Maurice Ewing Medal,False
+Q4929631,Blue Planet Prize,False
+Q757645,Atoms for Peace Award,False
+Q540561,Wolf Prize in Medicine,False
+Q742162,Order of Ontario,False
+Q1262738,Robert L. Noble Prize,False
+Q18344281,Kyoto Prize in Basic Sciences,False
+Q56072830,J. Allyn Taylor International Prize in Medicine,False
+Q974780,Erasmus Prize,False
+Q12177413,Companion of the Order of St Michael and St George,False
+Q16932833,Nevada Medal,False
+Q56229949,Bristol-Myers Squibb Award for Distinguished Achievement in Nutrition Research,False
+Q36477007,Mueller Medal,False
+Q141500273,Norway's 100 Most Powerful Women 2008,False
+Q3259124,Longitude rewards,False
+Q56241840,Göran Gustafsson Prize for molecular biology,False
+Q1574863,Lyell Medal,False
+Q45315956,Blue Obelisk Award,False
+Q4794181,Army Medal for War 1939-45,False
+Q5442490,Fellow of the Royal Australasian College of Physicians,False
+Q99192929,honorary doctor of the University of Otago,False
+Q28861961,Grand Cross of the Order of Civil Merit,False
+Q18289651,The Söderberg Prize,False
+Q58356177,Eric K. Fernströms Nordiska Pris,False
+Q141181599,,False
+Q100268155,honorary doctor of the Gdańsk University of Technology,False
+Q114237213,Doctor Axel Hirsch Prize,False
+Q10542282,The KTH Great Prize,False
+Q126416269,honorary doctorate from INP Grenoble,False
+Q62601766,Percy L. Julian Award,False
+Q745990,G. K. Gilbert Award,False
+Q99529111,NASA Public Service Group Achievement Award,False
+Q116214143,Helmholtz International Fellow Award,False
+Q104776263,Fellow of the Higher Education Academy,False
+Q124248464,Max Day Environmental Science Fellowship Award,False
+Q30301673,Nils Foss Prize,False
+Q116374919,honorary doctorate at the Lorraine university,False
+Q126948868,honorary doctor of the University of Southern Brittany,False
+Q127688626,honorary doctorate from Institut Mines-Télécom,False
+Q64909284,Jean Rist Medal,False
+Q73493024,Clara Immerwahr Award,False
+Q23055141,National Science Foundation CAREER Award,False
+Q56876092,Society of Women Engineers Achievement Award,False
+Q32945347,WICB Junior Award,False
+Q32945349,WICB Mid-Career Award,False
+Q56241877,Göran Gustafsson Prize for chemistry,False
+Q5019489,Breakthrough Prize in Life Sciences,False
+Q57647862,Women in Technology Hall of Fame,False
+Q111382837,Joseph Prestwich Prize,False
+Q5195436,ASHG Scientific Achievement Award,False
+Q123821099,Joanne Simpson Medal,False
+Q106043504,Mulheres na Ciência,False
+Q122686749,Robert Wilhelm Bunsen Medal,False
+Q57398821,Frank Fenner Prize for Life Scientist of the Year,False
+Q79448759,Charles Albert Shull Award,False
+Q102346118,Fenner Medal,False
+Q11776610,Jan Zawidzki Medal,False
+Q16361766,Grand Medal of the Latvian Academy of Sciences,False
+Q22303944,Officer of the Order of the Three Stars,False
+Q65082731,APA Distinguished Scientific Award for an Early Career Contribution to Psychology,False
+Q5512227,G. Evelyn Hutchinson Award,False
+Q1036524,Carl-Hermann-Medal,False
+Q1788876,War Merit Cross,False
+Q306590,Austrian Decoration for Science and Art,False
+Q75011333,honorary doctor of the Vienna Technical University,False
+Q77307945,honorary doctor of the University of Stuttgart,False
+Q15815973,Horst Pracejus Prize,False
+Q1123299,Galenus Prize,False
+Q1677400,Jacob-Henle-Medaille,False
+Q15310415,Gerhard-Hess-Preis,False
+Q49802084,honorary doctorate of the National University of San Marcos,False
+Q60658956,doctor honoris causa of Keiō University,False
+Q29062963,"honorary doctorate of the University of Las Palmas, Gran Canaria",False
+Q5311657,Dennis Gabor Medal and Prize,False
+Q1912013,Max Delbrück Medal,False
+Q25324264,Carl Sagan Prize for Science Popularization,False
+Q38215093,honorary doctor of Stockholm University,False
+Q9208576,honorary doctor of Nicolaus Copernicus University in Toruń,False
+Q42156802,honorary doctorate of the University of Montpellier,False
+Q50614979,honorary doctorate of the University of Salamanca,False
+Q63091917,honorary doctor of the Chinese Academy of Sciences,False
+Q126416250,honorary doctor of the Paul Cézanne University,False
+Q126416275,honorary doctorate of the University of Metz,False
+Q49980426,honorary doctor of the Charles University of Prague,False
+Q79419202,Medaille für Kunst und Wissenschaft (Hamburg),False
+Q1357249,Ernst von Bergmann Plaque,False
+Q1471215,Order of the Netherlands Lion,False
+Q29837172,Abraham Gottlob Werner Medal in silver,False
+Q96464293,Honorary doctorate from the Julius Maximilians University of Würzburg,False
+Q56648052,honorary doctorate of the University of Porto,False
+Q980337,Genetics Society of America Medal,False
+Q30127637,Hans Sigrist Prize,False
+Q20241079,Whistleblower Prize,False
+Q6805149,Medard W. Welch Award,False
+Q458890,Knight's Crosses of the Order of Merit of the Republic of Hungary,False
+Q1100328,Jedlik Ányos Award,False
+Q1285988,Scheiber Sándor Award,False
+Q56117454,Silver Leibniz medal,False
+Q4360984,Alexander Hollaender Award in Biophysics,False
+Q28926636,Vilcek Prize,False
+Q5973542,IRI Achievement Award,False
+Q20859673,Grand Officer of the Order of Prince Henry,False
+Q25441286,Anísio Teixeira Award,False
+Q48893595,George P. Merrill Award,False
+Q70065444,Simão Mathias Medal,False
+Q18474651,Simão Mathias Medal,False
+Q5281903,Discovery Channel Young Scientist Challenge,False
+Q57595251,Companion of the Royal Society of New Zealand,False
+Q126416225,honorary doctorate from University of Paris-XII,False
+Q104883114,McCollum Award,False
+Q16933403,New Zealand Suffrage Centennial Medal 1993,False
+Q23049797,Companion of the New Zealand Order of Merit,False
+Q122973455,Fellow of the New Zealand Institute of Food Science and Technology,False
+Q123186999,Honorary Fellow of the New Zealand Institute of Food Science and Technology,False
+Q131837484,honorary doctor of Massey University,False
+Q111519688,Bachelor's degree in Biomedical Sciences,False
+Q104762467,Vittorio de Nora Award,False
+Q104762670,Henry B. Linford Award for Distinguished Teaching,False
+Q105061474,Radim Kettner Award,False
+Q105200205,Westpac Outstanding Women Award,False
+Q80053920,Fellow of The New Zealand Institute of Agricultural and Horticultural Science,False
+Q131837527,honorary doctor of the University of Canterbury,False
+Q93979,Ordre de la Santé publique,False
+Q717293,Order of Agricultural Merit (France),False
+Q2548604,Order of the Dragon of Annam,False
+Q3147057,Order of the Million Elephants and the White Parasol,False
+Q665122,Fritz Pregl Prize,False
+Q5504907,Fritz Feigl Prize,False
+Q83865545,honorary doctor of the Saarland University,False
+Q17505835,Great Golden Medal of Honour for Services to the Republic of Austria,False
+Q473527,Order of Merit of Berlin,False
+Q1652913,Treviranus Medal,False
+Q2051240,Paracelsus Medal of the German Medical Association,False
+Q42309575,honorary doctorate of the University of Coimbra,False
+Q58114219,honorary doctorate from the Université de Montréal,False
+Q89675977,honorary doctor of Alexandru Ioan Cuza University,False
+Q96609836,honorary doctor of the Sapienza University of Rome,False
+Q97386404,honorary doctor of Istanbul University,False
+Q458887,Commander with Star of the Order of Merit of Hungary,False
+Q555088,Academy Award of the Hungarian Academy of Sciences,False
+Q131315250,honorary doctor of the University of Dakar,False
+Q794514,Bialik Prize,False
+Q2905767,Brenner Prize,False
+Q6542501,Library Hall of Fame,False
+Q18180881,Curt Brunneé Award,False
+Q18560167,Jeremy Knowles Award,False
+Q18560174,Khorana Prize,False
+Q85787109,Murray Goodman Memorial Prize,False
+Q123468121,National Scientist of the Republic of Korea,False
+Q97175140,Samuel Wesley Stratton Award,False
+Q138456442,Sir Joseph Verco Medal,False
+Q22911481,GDCh Prize For Journalism And Literature,False
+Q16153104,BBC 100 Women,False
+Q1954860,Musgrave Medal,False
+Q4649872,AAG Gold Medal,False
+Q11776612,Jedrzej Śniadecki Medal,False
+Q11776632,Stanisław Kostanecki Medal,False
+Q113547178,honorary doctor of the University of Pau,False
+Q960966,Order of the Badge of Honour,False
+Q95680119,TWAS Prize for Biology,False
+Q123695527,Medal for Distinguished Contribution to Diplomacy,False
+Q4945735,Borlaug Award,False
+Q57202753,Shaw Prize in Life Science and Medicine,False
+Q4287130,Taraggi Medal,False
+Q65073309,Jubilee medal of 100th Anniversary of the Diplomatic Service Bodies of Azerbaijan,False
+Q127224903,KHMW Dr. Saal van Zwanenberg Ereprijs,False
+Q1679986,James B. Macelwane Medal,False
+Q5916908,F.G. Houtermans Award,False
+Q7031806,Nier Prize,False
+Q7152905,Paul Pellas-Graham Ryder Award,False
+Q126416230,honorary doctorate from University of Montpellier-I,False
+Q1660030,Janssen Medal,False
+Q14324534,Louis-Jeantet Prize for Medicine,False
+Q23055166,Sir Hans Krebs Medal,False
+Q1036444,Carl Engler Medal,False
+Q18388953,EPS Europhysics Prize,False
+Q21043512,Hall of Fame of German Research,False
+Q28854990,Honorary doctor of the Humboldt University of Berlin,False
+Q62071500,honorary doctor of the Ruhr University Bochum,False
+Q70332569,honorary doctor of the University of Münster,False
+Q99292271,honorary doctor of the Maria Curie-Skłodowska University,False
+Q60548,Carl-Gustaf Rossby Research Medal,False
+Q21905936,International Meteorological Organization Prize,False
+Q23022054,Symons Gold Medal,False
+Q308907,Lenin Peace Prize,False
+Q322132,Bharat Ratna,False
+Q14865244,Knight grand cross of the order of the crown of Italy,False
+Q112197,Righteous Among the Nations,False
+Q4287172,Medal of Independence,False
+Q13377517,Knight Grand Cross with Collar of the Order of Saint Olav,False
+Q14900493,Grand Cross of the Order of the Crown (Romania),False
+Q15715254,Commander with Star of the Order of Polonia Restituta,False
+Q15715257,Grand Cross of the Order of Polonia Restituta,False
+Q20438991,Grand Cross of the Order of Merit of the Kingdom of Hungary,False
+Q20899901,Commanders Grand Cross of the Order of the Polar Star,False
+Q20966518,Grand cross of the Order of the White Lion,False
+Q21587150,Grand Cross of the Order of the Phoenix,False
+Q22058866,Grand Cross of the Order of the Dannebrog,False
+Q22303941,"Order of the Three Stars, 1st Class",False
+Q41864812,Honorary doctor of the University of Gdańsk,False
+Q102076291,Knight Grand Cross of the Order of Saint Sava,False
+Q14900498,Officer of the Order of Leopold,False
+Q16787460,Officer of the Order of Leopold II,False
+Q16850529,John Jay Award,False
+Q20866649,Grand Cross of the Order of Charles III,False
+Q33655012,Grand Cross of the Aeronautical Merit,False
+Q35795612,Grand Cross of the Cross of Military Merit with White Decoration,False
+Q37792334,Carracido Medal,False
+Q5557260,Dearest Son,False
+Q6084724,,False
+Q9062373,Miguel Catalán Prize,False
+Q36807383,Gold Medal of the Royal Spanish Society of Chemistry,False
+Q50618800,honorary doctorate of Jaume I University,False
+Q50626821,honorary doctorate of the University of the Basque Country,False
+Q18708814,"Order of the Sacred Treasure, 1st Class",False
+Q3405171,ACS Award in Surface Chemistry,False
+Q518740,National Prize for Arts and Sciences,False
+Q42851178,Knight of the Order of Vasa,False
+Q337463,Order of the Red Banner,False
+Q1740213,Alexander von Humboldt Medal,False
+Q5240217,David Syme Research Prize,False
+Q13233409,Pawsey Medal,False
+Q23055133,Matthew Flinders Medal and Lecture,False
+Q124373218,Overbeek Medal,False
+Q5973543,IRI Medal,False
+Q56249085,Cunningham Medal,False
+Q125759168,John R. Ragazzini Education Award,False
+Q23578865,A.G. Huntsman Award for Excellence in the Marine Sciences,False
+Q23055114,EMBO Gold Medal,False
+Q1360050,Ernst Schering Prize,False
+Q5424476,FASEB Excellence in Science Award,False
+Q122382270,Bionorica Phytoneering Award,False
+Q23923236,Pittcon Heritage Award,False
+Q3404922,Konex Award,False
+Q6263586,John Wesley Powell Award,False
+Q15279703,Order of Mapungubwe in Silver,False
+Q75746002,Member of the Academy of Science of South Africa,False
+Q125045047,Bantayog ng mga Bayani honoree,False
+Q23017310,Eva Luise Köhler Research Prize,False
+Q41795465,honorary doctorate from the University of Cambridge,False
+Q42043175,Honorary doctor of the University of Oxford,False
+Q55149541,honorary doctorate of the University of Glasgow,False
+Q25287226,Honorary doctorate from the University of Geneva,False
+Q113161468,Star of People's Friendship in Gold,False
+Q41974970,honorary doctor of the Leipzig University,False
+Q17575033,Gmelin-Beilstein Commemorative Medal,False
+Q23023629,James Cook Medal,False
+Q126416261,honorary doctorate from INP Toulouse,False
+Q5546179,George Westinghouse Award,False
+Q20858134,NAS Award for the Industrial Application of Science,False
+Q56257036,Lemberg Medal,False
+Q1774648,Distinguished Service Medal,False
+Q111309331,George Urdang Medal,False
+Q576885,IEEE Morris N. Liebmann Memorial Award,False
+Q126416255,honorary doctorate from University of Bordeaux-I,False
+Q1573331,Saskatchewan Order of Merit,False
+Q14705795,New Jersey Hall of Fame,False
+Q59772087,Fellow of the Australian Institute of Physics,False
+Q4905728,Fellow of the Royal Society of Arts,False
+Q18560182,"Merck, Sharp and Dohme Award",False
+Q60983603,NAS Award for Scientific Discovery,False
+Q17613667,Grand Cross of the National Order of Scientific Merit,False
+Q61792142,Honorary Doctorate of University of Buenos Aires,False
+Q106065925,Neuron Prize for Lifelong Contribution to Science,False
+Q31836898,Raymond and Beverly Sackler Prize in Convergence Research,False
+Q114847999,Lavoisier Medal for Lifetime Technical Achievement,False
+Q124401849,Talanta Medal,False
+Q30901995,,False
+Q35803330,honorary doctorate of the University of Castille-La Mancha,False
+Q50626119,honorary doctorate of the Catholic University of San Antonio,False
+Q1551695,"Civil Order of Alfonso X, the Wise",False
+Q5946562,Palmas Magisteriales,False
+Q112064591,The Dorothy Hodgkin Prize,False
+Q1561489,Jessie Stevenson Kovalenko Medal,False
+Q48791730,Peter Nicol Russell Memorial Medal,False
+Q6759784,Margaret Oakley Dayhoff Award,False
+Q10328035,Miroslaw Romanowski Medal,False
+Q18180882,Thomson Medal,False
+Q52414520,Bijvoet Medal,False
+Q488005,National Aviation Hall of Fame,False
+Q742943,United States Astronaut Hall of Fame,False
+Q1754110,Distinguished Flying Cross,False
+Q4286902,NASA Distinguished Service Medal,False
+Q267842,Clarke Medal,False
+Q112144117,Jaeger Medal,False
+Q30446362,Fellow of the Royal College of Physicians and Surgeons of Glasgow,False
+Q108295618,ESN Young Investigator Award,False
+Q4202050,Yamazaki-Teiichi Prize,False
+Q52498782,FEBS/EMBO Women in Science Award,False
+Q17903203,Cloëtta Prize,False
+Q3432215,Illis quorum,False
+Q19978808,Most powerful business women,False
+Q110793467,,False
+Q20203710,Michael S. Feld Biophotonics Award,False
+Q3869391,NAS Award for Chemistry in Service to Society,False
+Q5304319,Dr. Paul Janssen Award for Biomedical Research,False
+Q58150525,Vives University Network Medal of Honor,False
+Q6084714,Gregorio Marañón National Research Award,False
+Q50615500,honorary doctor of the University of León,False
+Q59773156,Fellow of the Society of Genealogists,False
+Q135654306,Fellow of the Royal Heraldry Society of Canada,False
+Q60665478,Charles F. Rand Memorial Gold Medal,False
+Q12177472,Companion of the Order of the Bath,False
+Q282019,baronet,False
+Q5588327,Goulstonian Lectures,False
+Q12193926,Member of the Royal Victorian Order,False
+Q30348773,Fellow of the Royal College of Physicians of Edinburgh,False
+Q6055547,Internet Hall of Fame,False
+Q1330790,Medal of Freedom,False
+Q97448492,honorary doctor of the University of Leicester,False
+Q17145750,Redi Award,False
+Q7610433,Stephen S. Chang Award for Lipid or Flavor Science,False
+Q59767413,Fellow of the Institute of Food Technologists,False
+Q119043885,Raymond L. Lindeman Award,False
+Q7175659,Peter Mark Memorial Award,False
+Q94997211,Bert and Candace Forbes University Fellow in Undergraduate Education,False
+Q58911907,"Fellow of the Institute of Materials, Minerals and Mining",False
+Q59388943,Dillwyn Medal,False
+Q117322008,Gold Medal of the Royal Swedish Academy of Engineering Sciences,False
+Q141564362,Ordine del Cherubino,False
+Q28030869,Fellow of the Institution of Engineering and Technology,False
+Q25324171,Richard J. Bolte Sr. Award,False
+Q4146633,State Prize of Ukraine in Science and Technology,False
+Q7183969,Philip Leverhulme Prize,False
+Q66782682,AAAS-Lemelson Invention Ambassadors Program,False
+Q83480498,Fellow of the National Academy of Inventors,False
+Q7311836,Remington Medal,False
+Q1258644,Royal Order of Vasa,False
+Q57167962,honorary doctor of the University of Freiburg,False
+Q18582827,Order of the Red Eagle 4th Class,False
+Q18579573,Order of the Red Eagle 2nd Class,False
+Q84989004,honorary doctor of the University of Königsberg,False
+Q99659956,2nd Class Order of the Crown with the Star,False
+Q99660104,Commander's Cross of the Order of the Crown of Prussia,False
+Q1457944,Friedrich Wöhler Award,False
+Q10311458,Nihon SF Taisho Award,False
+Q61744587,Fellow of the American Statistical Association,False
+Q8038188,Wright Brothers Medal,False
+Q1294136,Willet G. Miller Medal,False
+Q126416234,honorary doctorate of the University of the Mediterranean - Aix Marseille II,False
+Q15821779,Joseph Chatt Award,False
+Q13377524,Knight First Class of the Order of St. Olav,False
+Q15042141,Officer of the Order of the Oak Crown,False
+Q20899923,Commander of the Order of the Polar Star,False
+Q3404627,Prix Galien,False
+Q20961662,Knight Grand Officer of the Order of Alfonso X,False
+Q12313362,G.A. Hagemann Gold Medal,False
+Q23055584,Carlsberg Foundation Research Prize,False
+Q27102448,Grundfos Prize,False
+Q42553137,honorary doctor of the Norwegian University of Science and Technology,False
+Q47486817,Villum Kann Rasmussen Annual Award,False
+Q8020963,Williams-Wright Award,False
+Q29418214,Dana Medal,False
+Q3368214,Polhem Prize,False
+Q116985601,The Royal Danish Academy Gold Medal,False
+Q117359709,Ephraim Katzir Prize,False
+Q13377522,Knight of the Order of St. Olav,False
+Q20010681,Fellow of the Royal Entomological Society,False
+Q18340034,John Jeyes Award,False
+Q101074265,Adrian Gill Prize,False
+Q6261517,John Tyndall Award,False
+Q76506316,Lloyd N. Ferguson Young Scientist Award for Excellence in Research,False
+Q28857542,Royal Society University Research Fellowship,False
+Q123436651,Bertram Eugene Warren Diffraction Physics Award,False
+Q1139108,Crawford Medal,False
+Q1257027,Sieger Prize,False
+Q131681406,Heinrich Köhler Prize,False
+Q7433557,Science Innovation Award,False
+Q62124954,Donath Medal,False
+Q61743035,E. E. Just Award lecture,False
+Q61743055,Ruth Kirchstein Diversity in Science Award,False
+Q112482589,American Society for Cell Biology Fellow,False
+Q61809374,Fellow of the Royal Australian Chemical Institute,False
+Q61810546,Geoffrey Wilkinson Award,False
+Q56302519,Shorland Medal,False
+Q62020936,A.L. Patterson Award,False
+Q25083463,"Presidential Award for Excellence in Science, Mathematics, and Engineering Mentoring",False
+Q7181508,Phi Beta Kappa Award in Science,False
+Q106382431,Woodrow Wilson National Fellowship,False
+Q55787581,Honorary doctorate of Umeå University,False
+Q100715846,honorary citizen of Jerusalem,False
+Q16688039,scientific prize from Russian Academy of Science,False
+Q33139361,Montyon Science Award,False
+Q12329332,Novo Nordisk Prize,False
+Q17521255,Anders Retzius Medal,False
+Q3114992,Grand Prize of the French Academy of Science,False
+Q69476507,honorary doctorate from the University of British Columbia,False
+Q7971681,Washington Award,False
+Q10328037,Nadai Medal,False
+Q14847932,Eringen Medal,False
+Q59918767,Nature's 10,False
+Q30868915,King Faisal Prize in Medicine,False
+Q3332233,Vilhelm Bjerknes Medal,False
+Q5896956,Honorary Fellow of the Royal Society,False
+Q55520070,University Teacher of the Year,False
+Q63072513,honorary doctor of Yale University,False
+Q97324785,honorary doctor of Johannes Gutenberg University Mainz,False
+Q1046023,Carus medal,False
+Q2172249,Rudolf Leuckart medal,False
+Q69818926,honorary doctor of the University of Tübingen,False
+Q96577768,honorary doctor of the University of Regensburg,False
+Q19110774,Patriotic Order of Merit in Bronze,False
+Q18572598,Patriotic Order of Merit in Silver,False
+Q584250,Shaw Prize,False
+Q2586819,Wittgenstein-Prize,False
+Q17398381,Decoration of Merit in Gold of the State of Vienna,False
+Q63072493,honorary doctor of the Clark University,False
+Q372160,Montyon Prize,False
+Q6031368,Infosys Prize,False
+Q40339394,UNESCO Medal for Contributions to the Development of Nanoscience and Nanotechnologies,False
+Q95681360,TWAS Prize for Engineering Sciences,False
+Q1617019,Heyrovský medal,False
+Q55605300,Beverton Medal,False
+Q57569775,Thomson Medal,False
+Q66694103,Computational and Mathematical Methods in Science and Engineering prize,False
+Q15972353,"Order of the Rising Sun, 4th class",False
+Q60658073,Honour in Gold for Services to the Republic of Austria,False
+Q11605748,Medal with Purple Ribbon,False
+Q813239,Beatrice M. Tinsley Prize,False
+Q2586286,Science Award of Lower Saxony,False
+Q2643422,Alexander von Humboldt Professorship,False
+Q10922924,Tang Prize,False
+Q19833995,Aachener Ingenieurpreis,False
+Q42120789,honorary doctor of the University of Manchester,False
+Q58356454,Eric K. Fernströms Svenska Pris,False
+Q62732098,honorary doctor of the École polytechnique fédérale de Lausanne,False
+Q102029408,honorary doctor of the Hong Kong University of Science and Technology,False
+Q21948568,Bronze Medal of Merit for National Defence,False
+Q110386332,City of Łódź Award,False
+Q20588568,ERC Advanced Grant,False
+Q61744900,Fellow of the American Gastroenterological Association,False
+Q3229116,Legum Doctor,False
+Q41958537,Fellow of the British Archaeological Association,False
+Q1501067,Order of St. Vladimir,False
+Q29062669,honorary doctor of the University of Zaragoza,False
+Q63092215,honorary doctor of the Lanzhou University,False
+Q4193236,VDNKh gold medal,False
+Q555082,,False
+Q11700391,President's Award for Distinguished Federal Civilian Service,False
+Q20771062,FDA Kelsey Award,False
+Q20771198,Foremother Award,False
+Q115327685,Society of Woman Geographers Outstanding Achievement Award,False
+Q4188052,Honoured Higher education employee of the Russian Federation,False
+Q4377091,Council of Ministers of the Soviet Union Prize,False
+Q1853663,Millennium Technology Prize,False
+Q1067644,"Medal ""For the Defence of the Caucasus""",False
+Q62583195,Honored Scientist of the Azerbaijan SSR,False
+Q175622,"Jubilee Medal ""70 Years of the Armed Forces of the USSR""",False
+Q1120761,Sheref Order,False
+Q20054261,State Prize of the Azerbaijan SSR,False
+Q25541992,honorary diploma of President of Azerbaijan Republic,False
+Q25543507,Honored Scientist of Azerbaijan,False
+Q4187994,Honoured Scientist of the RSFSR,False
+Q18080423,"Order ""For Merit to the Fatherland"", 4th class",False
+Q4335914,"Hero of Ukraine, Order of the State",False
+Q16699972,Honoured worker in science and technology of the Ukrainian SSR,False
+Q29017281,"Order of Merit (Ukraine), 3rd class",False
+Q29017356,"Order of Merit (Ukraine), 2nd class",False
+Q19030089,"Medal of the Order ""For Merit to the Fatherland"", 2nd class without swords",False
+Q534981,"Medal ""Veteran of Labour""",False
+Q1185606,Demidov Prize,False
+Q1710778,"Jubilee Medal ""In Commemoration of the 100th Anniversary of the Birth of Vladimir Ilyich Lenin""",False
+Q1992013,"Medal ""In Commemoration of the 850th Anniversary of Moscow""",False
+Q4146631,State Prize of the Russian Federation,False
+Q21468715,Order of the Polar Star,False
+Q280693,"Jubilee Medal ""Forty Years of Victory in the Great Patriotic War 1941–1945""",False
+Q783276,"Jubilee Medal ""50 Years of Victory in the Great Patriotic War 1941–1945""",False
+Q2702840,"Medal ""For Distinguished Labour""",False
+Q4187993,Honoured Worker of Science and Technology of the RSFSR,False
+Q16688029,Mendeleev Medal,False
+Q1620096,Hirabayashi Taiko Prize,False
+Q4287139,Medal of Anania Shirakatsi,False
+Q16364195,Second Class Service of the Fatherland Medal,False
+Q23090813,médaille du Premier ministre,False
+Q4377076,Russian government prize for science and technology,False
+Q57536779,Chugaev Prize,False
+Q4761592,Aneesur Rahman Prize for Computational Physics,False
+Q4187997,Honored Scientist of Ukraine,False
+Q135034004,"Order of Cyril and Methodius, 1st Class",False
+Q744056,Global Energy Prize,False
+Q4287202,Medal of Francysk Skaryna,False
+Q21164,Order of Merit of the Federal Republic of Germany,False
+Q4311793,,False
+Q19945124,Prix du Rayonnement de la langue et de la littérature françaises,False
+Q20877272,Scottish Geographical Medal,False
+Q2037978,Otto Laporte Award,False
+Q1061450,Champions of the Earth,False
+Q28164164,knighthood,False
+Q111383098,Ecological Engagement Award,False
+Q117865525,Edward A. Flinn III Award,False
+Q61094496,Scientist of the Month,False
+Q7791007,Thomas J.R. Hughes Young Investigator Award,False
+Q85798286,Rössler Prize,False
+Q139071264,Werner Prize,False
+Q5260184,Department of Commerce Bronze Medal,False
+Q126478650,Wheatley Medal,False
+Q126478766,Carey Award,False
+Q123184858,Hansch Award,False
+Q18560134,Bader Prize,False
+Q50614304,honorary doctorate of the University of Cantabria,False
+Q18560172,Joseph Black Award,False
+Q18560213,Theophilus Redwood Award,False
+Q18560129,Applied Inorganic Chemistry Award,False
+Q110750537,honorary doctorate at the Blaise-Pascal university,False
+Q115413383,Superstars of STEM,False
+Q24008352,ORCHEM-Award,False
+Q131247237,John B. Goodenough Award of The Electrochemical Society,False
+Q46995002,Pickering Medal,False
+Q57225953,Hill Tinsley Medal,False
+Q392204,Order of the White Eagle,False
+Q15831432,Knight of the Order of St. Alexander Nevsky,False
+Q27096841,"Order of St. Vladimir, 1st class",False
+Q596778,Faraday Medal and Prize,False
+Q808424,Barnard Medal for Meritorious Service to Science,False
+Q1396110,Faraday Medal,False
+Q3253120,Person of National Historic Significance,False
+Q21661896,IET Kelvin Lecture,False
+Q28401709,Dalton Medal,False
+Q63494277,T. K. Sidey Medal,False
+Q96382318,Bressa Prize,False
+Q131837704,honorary doctor of the University of New Zealand,False
+Q56116936,Golden Leibniz Medal,False
+Q1724657,Schiller Prize of Marbach,False
+Q1870030,Lorenz Oken Medal,False
+Q29842747,Anna Krüger Award,False
+Q55064109,Theodor Heuss Award,False
+Q66439295,Urania Medal,False
+Q827980,Berthold Leibinger Innovationspreis,False
+Q1036620,Zeiss Research Award,False
+Q1603240,Helmholtz Prize,False
+Q1900724,Markgräfler Gutedelpreis,False
+Q20857545,Grand Cross of the Order of the Star of Romania,False
+Q30067927,Wissenschaftspreis der Fritz-Behrens-Stiftung,False
+Q15831416,Military Merit Cross III. Class,False
+Q414530,Berlin-Brandenburg Academy Award,False
+Q19894716,Debrecen Award for Molecular Medicine,False
+Q1203254,German Cancer Aid Award,False
+Q1205028,German Cancer Award,False
+Q1443256,Paul Langerhans Medal,False
+Q1692144,Johann Georg Zimmermann Medal,False
+Q1264193,Goethe-Plakette des Landes Hessen,False
+Q28609677,Knight's Cross of the Order of Franz Joseph,False
+Q102121453,"honorary doctorate of the University of Natural Resources and Life Sciences, Vienna",False
+Q104376803,Knight of the Order of the Griffon,False
+Q29954289,Karmarsch Medal,False
+Q126416285,honorary doctorate from University of Lille-I,False
+Q93904,Order of the Lion and the Sun,False
+Q14637176,Officer of the French Order of Academic Palms,False
+Q613627,"Jubilee Medal ""Thirty Years of Victory in the Great Patriotic War 1941–1945""",False
+Q1687156,Serge von Bubnoff Medal,False
+Q4193259,Keldysh Gold Medal,False
+Q24265493,Order of the Red Banner of Labour,False
+Q56305784,Vernadsky Gold Medal,False
+Q83529740,honorary doctor of the University of Bristol,False
+Q99212276,honorary doctor of the University of Sheffield,False
+Q5260185,U.S. Department of Commerce Gold Medal,False
+Q126416294,honorary doctorate from University of Evry,False
+Q126722300,Alfred Bader Award in Bioinorganic or Bioorganic Chemistry,False
+Q21531768,Holley Medal,False
+Q152770,Right Livelihood Award,False
+Q31841128,Anna-Monika Prize,False
+Q60667392,Alfred P. Sloan Fellow,False
+Q22032135,Paul Marks Prize for Cancer Research,False
+Q25345281,Thousand Talents Program,False
+Q18609642,Shuttleworth Foundation Fellowship,False
+Q23297723,"Order of the White Star, 2nd Class",False
+Q6766065,Order of the Iron Crown (Austria),False
+Q850614,Buchanan Medal,False
+Q15960935,Knight of the Order of Agricultural Merit,False
+Q20857674,Officer of the Order of the Star of Romania,False
+Q672392,Padma Vibhushan,False
+Q141968747,Padma Bhushan in Civil Service,False
+Q11505804,Ten Japanese Great Inventors,False
+Q7586463,Srinivasa Ramanujan Medal,False
+Q16849792,Jawarharlal Nehru Fellowship,False
+Q42309423,Honorary doctor of the Tufts University,False
+Q1411550,Alexander Agassiz Medal,False
+Q3405365,Vetlesen Prize,False
+Q7358837,Roger Revelle Medal,False
+Q315026,Silbernes Lorbeerblatt,False
+Q1229492,Distinguished Intelligence Medal,False
+Q100787516,honorary doctor of the Hong Kong Polytechnic University,False
+Q3404355,Anselme Payen Award,False
+Q67935092,,False
+Q2566385,Armia Krajowa Cross,False
+Q4286948,Medal of Merit for National Defence,False
+Q5188477,"Cross ""For Merits to the Polish Scouting Association""",False
+Q21948570,Silver Medal of Merit for National Defence,False
+Q21953156,"Gold Cross ""For Merits to the Polish Scouting Association""",False
+Q21954203,Silver Cross of Merit,False
+Q970910,Cross of Freedom and Solidarity,False
+Q4974237,Bronze Bauhinia Star,False
+Q1729083,Kardinal-Innitzer-Preis,False
+Q15808454,Ernst Ruska Prize,False
+Q109349606,Frank Rigler Award,False
+Q20006438,fellowship award,False
+Q71228815,Fellow of the African Scientific Institute,False
+Q8058296,Young Medal and Prize,False
+Q104434132,R. H. Stokes Medal,False
+Q7671220,Innovators Under 35,False
+Q206960,Civil Order of Saxony,False
+Q21061611,Porson Prize,False
+Q3302356,Daniel Giraud Elliot Medal,False
+Q5372498,Eminent Ecologist Award,False
+Q19297113,Naumann-Thienemann Medal,False
+Q25052096,Leidy Award,False
+Q48893600,NAS Award for Environmental Quality,False
+Q386826,Gabor Medal,False
+Q78232499,honorary doctor of the University of Bath,False
+Q50840990,honorary doctor of the University of Aberdeen,False
+Q1683914,NAS Award in the Neurosciences,False
+Q56850293,Bengt Winblad Lifetime Achievement Award in Alzheimer’s Disease Research,False
+Q106076863,,False
+Q93976,Order of the Gold Lion of the House of Nassau,False
+Q190353,Sovereign Military Order of Malta,False
+Q567417,Order of the Most Holy Annunciation,False
+Q696246,Order of the Chrysanthemum,False
+Q1331130,Royal Order of the Seraphim,False
+Q2399167,Order of Pahlavi,False
+Q2545753,Order of the Star of Karađorđe,False
+Q2794660,Order of Solomon,False
+Q5361043,Grand Cordon of the Supreme Order of the Chrysanthemum,False
+Q11796436,Honorary Medal of the Polish Red Cross,False
+Q13377518,Knight Grand Cross of the Order of St. Olav,False
+Q14900501,Grand Cordon of the Order of Leopold,False
+Q15042392,Grand Cross of the Order of Saint-Charles,False
+Q20888823,Knight Grand Cross of the Order of Saints Maurice and Lazarus,False
+Q21450802,Grand Cross of the Order of the Redeemer,False
+Q21950795,Bronze Medal for Long Service,False
+Q21970571,Cross of Independence with Swords,False
+Q22058319,Grand Cross of the Order of the Southern Cross,False
+Q23301869,"Order of the White Star, Collar Class",False
+Q23769799,Grand Cross with Collar of the Order of the White Rose of Finland,False
+Q30906107,Badge of Honour of the Air and Chemical Defense League,False
+Q47007667,Estonian Red Cross Order First Class,False
+Q47086409,Grand Cross with Collar of the Order of the Three Stars,False
+Q58211188,1st Class of the Order of the Cross of the Eagle,False
+Q66477001,Grand Officer of the Military Order of Christ,False
+Q66675928,Grand Cross of the Order of Aviz,False
+Q79216672,Order of Civil Merit,False
+Q87287880,Collar of the Order of Merit,False
+Q111830110,Knight Grand Cross with Collar of the Order of Carol I,False
+Q136733,Leeuwenhoek Medal,False
+Q3048164,Kistler Prize,False
+Q3405093,Nierenberg Prize,False
+Q5449677,Financial Times Person of the Year,False
+Q5579385,Golden Eurydice Award,False
+Q1569680,Minister of State,False
+Q14900499,Commander of the Order of Leopold,False
+Q14900500,Grand Officer of the Order of Leopold,False
+Q28493923,honorary doctor of the Université libre de Bruxelles,False
+Q37719162,Grand cross of the Civil Order of Alfonso XII,False
+Q783270,"Jubilee Medal ""Twenty Years of Victory in the Great Patriotic War 1941–1945""",False
+Q919396,Order of Outstanding Merit,False
+Q104809067,Knight of the Order of the Sword,False
+Q2111249,Jean-Ricard Prize,False
+Q773178,Commemorative medal of the 1870–1871 War,False
+Q20859559,Marcelin Guérin Prize,False
+Q1631883,Howard N. Potts Medal,False
+Q131310407,doctor honoris causa from the University of Alger,False
+Q20888861,Commander of the Order of Saints Maurice and Lazarus,False
+Q56100732,Norman L. Bowen Award,False
+Q127788605,Guy Lévis Mano Award,False
+Q63475727,Grand Prix de l'Imaginaire for Best French-Language Novel,False
+Q130795175,Golden Graoully for Best French Novel,False
+Q132818307,Grand Prix de l'Imaginaire for Best French-Language Short Story,False
+Q132821832,Grand Prix de l'Imaginaire for Best Essay,False
+Q132823022,Grand Prix de l'Imaginaire for Best Young-Adult Novel,False
+Q135275238,Rosny-aîné award for the best novel,False
+Q57901671,Waldemar Lindgren Award,False
+Q20857679,Knight of the Order of the Star of Romania,False
+Q106488866,honorary doctor of the Valahia University of Târgoviște,False
+Q141499930,Norway's 100 Most Powerful Women 2026,False
+Q141500239,Norway's 100 Most Powerful Women 2025,False
+Q141500244,Norway's 100 Most Powerful Women 2024,False
+Q141500246,Norway's 100 Most Powerful Women 2023,False
+Q141500250,Norway's 100 Most Powerful Women 2022,False
+Q141500258,Norway's 100 Most Powerful Women 2021,False
+Q21714482,Wolfgang Ostwald Prize,False
+Q5487405,Frank Isakson Prize for Optical Effects in Solids,False
+Q56545799,Order of the Star of the Hungarian People's Republic,False
+Q1602901,Hellmut-Bredereck Prize,False
+Q1340665,Endocrine Regulation Prize,False
+Q15839619,Pasteur-Weizmann/Servier International Prize,False
+Q59282490,Charles Darwin Award Lecture,False
+Q56192279,The Louis and Artur Lucian Award in Cardiovascular Diseases,False
+Q57566036,Hamilton Award,False
+Q105696906,Associate of the Royal College of Science,False
+Q33101989,Bernardo Houssay Award,False
+Q2101961,Georges Lemaître Prize,False
+Q27530629,Scientific Grand Prize of the NRJ Fondation,False
+Q53705821,Milutin Milankovic Medal,False
+Q55610786,OWSD-Elsevier Foundation Award,False
+Q921415,Lasker Award,False
+Q5970450,IEEE Photonics Award,False
+Q15710646,IEEE Jun-ichi Nishizawa Medal,False
+Q27430147,N. P. Kravkov Medal,False
+Q406039,gold medal,False
+Q3139813,Hommes illustres,False
+Q55716043,National May 1st Labour Medal,False
+Q3276057,Japan Academy Prize,False
+Q18844293,Zois award,False
+Q2080884,"Decoration ""For Beneficence""",False
+Q19399024,Russian Federation Presidential Certificate of Gratitude,False
+Q30591407,Herty Medal,False
+Q4287123,Sino-Soviet Friendship Medal,False
+Q100869791,member of the Academy of Sciences of the USSR,False
+Q924450,"Medal ""For the Defence of Leningrad""",False
+Q1147717,Order of Saint Anna,False
+Q4335950,Order of Honour,False
+Q2638119,"Medal ""For the Development of Virgin Lands""",False
+Q4286683,Medal VDNKh,False
+Q4366227,Socialist competition winner award,False
+Q29043120,VDNKh bronze medal,False
+Q852071,Silver Star,False
+Q980090,Air Medal,False
+Q89250465,honorary doctor of the D. Mendeleev University of Chemical Technology of Russia,False
+Q110686881,Padma Bhushan in Trade & Industry,False
+Q27916644,Sarnat Prize,False
+Q56221132,Robert J. and Claire Pasarow Foundation Award for Distinguished Contributions to Neuropsychiatric Research,False
+Q29043121,VDNKh silver medal,False
+Q184253,Ig Nobel Prize,False
+Q1300660,honorary presidency,False
+Q4287169,The Medal of Mkhitar Heratsi,False
+Q4375542,honorary citizen of Moscow Oblast,False
+Q4193245,V. V. Dokuchaev Gold Medal,False
+Q93982,Order of Merit of the Republic of Poland,False
+Q1502282,Order of Cultural Merit,False
+Q4335904,"Order of Labour, 1st class",False
+Q4335955,Order of the Republic,False
+Q2572540,Bigsby Medal,False
+Q4193239,Gold Medal of the Soviet Peace Foundation,False
+Q4377134,V. A. Kargin Prize,False
+Q1311063,"Medal ""Veteran of the Armed Forces of the USSR""",False
+Q1986005,Zhukov Medal,False
+Q1992215,"Jubilee Medal ""60 Years of Victory in the Great Patriotic War 1941–1945""",False
+Q1081449,"Medal ""For the Victory over Japan""",False
+Q956423,Order of Parasat,False
+Q3853538,"medal ""10 years of the Constitution of Kazakhstan""",False
+Q3853539,"Medal ""10 Years of Independence of the Republic of Kazakhstan""",False
+Q3853540,Medal commemorating 10 years of the Parliament of the Republic of Kazakhstan,False
+Q3853542,"medal ""for 20 years of Kazakhstan's independence""",False
+Q3853592,medal commemorating 50 years of the Virgin Lands,False
+Q4375582,,False
+Q12573544,State Prize of the Republic of Kazakhstan,False
+Q25380644,Medal for the 20th anniversary of the Constitution of Kazakhstan,False
+Q112601465,Order of the Leopard 1st class,False
+Q112601467,Order of the Leopard 2nd class,False
+Q112601468,Order of the Leopard 3rd class,False
+Q4146709,Moldavian SSR State Prize,False
+Q56465787,Government Prize of the Russian Federation,False
+Q4377065,Lenin Komsomol Prize,False
+Q80095747,Fellow of the Controlled Release Society,False
+Q1983581,Partisan Cross (Poland),False
+Q115532754,Philippe Duchaufour Medal,False
+Q245502,Hero of Labour,False
+Q654471,Hero of the Russian Federation,False
+Q4375624,Honorary Officer of the State Security,False
+Q60054123,Honorary worker of the NKVD,False
+Q111363583,honorary doctorate of Tours University,False
+Q16341631,Krill Prize,False
+Q56628088,Desty Memorial Prize for Contribution to Separation Science,False
+Q6084712,,False
+Q63436721,Dorothy Crowfoot Hodgkin Award,False
+Q141693794,CSJ Awards,False
+Q5873853,Ho-Am Prize in Engineering,False
+Q19599156,Scientist of the Year Award,False
+Q93864,National Order of the Cedar,False
+Q64153053,APA Prize for Interdisciplinary Team Research,False
+Q1581457,Queen Elizabeth II Golden Jubilee Medal,False
+Q11795583,Ohio Women's Hall of Fame,False
+Q30605464,Gordon E. Moore Medal,False
+Q23050104,Member of the New Zealand Order of Merit,False
+Q99227275,University of Otago Sesquicentennial Distinguished Chair,False
+Q109794768,University of Otago Distinguished Research Medal,False
+Q107520019,Ľudovít Štúr Order 2nd class,False
+Q123162310,ESET Science Award – Outstanding Scientist in Slovakia,False
+Q876919,Klung Wilhelmy Science Award,False
+Q106646588,EBSA Young Investigators’ Medal and Prize,False
+Q41710793,Tulip Award in DNA Computing,False
+Q18560139,Bioorganic Chemistry Award,False
+Q74556503,Kwame Nkrumah Award for excellence in Science for women,False
+Q2567963,"Medal ""For Merit in Space Exploration""",False
+Q4286958,NASA Space Flight Medal,False
+Q138788807,honorary citizen of Wurzen,False
+Q1819559,Leopold-von-Buch-Plaque,False
+Q2069200,Penrose Gold Medal,False
+Q175384,March of Dimes Prize in Developmental Biology,False
+Q1462893,Friedrich Wilhelm Bessel Research Award,False
+Q30123959,Bristol-Myers Squibb Award for Distinguished Achievement in Cardiovascular Research,False
+Q774298,Apáczai Csere János Prize,False
+Q20439420,Order of Merit for Socialist Hungary,False
+Q56450780,honorary doctor of the University of Pannonia,False
+Q62078552,honorary doctor of Saint Petersburg State University,False
+Q10901470,"Order of the Rising Sun, 1st class",False
+Q2990283,Companion of the Liberation,False
+Q50621510,honorary doctorate of the Autonomous University of Madrid,False
+Q69626819,honorary doctor from the NOVA University Lisbon,False
+Q115693253,Arnold-Reymond prize,False
+Q6766365,Marjory Stephenson Prize,False
+Q56071873,honorary doctorate of Salzburg University,False
+Q140894095,Honorary Fellow of the Royal Entomological Society,False
+Q21200648,Schleiden Medal,False
+Q7225685,Pollin Prize for Pediatric Research,False
+Q16933211,New Zealand 1990 Commemoration Medal,False
+Q21042373,InBev-Baillet Latour Health Prize,False
+Q1266070,Neuronal Plasticity Prize,False
+Q18560205,Sustainable Energy Award,False
+Q56765711,Suffrage Science award,False
+Q123398544,New Zealand Mana Tūārangi Distinguished Researcher Fellowship,False
+Q124823429,Fellow of the Australian Society for Parasitology,False
+Q6064725,Iowa Women's Hall of Fame,False
+Q28030419,Fellow of the Royal Aeronautical Society,False
+Q45313864,honorary doctor of the University of Girona,False
+Q1468630,Heinz Maier-Leibnitz Prize,False
+Q104805129,,False
+Q21154409,Nigerian National Order of Merit Award,False
+Q16458824,Officer of the Order of the Lithuanian Grand Duke Gediminas,False
+Q16458825,Commander's Grand Cross of the Order of the Lithuanian Grand Duke Gediminas,False
+Q16458918,Lithuanian Science Prize,False
+Q25504940,"Baltic Assembly Prize for Literature, the Arts and Science",False
+Q29204707,Novonesis Biotechnology Prize,False
+Q55339173,Knight Commander of the Order of the Rising Sun,False
+Q7257613,Public Service Medal,False
+Q39327,Andrei Sakharov Prize,False
+Q20873816,Heinz R. Pagels Human Rights of Scientists Award,False
+Q15124418,honorary citizen of Munich,False
+Q26936132,Silver Medal of the President of the Senate,False
+Q839953,Empresa de Ferrocarriles Ecuatorianos,False
+Q258552,Bayerischer Poetentaler,False
+Q1535113,honorary golden medal of the state capital Munich,False
+Q1958880,"Munich ""München leuchtet"" award",False
+Q63052420,,False
+Q1535108,Golden Citizen's Medal of the City of Munich,False
+Q1869491,Longevity Prize,False
+Q751275,Order of Charles III,False
+Q2628946,Order of Rio Branco,False
+Q30929546,Woman Press Trophy,False
+Q28609507,Knight Grand Officer of the Order of Franz Josef I,False
+Q1879505,Leopold Griffuel Prize,False
+Q18413491,Van Deenen Medal,False
+Q126416244,honorary doctorate from ENS,False
+Q141114221,Verdickt–Rydams Prize,False
+Q9387384,Honoured Master of Sports of the USSR,False
+Q63535549,Henry G. Houghton Award,False
+Q126965658,Honorary Member of the American Polar Society,False
+Q7009532,New Jersey Women's Hall of Fame,False
+Q121364143,honorary degree from Spelman College,False
+Q131402309,Rose-Walters Prize,False
+Q14785136,Commander of the Order of Christ,False
+Q14900497,Knight of the Order of Leopold,False
+Q101566864,honorary doctor of Syracuse University,False
+Q55697,Order of the Smile,False
+Q93716,Order of the Golden Spur,False
+Q152337,Charlemagne Prize,False
+Q207826,Time Person of the Year,False
+Q630018,Bambi Award,False
+Q735298,Supreme Order of Christ,False
+Q836057,Equestrian Order of the Holy Sepulchre,False
+Q946960,Order of St. Gregory the Great,False
+Q1276342,Order of St. Sylvester,False
+Q1423841,Order of Pius IX,False
+Q15279719,Gold Olympic Order,False
+Q25708325,Grand Collar of the Order of the Andes' Condor,False
+Q122445257,Sexist Man Alive,False
+Q140165573,Zayed Award for Human Fraternity,False
+Q15279723,Silver Olympic Order,False
+Q996574,Johann-Heinrich-Merck-Preis,False
+Q1256531,Preis der Stadt Wien für Publizistik,False
+Q1457830,Friedrich-Märker-Preis,False
+Q22965452,Gregor Mendel Medal,False
+Q211672,Gold Medal of the Generalitat of Catalonia,False
+Q391911,National Order of Quebec,False
+Q1139785,Saint George's Cross,False
+Q1415232,Order of the Sun of Peru,False
+Q2002929,Order of the Lithuanian Grand Duke Gediminas,False
+Q3885264,Order of Friendship,False
+Q4666314,Abdus Salam Medal,False
+Q5760288,Dearest Son of Andalusia,False
+Q20853482,Grand Cross of the Order of Merit of the Republic of Poland,False
+Q20894903,Grand Cross of the Order of the Lithuanian Grand Duke Gediminas,False
+Q25755314,Grand Cross of the Order of the Sun of Peru,False
+Q28870378,Grand Cross of the Order of Cisneros,False
+Q50610776,honorary doctorate of Seville University,False
+Q50616780,honorary doctor of the University Polytechnic of Catalonia,False
+Q50620831,honorary doctorate of the University of La Rioja,False
+Q59641381,René Cassin Prize,False
+Q126416227,honorary doctor of the University of Paris 1 Pantheon-Sorbonne,False
+Q211692,Catalonia International Prize,False
+Q2427130,Prize of Honor Lluís Carulla,False
+Q4894169,Catalan of the year Award,False
+Q9062240,City of Barcelona Award,False
+Q11942657,National Culture Award of Catalonia,False
+Q43286820,Career SCB Award,False
+Q46993513,National Research Award- Catalonia,False
+Q76702607,Josep Trueta Medal,False
+Q21286191,UNESCO-Equatorial Guinea International Prize for Research in the Life Sciences,False
+Q24067138,Medal of the Republic,False
+Q63307285,Pioneer of Reform,False
+Q575568,International Prize for Biology,False
+Q1992181,"Medal ""In Commemoration of the 300th Anniversary of Saint Petersburg""",False
+Q211167,Russian Federation Presidential Certificate of Honour,False
+Q12819727,al-Biruni State Prize of the Republic of Uzbekistan in the field of science and technology,False
+Q96971887,Honored inventor of the Azerbaijan SSR,False
+Q133861736,honorary member of Östgöta nation in Uppsala,False
+Q4193244,VA Engelhardt Gold Medal,False
+Q29043607,Order of St. Sergius of Radonezh 3rd class,False
+Q18080427,"Order ""For Merit to the Fatherland"", 3rd class",False
+Q4188134,,False
+Q56878050,Richard P. Van Duyne Early Career Award in Experimental Physical Chemistry,False
+Q4193263,NN Semenov Gold Medal,False
+Q4429306,Soros Prize,False
+Q4377120,Bach Prize,False
+Q28413962,Shitsan Pai Award,False
+Q22080517,Lurie Prize in Biomedical Sciences,False
+Q6415401,Kirk Bryan Award,False
+Q928309,Bronze Wolf Award,False
+Q33112157,King Faisal Prize in Service to Islam,False
+Q127278489,Francis J. Clamer Medal,False
+Q188823,scholarship,False
+Q59772072,Fellow of the Australian Institute of Company Directors,False
+Q5047343,Cartier Women's Initiative Awards,False
+Q17366498,Knight of the Order of Isabella the Catholic,False
+Q23070994,Knight of the Order of Christ,False
+Q66196970,"5th class, Order of the Medjidie",False
+Q22025390,Roy G. Neville Prize,False
+Q131354826,honorary doctorate from University of Rennes,False
+Q6049130,International Centre of Insect Physiology and Ecology,False
+Q71682507,Fellow of the Entomological Society of America,False
+Q106803628,Nan-Yao Su Award for Innovation and Creativity in Entomology,False
+Q2233010,Order of Mapungubwe,False
+Q9682417,Medal of the Order of Australia,False
+Q15972332,"Order of the Rising Sun, 2nd class",False
+Q110610920,Honorary doctorate of the University of Florida,False
+Q47508692,CSA Trust Mike Lynch Award,False
+Q1576704,Hans A. Bethe Prize,False
+Q876438,Erwin Schrödinger Prize,False
+Q1804550,Prize of the City of Vienna for Natural Sciences,False
+Q131353823,honorary doctor of the University of Bordeaux,False
+Q1664188,Innovation Award in Medical and Pharmaceutical Chemistry,False
+Q1423987,Lichtenberg Medal,False
+Q15016684,Blaise Pascal Medal,False
+Q51025493,honorary doctorate of Technion,False
+Q51035522,honorary doctorate of the Weizmann Institute of Science,False
+Q59693579,doctor honoris causa of the University of Innsbruck,False
+Q83489209,honorary doctor of the University of Bonn,False
+Q85191170,honorary doctor of the National University of Córdoba,False
+Q131978359,Artur Becker Medal in Gold,False
+Q2148869,Richard Kuhn Medal,False
+Q27973249,Schelling Price,False
+Q1735276,Alfried Krupp Award for Young University Teachers,False
+Q973829,Order of New Zealand,False
+Q1285070,Friendship Award,False
+Q131837474,honorary doctor of Victoria University of Wellington,False
+Q131353948,honorary doctorate of the University of Montpellier,False
+Q5366064,Ellison–Cliffe Lecture,False
+Q93911,Order of the Royal House of Chakri,False
+Q690829,Order of Ramkeerati,False
+Q935701,Order of the Direkgunabhorn,False
+Q1809988,Order of the Nine Gems,False
+Q3885395,Order of Ojaswi Rajanya,False
+Q6052096,Order of Merit for Distinguished Services,False
+Q12192384,Dame Grand Cross of the Royal Victorian Order,False
+Q13016536,Grand Cross of the Order of Chula Chom Klao,False
+Q13025965,Chakrabarti Mala Medal,False
+Q16139394,Thai Red Cross Medal,False
+Q20879970,Grand Cross of the Order of Orange-Nassau,False
+Q64735577,Grand Cordon of the Order of the Precious Crown,False
+Q96231173,Grand Cordon of the Order of the White Elephant,False
+Q106471762,Grand Cordon of the Order of the Crown of Thailand,False
+Q1728358,Stadtältester von Berlin,False
+Q22026575,Commander of the Order of the Southern Cross,False
+Q130979516,grand prix de la Société de géographie,False
+Q470078,Order of Merit of Rhineland-Palatinate,False
+Q2458588,Tsungming Tu Award,False
+Q15825628,Leo Hendrik Baekeland Award,False
+Q19681753,Paul Karrer Gold Medal and Lecture,False
+Q48893481,Theodore William Richards Medal,False
+Q26882935,German Society for Hygiene and Microbiology Prize,False
+Q5460977,Florey Medal,False
+Q7234626,Potamkin Prize,False
+Q11997611,Order of Freedom of the Republic of Slovenia,False
+Q12784448,Ambassador of Science of the Republic of Slovenia,False
+Q12807394,Prešeren Award for Students,False
+Q1066052,Order of the Sacred Treasure,False
+Q126422634,doctor honoris causa from the University of Dijon,False
+Q113461990,Walt Westman Award,False
+Q105447257,Fellow of the Institution of Professional Engineers New Zealand,False
+Q109775881,Honored Engineer of the Azerbaijan SSR,False
+Q918601,British Empire Medal,False
+Q84223265,Prix Jules Gosselet,False
+Q110193648,Stephen Hales Prize,False
+Q108324552,Ruth Patrick Award,False
+Q119067011,John Martin Award,False
+Q963068,Sonning Prize,False
+Q976544,Order of the Elephant,False
+Q9208584,honorary doctor of the University of Warsaw,False
+Q20638310,Knight Grand Cross of the Order of the Falcon,False
+Q41799198,Honorary doctor of the University of Zagreb,False
+Q42851154,Knight 1st class of the Order of Vasa,False
+Q41805943,honorary doctor of the Dresden University of Technology,False
+Q106110409,Grashof Commemorative Medal,False
+Q1582967,Presidential Citizens Medal,False
+Q21151892,National Academy of Engineering Founders Award,False
+Q32331664,Honorary doctor of the Free University of Berlin,False
+Q41710965,ISNSCE Nanoscience Prize,False
+Q126420884,doctor honoris causa from the University of Grenoble,False
+Q1994926,Spingarn Medal,False
+Q95166205,Honorary doctor of the Technical University of Graz,False
+Q11609173,Knight of the Order of Saint Michael,False
+Q126416226,Doctor honoris causa of the École Pratique des Hautes Études,False
+Q36476516,ANZAAS Medal,False
+Q12192712,Knight Commander of the Royal Victorian Order,False
+Q26837312,Patron’s Medal,False
+Q603631,Templeton Prize,False
+Q1855427,Tom W. Bonner Prize in Nuclear Physics,False
+Q544092,Order of Saint Michael,False
+Q20900062,Knight Officer of the Order of the Polar Star,False
+Q61744554,Fellow of the American Society for Engineering Education,False
+Q111166145,honorary doctorate from the University of Parma,False
+Q30132672,Padma Shri in Medicine,False
+Q135404753,William Ledingham Christie prize in Applied Anatomy,False
+Q116980976,Ewald Prize,False
+Q6805082,Medal of the 40th Anniversary of People's Poland,False
+Q6796097,Maxwell Finland Award,False
+Q64873932,honorary doctor of the University of Patras,False
+Q5322683,ECI Prize,False
+Q21129798,Vladimir Ivanovich Vernadsky Medal,False
+Q59766793,Fellow of the Ecological Society of America,False
+Q126939800,Gerald W. Prescott Award,False
+Q18591931,Great Silver Medal of Honour for Services to the Republic of Austria,False
+Q106693854,North Carolina Award for Public Service,False
+Q110586973,Prix François-Fontannes,False
+Q6084403,"Prize of Castile and Leon for scientific, technical and innovative research",False
+Q458883,Commander Cross of the Order of Merit of the Hungarian Republic,False
+Q458902,Officer's Cross of the Hungarian Order of Merit,False
+Q2400297,Order of Labour,False
+Q5260186,Department of Commerce Silver Medal,False
+Q3885159,National Order of Madagascar,False
+Q94793,Queen Elizabeth II Coronation Medal,False
+Q2059227,Queen Elizabeth II Silver Jubilee Medal,False
+Q9684031,Knight of the Order of Australia,False
+Q45924,IBM Fellow,False
+Q7196643,Pioneer Award in Nanotechnology,False
+Q108121784,ACS Inorganic Nanoscience Award,False
+Q285117,Pulitzer Prize for Biography,False
+Q678263,Edison Medal,False
+Q678414,IEEE Medal of Honor,False
+Q4442635,Marshall Scholarship,False
+Q15839972,Perl-UNC Prize,False
+Q29886456,Ernst Jung Gold Medal for Medicine,False
+Q17985761,star on Hollywood Walk of Fame,False
+Q599434,Feltrinelli Prize,False
+Q26269403,"Watson, Helen, Miles, and Audrey Davis Prize",False
+Q18560122,Applied Catalysis Award,False
+Q18560168,John B Goodenough Award,False
+Q56610552,Rutherford Memorial Medal in Chemistry,False
+Q46993486,Catalonia National Research Award,False
+Q278251,Dr A. H. Heineken Prize for Environmental Sciences,False
+Q32823066,,False
+Q931702,Castelao Medal,False
+Q50356134,María Josefa Wonenburger Planells Prize,False
+Q6084717,,False
+Q30169959,Rey Jaime I Award for New Technologies,False
+Q103980242,,False
+Q30132589,Padma Shri in Civil Service,False
+Q58837332,Member of the National Academy of Medicine,False
+Q119931981,Bourke-Liversidge Award,False
+Q6433906,Kotcherlakota Rangadhama Rao Memorial Lecture Award,False
+Q95681588,TWAS Prize for Physics,False
+Q13377767,Officer of the Royal Order of Cambodia,False
+Q29646888,G L Brown Prize Lecture,False
+Q20890096,Knight of the Walloon Merit,False
+Q61753716,honorary citizen of Liège,False
+Q105012276,Olav Thon Foundation’s International Research Award,False
+Q124693018,Irving S. Wright Award of Distinction,False
+Q19681578,Skaupy award,False
+Q56823384,Metlife Foundation Award for Medical Research in Alzheimer's Disease,False
+Q56850280,Khalid Iqbal Lifetime Achievement Award in Alzheimer’s Disease Research,False
+Q18560153,Environment Prize,False
+Q121440327,Francis J. Pettijohn Medal for Recognition in Sedimentology,False
+Q23776001,Grand Commander of the Order of the Star and Key of the Indian Ocean,False
+Q54889438,OkayAfrica 100 Women,False
+Q4647076,A.C. Redfield Lifetime Achievement Award,False
+Q1065739,Order of the Precious Crown,False
+Q4188091,Honored worker of the service sector of Ukraine,False
+Q87662907,Prix Recherche de l'Inserm,False
+Q330957,Bruce Medal,False
+Q20899919,Knight Grand Officer of the Order of the Polar Star,False
+Q1452721,Frederic Ives Medal,False
+Q126658920,honorary doctor of the University of Rennes,False
+Q120717815,George M. Kober Lectureship,False
+Q1535326,Golden Kraepelin Medal,False
+Q27867814,Nordic Research Prize,False
+Q2069978,NASA Distinguished Public Service Medal,False
+Q65706802,Kate Gleason Award,False
+Q7024966,Nicolas Appert Award,False
+Q52349666,Bordin Prize,False
+Q56260834,Prix Gustave Le Métais-Larivière,False
+Q118129438,Grand prix littéraire de Provence,False
+Q118129632,Frédéric Mistral Prize,False
+Q3475807,Scientific of the year,False
+Q107230781,,False
+Q25105009,Günther Laukien Prize,False
+Q472379,Grimme-Preis,False
+Q1205489,German Webvideo award,False
+Q1506610,,False
+Q1546865,Grimme Online Award,False
+Q1576361,Hanns-Joachim-Friedrichs-Award,False
+Q1600598,Leibniz Medal,False
+Q1605666,Henri Nannen Award,False
+Q1615933,Hessian Cultural Prize,False
+Q1791809,,False
+Q28498645,Goldene Kamera Digital Award,False
+Q72585958,Umweltmedienpreis,False
+Q76754809,,False
+Q108920477,Heinz Oberhummer Award for Science Communication,False
+Q141905216,,False
+Q22667793,"Order of the White Star, 4th Class",False
+Q58370053,Rip Rapp Archaeological Geology Award,False
+Q105670306,Fellow of the American Heart Association,False
+Q124962476,Special Recognition Award in Thrombosis,False
+Q6628654,Oak scholarship,False
+Q31098467,Fellow of the Faculty of Pharmaceutical Medicine,False
+Q31176147,Fellow of the British Pharmacological Society,False
+Q1347076,Erwin-Schrödinger-Price,False
+Q23020787,Edgeworth David Medal,False
+Q98124825,European Woman Inventor of the Year Award,False
+Q14865241,Officer of the Order of the Crown of Italy,False
+Q20888904,Officer of the Order of Saints Maurice and Lazarus,False
+Q20900064,Knight of the Order of the Polar Star,False
+Q22057796,Officer of the Order of the Southern Cross,False
+Q66672673,Officer of the Imperial Order of the Rose,False
+Q747248,Order of the Yugoslav Star,False
+Q1783970,Order of the Liberator General San Martín,False
+Q2001689,anniversary medal at the occasion of the 2500th anniversary of the founding of the Iranian Empire,False
+Q2047916,Hero of the Socialist Republic of Romania,False
+Q2074734,Order of the Defender of the Realm,False
+Q2440493,Order of the Victory of Socialism,False
+Q14539974,Knight Grand Cross of the Order of Merit of the Italian Republic,False
+Q20859482,Grand Collar of the Order of Prince Henry,False
+Q114862974,,False
+Q42591771,honorary doctorate of Haifa University,False
+Q16943677,Dame Grand Cross of the Order of the British Empire,False
+Q42293667,honorary doctor of Ben-Gurion University,False
+Q42293686,honorary doctor of the Bar-Ilan University,False
+Q67802762,honorary doctor of the University of Łódź,False
+Q1126046,Congressional Space Medal of Honor,False
+Q7082416,Oklahoma Women's Hall of Fame,False
+Q920315,British War Medal,False
+Q3332211,Inter-Allied Victory medal (Belgium),False
+Q38810578,honorary doctorate of the University of Valladolid,False
+Q85631788,Gold Medal of the Principality of Asturias,False
+Q1690167,Smith's Prize,False
+Q6797279,Mayhew Prize,False
+Q60836980,Warren Triennial Prize,False
+Q4286908,NASA Outstanding Leadership Medal,False
+Q6952406,NASA Exceptional Service Medal,False
+Q25111154,Space Flight Award,False
+Q55614528,International Air & Space Hall of Fame,False
+Q58895465,Women in Space Science Award,False
+Q99527623,NASA Certificate of Appreciation,False
+Q105727509,lifetime achievement award,False
+Q64152520,Honorary Doctorate from the National Autonomous University of Mexico,False
+Q15812529,Golden Honorary Ring of the City of Hof,False
+Q3405310,Steacie Prize,False
+Q86458856,honorary doctorate of Concordia University,False
+Q4654056,ASA Gold Medal,False
+Q18402723,Howard Crosby Warren Medal,False
+Q5322058,E. Mead Johnson Award,False
+Q2086723,Philipp Franz von Siebold Award,False
+Q56607536,Grand Cross of the Order Bernardo O'Higgins,False
+Q56872155,diamond Konex award,False
+Q16787486,Knight Grand Cross of the Order of Leopold II,False
+Q17200714,Commander of the Order of the Crown,False
+Q126416282,honorary doctor of the University Lille-II,False
+Q1605179,Sofia Kovalevskaya Award,False
+Q30123947,Bristol-Myers Squibb Award for Distinguished Achievement in Infectious Diseases Research,False
+Q19294880,Commander of the Order of Agricultural Merit,False
+Q1803178,Merited Coach of the USSR,False
+Q4063552,Alpinist of the USSR,False
+Q2495495,M. W. Beijerinck Prize for Virology,False
+Q24659199,Fellow of the Royal Historical Society,False
+Q1515985,Newton Lacy Pierce Prize in Astronomy,False
+Q3404296,Acfas Adrien Pouliot Prize,False
+Q3405056,Prix Michel-Sarrazin,False
+Q3405400,Wilder-Penfield Prize,False
+Q21804547,Deserved scientist of ArmSSR,False
+Q106435639,Medalha de Mérito Científico,False
+Q23014197,TED Fellow,False
+Q28493926,Langevin prize,False
+Q507299,De Morgan Medal,False
+Q3404933,Leconte Prize,False
+Q7182737,Philadelphia Liberty Medal,False
+Q64755635,Masaryk University Gold Medal,False
+Q101242891,honorary doctor of the Hofstra University,False
+Q104783495,Honorary Knight Commander of the Order of the British Empire,False
+Q7100487,Order of Danica Hrvatska,False
+Q12959336,honorary citizen of Osijek,False
+Q58382530,honorary citizen of Sarajevo,False
+Q1299986,honorary citizen of Hanover,False
+Q1300258,Medal of Honor of Göttingen City,False
+Q1351451,Oersted Medal,False
+Q1300543,Ring of Honour of the City of Vienna,False
+Q18574988,Decoration of Honour in Silver for Services to the State of Vienna,False
+Q1528342,City of Vienna award for medicine,False
+Q18507211,Decoration of Honour in Gold for Services to the State of Vienna,False
+Q61716864,Austrian Decoration for Science and Art First Class,False
+Q17454734,Grand Gold Decoration of Styria,False
+Q922078,Davisson–Germer Prize in Atomic or Surface Physics,False
+Q20591892,Republic of Tatarstan State Award for Science and Technology,False
+Q21877402,Silver Cross of the Virtuti Militari,False
+Q2703201,Order of Civil Merit,False
+Q50611819,Honorary doctor of the University of Huelva,False
+Q85359082,Rhodia Pierre-Gilles de Gennes Award,False
+Q66099399,Academician of the International Eurasian Academy of Sciences,False
+Q50685102,medal of merit Amanda Labarca,False
+Q83259686,Camille Dreyfus Teacher-Scholar Award,False
+Q67513382,Fellow of the Australasian Institute of Mining and Metallurgy,False
+Q75665305,Leighton Memorial Medal,False
+Q6585591,Notable of Haifa,False
+Q126416223,honorary doctorate from University of Orléans,False
+Q135275501,Ruth and Edwin Kennedy Distinguished Professor Award,False
+Q69526984,"Fellow of the National Academy of Sciences, Arts and Letters of Burkina Faso",False
+Q57975378,Max Planck-Humboldt Research Award,False
+Q103838751,Member of the Washington State Academy of Sciences,False
+Q7541057,Sloan Fellowship,False
+Q105950049,UC Davis Chancellor’s Fellows,False
+Q10639464,Professor,False
+Q1780176,Tony Award for Best Musical,False
+Q1982897,Honorary Citizen of the Russian Empire,False
+Q452283,Nestlé Children's Book Prize,False
+Q971363,Guardian Children's Fiction Prize,False
+Q4288130,International Stalin Prize for Peace,False
+Q61743209,Berufstitel Professor,False
+Q29647301,Sharpey-Schafer Lecture and Prize,False
+Q6970486,Národní umělec,False
+Q96203570,"fellow of Darwin College, Cambridge",False
+Q20613623,Havenga prize,False
+Q60986464,Fellow of the Royal Society of South Africa,False
+Q2108648,Enrico Fermi Prize,False
+Q1141859,Czech Medal of Merit,False
+Q63396684,honorary doctorate from the University of Waterloo,False
+Q116985638,honorary doctorate of the University of Reims,False
+Q25110425,C.E.K. Mees Medal,False
+Q109554374,National Book Critics Circle Award in Biography,False
+Q31823324,Sjöberg Prize,False
+Q124668897,Breakthroughs in Gerontology Awards,False
+Q107130729,Male Actor of the Year,False
+Q874251,Gentner–Kastler Prize,False
+Q55503380,Grammaticakis-Neumann Prize,False
+Q96377590,,False
+Q5344653,Edward Novitski Prize,False
+Q913910,Order of the Three Stars,False
+Q20529267,Scientific Prize of The Republic of Estonia,False
+Q23301391,"Order of the White Star, 5th Class",False
+Q106592886,Honoured Worker of Science and Technology of the Azerbaijan SSR,False
+Q21970577,Cross of Independence,False
+Q1800376,Tagea Brandt Rejselegat,False
+Q42852129,Knight of the 1st Class of the Order of the Dannebrog,False
+Q4377135,Khlopin Prize,False
+Q58023513,,False
+Q55727569,Kwangdong Award for Cancer Research,False
+Q2571006,Wiley Prize,False
+Q6596243,Odisha Sahitya Akademi Award,False
+Q7325343,Richard E. Bellman Control Heritage Award,False
+Q50308613,Chalmers Medal,False
+Q43388249,Grand Cross of the Order of the White Double Cross,False
+Q3806623,James Joyce Awards,False
+Q59767712,Fellow of the Institute of Mathematical Statistics,False
+Q1079555,Imperial Order of the Rose,False
+Q32625952,Wellcome Trust Principal Research Fellowship,False
+Q98594709,Outstanding Citizen of Buenos Aires,False
+Q84606034,Member of the National Academy of Engineering,False
+Q1377896,European Latsis Prize,False
+Q23784092,Otto Naegeli Prize,False
+Q106045103,Exceptional Contribution to Biocuration Award,False
+Q30466369,Fellow of the Royal College of Surgeons of Edinburgh,False
+Q4240333,Auschwitz Cross,False
+Q95987274,Cross of Pribina class I,False
+Q115597574,,False
+Q59779997,Fellow of the Royal Society of Medicine,False
+Q1455366,Rosalind Franklin Award,False
+Q95586303,Franklin-Lavoisier Prize,False
+Q30175456,Honorary doctor of the University of Groningen,False
+Q58550377,honorary doctor of the University of Birmingham,False
+Q19946848,Progress Medal,False
+Q28604416,Commander's Cross of the Order of Franz Joseph,False
+Q19362,Franz Kafka Prize,False
+Q37922,Nobel Prize in Literature,True
+Q519214,Nelly Sachs Prize,False
+Q548129,Johann-Peter-Hebel-Preis,False
+Q680052,Gottfried-Keller-Preis,False
+Q876788,Franz-Kafka-Preis,False
+Q877549,Franz Nabl Prize,False
+Q957735,Literature Award of the Bavarian Academy of the Fine Arts,False
+Q1371745,City of Vienna Literature Prize,False
+Q2640154,Georg Büchner Prize,False
+Q16336085,Grand Austrian State Prize for Literature,False
+Q61627749,honorary citizen of Vienna,False
+Q45309809,Scientific Grand Prize of the Lefoulon-Delalande Fondation,False
+Q56221094,Robert J. and Claire Pasarow Foundation Award for Distinguished Contributions to Cardiovascular Research,False
+Q15845552,Ho-am Prize in Medicine,False
+Q113026275,Scientists who want to resemble and want to be,False
+Q59766840,Fellow of the Econometric Society,False
+Q2561118,Cross of Valour,False
+Q4104097,Warsaw Uprising Cross,False
+Q16583682,Badge of the 1000th Anniversary of the Polish State,False
+Q21891706,"Work Flag Order, 2nd class",False
+Q94113533,Honorary Badge of the City of Łódź,False
+Q15821000,Jesse W. Beams Award,False
+Q126420363,honorary doctor of the University of Lille,False
+Q11415586,honorary fellow,False
+Q640988,Golden Party Badge,False
+Q25324196,Gordon E. Moore Medal for Outstanding Achievement in Solid State Science and Technology,False
+Q56450937,honorary doctor of the Eötvös Loránd University,False
+Q71175129,honorary doctor of the University of Illinois system,False
+Q7241173,President's Medal,False
+Q1703174,Order of the Builders of People's Poland,False
+Q113333175,National Academy of Sciences of the Republic of Korea Award,False
+Q136497488,Scientist and Technologist Award of Korea,False
+Q50825876,Anannya Top Ten Awards,False
+Q18910406,Mountain Goat of the Year,False
+Q51720673,honorary doctorate of the Karlsruhe Institute of Technology,False
+Q12376540,honorary doctor of the University of Tartu,False
+Q320674,Order of Merit of the Free State of Saxony,False
+Q11957868,Anders Jahre's Award for Medical Research,False
+Q17520989,Matti Äyräpää Prize,False
+Q42904322,J. W. Runeberg Prize,False
+Q47009634,Audubon Medal,False
+Q60850613,,False
+Q94162,New Zealand Order of Merit,False
+Q18560181,Materials for Industry - Derek Birchall Award,False
+Q3405433,D'Alembert Prize,False
+Q13452524,Officer of Arts and Letters,False
+Q18745052,Golden Pretzel,False
+Q20706460,Officer of the Order of Agricultural Merit,False
+Q16963221,Luigi Galvani Medal,False
+Q60775969,Sigillum Magnum,False
+Q78610908,ACS Division of Analytical Chemistry Award in Electrochemistry,False
+Q96100281,Heinz Gerischer Award,False
+Q22303942,"Order of the Three Stars, 3rd Class",False
+Q7603519,State Science and Technology Prizes,False
+Q18560136,Barrer Award,False
+Q110560455,ASLO Fellow,False
+Q1030850,International Dennis Gabor Award,False
+Q56874931,Spiers Memorial Award,False
+Q17013858,Michael and Kate Bárány Award,False
+Q106065945,Neuron Prize for important scientific discovery,False
+Q126888331,"Czech Medal of Merit, 1st class",False
+Q16521659,Hungarian Order of Saint Stephen,False
+Q56390286,For Human Dignity Award,False
+Q18560189,Organometallic Chemistry Award,False
+Q18560143,Charles Rees Award,False
+Q7314082,Repligen Corporation Award in Chemistry of Biological Processes,False
+Q59104907,Mildred Cohn Award in Biological Chemistry,False
+Q118352306,SIRS Lifetime Achievement Award,False
+Q111099086,B. H. Ketchum Award,False
+Q107129317,NEXT Woman of the Year: Health & Science,False
+Q88322124,Euskadi Prize of research,False
+Q104775864,VinFuture Prize,False
+Q136805884,Lee Hsun Lecture Award,False
+Q20887150,Commander of the Military  Order of Saint James of the Sword,False
+Q56397878,Saintour Prize,False
+Q42309358,honorary doctor of the University of Sherbrooke,False
+Q73197407,honorary doctor of the University of Manitoba,False
+Q126416273,honorary doctor of the Marie and Louis Pasteur University,False
+Q5127298,Clark Kerr Medal,False
+Q42309521,honorary doctor of Waseda University,False
+Q2536791,W. Wallace McDowell Award,False
+Q5970365,IEEE Founders Medal,False
+Q5970368,IEEE Frederik Philips Award,False
+Q15995115,Harry H. Goode Memorial Award,False
+Q29545180,Computer History Museum Fellow,False
+Q360556,Adolf Fick Prize,False
+Q29646963,Hodgkin-Huxley-Katz Prize Lecture,False
+Q1550248,Gruber Prize in Neuroscience,False
+Q760940,French Order of Academic Palms,False
+Q1271569,Golden Mask,False
+Q3404578,Europe Theatre Prize,False
+Q4146624,Stanislavsky State Prize of the RSFSR,False
+Q4187990,Honored art worker of the Russian Federation,False
+Q13452531,Commandeur des Arts et des Lettres,False
+Q16665736,Medal of the City of Paris,False
+Q1557562,Pfizer Research Prize,False
+Q790636,German Immunology Prize,False
+Q996,Miles Franklin Literary Award,False
+Q1231052,Patrick White Award,False
+Q30329379,Barbara Ramsden Award,False
+Q134450003,Banjo Award for Fiction,False
+Q19909537,E. S. Fedorov Prize,False
+Q11372956,,False
+Q1803234,Master of Sport of the USSR,False
+Q56642441,The Jaume Vicens Vives award,False
+Q51954787,The seal of the city of Pilsen,False
+Q60314826,Hall of Fame of Czech Brewing and Malting,False
+Q30196314,Srinivasa Ramanujan Birth Centenary Award,False
+Q142243691,Ubbo Emmius Medal,False
+Q21714484,Thomas Graham Prize,False
+Q142096557,SMRM Gold Medal,False
+Q1795936,King Faisal Prize,False
+Q2054765,Order of the Republic,False
+Q2304559,Order of the Republic,False
+Q2329411,Order of Zayed,False
+Q3885163,Order of Merit,False
+Q4335917,Order of the Two Niles,False
+Q20857709,Grand Cordon of the National Order of the Cedar,False
+Q28911007,Honorary doctor of the University of Lausanne,False
+Q63089015,honorary doctor of the Peking University,False
+Q117188868,Order of the Republic,False
+Q135997319,honorary doctor of Baku State University,False
+Q136388800,Benjamin Franklin Medal in Chemistry,False
+Q26882892,Loeffler-Frosch medal,False
+Q5579511,Golden Goose Award,False
+Q5036784,Captain Robert Dexter Conrad Award,False
+Q15253361,Navy Distinguished Civilian Service Award,False
+Q74232599,honorary doctor of the University of Maryland,False
+Q29950683,Karl Ritter von Frisch Medal,False
+Q6008420,Gold medal of the Spanish National Research Council,False
+Q1227372,Dirac Medal for the Advancement of Physics,False
+Q18357422,The Brain Prize,False
+Q555104,Spanish Cross,False
+Q40743212,Honorary doctor of the University of Bologna,False
+Q55111733,honorary doctor of the Adam Mickiewicz University in Poznań,False
+Q56528430,honorary doctor of Babeș-Bolyai University,False
+Q59306809,honorary doctor of the Aristotle University of Thessaloniki,False
+Q84986872,honorary doctor of the University of Göttingen,False
+Q96869850,honorary doctor of the University of Basilicata,False
+Q97483969,honorary doctorate of Taras Shevchenko National University of Kyiv,False
+Q98836134,honorary doctor of the University of Crete,False
+Q762844,Order pro Merito Melitensi,False
+Q936956,European Human Rights Prize,False
+Q1377887,European Culture Prize,False
+Q1727728,,False
+Q2316391,,False
+Q56513570,honorary citizen of Miskolc,False
+Q472335,Saarland Order of Merit,False
+Q125214036,,False
+Q11503622,Shincho Gakugei Literature Prize,False
+Q4863634,Barringer Medal,False
+Q114840162,Ronald Greeley Award For Distinguished Service,False
+Q12330137,Ole Rømer Medal,False
+Q11280871,Česká hlava,False
+Q4311779,"Badge ""Inventor of the USSR""",False
+Q85784040,Martin Medal,False
+Q120758,Honour Cross of the World War 1914/1918,False
+Q336589,Air-Observer Decoration (Prussia),False
+Q667167,Blood Order,False
+Q688857,Sudetenland Medal,False
+Q689343,West Wall Medal,False
+Q1815857,German Equestrian Badge,False
+Q130343742,Wound Badge (1918) in Silver,False
+Q179054,Order of the Spanish Republic,False
+Q1360691,Samfundet De Nio's Grand Prize,False
+Q56648962,,False
+Q20886166,Knight Commander of the Order of Alfonso X,False
+Q56607593,Grand Cross of the Order of May,False
+Q109379784,Subba Row Medal,False
+Q62789243,Fellow of the American Society of Plant Biologists,False
+Q1630682,Penrose Medal,False
+Q3332235,Thomas W. Eadie Medal,False
+Q58677072,Tom Ziegler Award,False
+Q63344871,Ruzicka Prize,False
+Q6506410,LeRoy Apker Award,False
+Q107015307,Andreas Acrivos Dissertation Award,False
+Q30596142,EliteForsk Prize,False
+Q98393463,Hans Christian Ørsted Prize,False
+Q126727491,Roy-Somiya Award,False
+Q11789107,Nicolaus Copernicus Scientific Award,False
+Q68454257,Fellow of the Chemical Institute of Canada,False
+Q62071451,honorary doctor of the Medical University of Debrecen,False
+Q18560138,Bioinorganic Chemistry Award,False
+Q56648090,R.U. Lemieux Award,False
+Q7441759,Searle Scholars Program,False
+Q141563809,honorary citizen of Freiburg im Breisgau,False
+Q961142,Royal Order of the Polar Star,False
+Q20890666,Swedish American of the Year,False
+Q111086041,Honorary doctorate from the University of East Anglia,False
+Q35637,Nobel Peace Prize,True
+Q1307005,Medal for Merit,False
+Q3404636,Gandhi Peace Award,False
+Q19869310,Humanist of the Year,False
+Q572572,"Jubilee Medal ""50 Years of the Armed Forces of the USSR""",False
+Q615838,Distinguished Service Order,False
+Q7509051,Sidney Fernbach Award,False
+Q20049851,ICTP Dirac Medal,False
+Q27087824,Armenian SSR State Prize,False
+Q106508988,honorary doctor of the University of Tromso,False
+Q43448560,,False
+Q2683676,Pride of Performance,False
+Q15064344,Hilal-i-Imtiaz,False
+Q3910477,Carl Sagan Award for Public Understanding of Science,False
+Q5184934,Crick Lecture,False
+Q7114033,Overton Prize,False
+Q19977575,The Chalmers' Medal,False
+Q56241847,Göran Gustafsson Prize for physics,False
+Q110104925,,False
+Q6955293,Graduate Research Fellowship Program,False
+Q126416271,honorary doctor of the Cergy-Pontoise University,False
+Q56062138,Emmy Noether Distinction for Women in Physics,False
+Q7946044,W. W. Hutchison Medal,False
+Q56434170,Selby Research Award,False
+Q57398856,Malcolm McIntosh Prize for Physical Scientist of the Year,False
+Q2544568,Walter H. Bucher Medal,False
+Q135494094,ASBMB Fellow,False
+Q61745006,Fellow of the American Society of Mechanical Engineers,False
+Q4287195,John Torrence Tate Medal,False
+Q18215328,Grand Officer of the Order of Honour for Services to the Republic of Austria,False
+Q40673468,Honorary doctor of the Technical University of Berlin,False
+Q11165895,Geheimrat,False
+Q105103887,Knight Grand Cross of the Order of Albrecht the Bold,False
+Q108105275,Knight I Class of the Saxon Order of Civil Merit,False
+Q111512907,honorary citizen of Łódź,False
+Q1240453,Pro Natura commemorative medal,False
+Q2313179,language adulterator award,False
+Q57237132,honorary doctorate of the University of South Carolina,False
+Q63092192,honorary doctor of the Nanjing University of Science and Technology,False
+Q66578613,honorary doctor of the Tbilisi State University,False
+Q84421720,honorary doctor of the University of Lisbon,False
+Q15042142,Commander of the Order of the Oak Crown,False
+Q21916800,Odznaka tytułu honorowego „Zasłużony Nauczyciel PRL”,False
+Q17012902,Nari Shakti Puraskar,False
+Q67195054,CSIRO Medal for Lifetime Achievement,False
+Q11346,Royal Society Science Books Prize,False
+Q108044807,"Randolph W. ""Bill"" and Cecile T. Bromery Award",False
+Q141992992,Anil Kumar Bose Memorial Award,False
+Q54854488,honorary doctor of the University of Zurich,False
+Q1729688,Karl-Arnold-Preis,False
+Q1555499,Gustav-Steinmann Medal,False
+Q1578200,Hans-Stille-Medaille,False
+Q20857628,Commander of the Order of the Star of Romania,False
+Q126680562,honorary doctorate of the Université de Clermont-Ferrand,False
+Q12192290,Knight Grand Cross of the Royal Victorian Order,False
+Q19878667,Hayden Memorial Geological Award,False
+Q1351243,Alfried-Krupp Science Prize,False
+Q6019402,India Science Award,False
+Q11942661,Ramon Llull Award,False
+Q94345,Order of St. Olav,False
+Q139425,Order of Orange-Nassau,False
+Q1779613,Medal of St. Hallvard,False
+Q11380282,Honorable Mention from Mensa Czech Republic,False
+Q125522842,honorary doctorate of the University of Prešov in Prešov,False
+Q241821,"Medal ""For the Defence of Stalingrad""",False
+Q1915961,"Medal ""For Battle Merit""",False
+Q4286793,Medal In memory of Alexander III,False
+Q18623051,Merited Scientist of Estonian SSR,False
+Q18623226,Prize of Soviet Estonia,False
+Q31273881,Paul Kogerman medal,False
+Q47007676,Estonian Red Cross Order Third Class,False
+Q130717578,"Cross of Liberty 3rd Division, 1st Class",False
+Q18626251,honorary citizen of Tartu,False
+Q5588086,Gottschalk Medal,False
+Q57398737,Prime Minister's Prize for Science,False
+Q85991189,,False
+Q111851454,Independence Day (Israel) torchbearer,False
+Q6249132,John Monash Scholars,False
+Q17403176,Doctor of Law (honorary),False
+Q933972,IEEE Masaru Ibuka Consumer Electronics Award,False
+Q124031515,Distinguished Fellow of Engineering New Zealand,False
+Q56878066,ACS Physical Chemistry Division Award in Theoretical Physical Chemistry,False
+Q104904540,Christian R. and Mary F. Lindback Foundation Award for Distinguished Teaching,False
+Q1291465,Edward Warner Award,False
+Q3404419,Broquette-Gonin prize,False
+Q7677960,Takeda Awards,False
+Q112147905,,False
+Q112152054,honorary doctor of the Palacký University Olomouc,False
+Q7374839,Royal Society Wolfson Fellowship,False
+Q30636749,Fellow of the Society for Industrial and Applied Mathematics,False
+Q1095116,Clara Zetkin Medal,False
+Q772112,World Food Prize,False
+Q49162203,Ita Askonas Award,False
+Q4854152,Bancroft Award,False
+Q145752,Purple Heart,False
+Q928314,Bronze Star Medal,False
+Q105476320,honorary doctor of Purdue University,False
+Q3298662,ASME Medal,False
+Q7781991,Theodore Roosevelt Award,False
+Q89563835,Daniel H. Efron Research Award,False
+Q26268774,Founder’s Medal,False
+Q724443,Legion of Merit,False
+Q1328816,Eli Lilly and Company-Elanco Research Award,False
+Q4997908,Bunsen–Kirchhoff Award,False
+Q891037,Panofsky Prize,False
+Q1028339,George Ellery Hale Prize,False
+Q1122821,Comstock Prize in Physics,False
+Q7793410,Thomas Ranken Lyle Medal,False
+Q1465214,Médaille militaire,False
+Q4730551,Allan D. Emil Memorial Award,False
+Q63076990,Theodore von Kármán Award,False
+Q869220,Corvin Wreath,False
+Q25405526,Time Machine Award,False
+Q109287094,,False
+Q2031465,Bogolyubov Prize,False
+Q11520658,Honda Prize,False
+Q21661136,Kampé de Fériet Award,False
+Q2122261,IEEE Quantum Electronics Award,False
+Q15995563,IEEE W.R.G. Baker Award,False
+Q1065018,Russ Prize,False
+Q5970417,IEEE Medal for Innovations in Healthcare Technology,False
+Q2882006,Medal of Honor of the Parliament of Catalonia,False
+Q58444402,Prat de la Riba Award,False
+Q120734213,,False
+Q931502,Order of Isabella the Catholic,False
+Q1059569,Order of Merit of the Italian Republic,False
+Q3638154,Italian Order of Merit for Culture and Art,False
+Q18524008,Grand Decoration of Honour for Services to the Republic of Austria,False
+Q18559565,Honorary Knight of the Order of St John,False
+Q248041,Zülch Award,False
+Q60752759,Ruth Stephens Gani Medal,False
+Q66085136,Georgina Sweet Australian Laureate Fellowship,False
+Q111951517,Fellow of the Royal Society of Victoria,False
+Q69326471,Fellow of the Ghana Academy of Arts and Sciences,False
+Q57570478,Liley Medal,False
+Q913404,Doctor of Medicine,False
+Q61636295,Fellows of the International Society for Magnetic Resonance in Medicine,False
+Q65715513,Fellow of the Biophysical Society,False
+Q125607906,,False
+Q1573205,Hamburg Science Prize,False
+Q28498642,Wöhler-Preis für Nachhaltige Chemie,False
+Q12525580,Faraday Medal (electrochemistry),False
+Q127692228,honorary doctorate from École normale supérieure Paris-Saclay,False
+Q1861904,Commander of the Order of Orange-Nassau,False
+Q131625100,Eremedaille voor Kunst en Wetenschap in Goud,False
+Q15972349,"Order of the Rising Sun, 3rd class",False
+Q18990879,Leo Esaki Prize,False
+Q137863481,Nagoya Silver Medal,False
+Q56194084,"Order of the Sacred Treasure, 2nd Class",False
+Q64736646,"Order of the Precious Crown, 3rd Class",False
+Q4286701,Decade of Independence Regained,False
+Q11789106,Jan Heweliusz Scientific Award of the City of Gdańsk,False
+Q21923378,Bronze Medal for Merit in Fire Protection,False
+Q6416690,Kisiel Prize,False
+Q12797253,Boris Kidrič Fund award,False
+Q1700509,John Howland Award,False
+Q111345644,Gratitude Medal,False
+Q26111565,Fellow of the Royal Astronomical Society,False
+Q25304085,Norman Hackerman Young Author Award,False
+Q3368887,Commander of the National Order of Mali,False
+Q13501083,Knight of the Order of St. Gregory the Great,False
+Q63288407,China Reform Friendship Medal,False
+Q101107896,honorary doctor of Saint Joseph University,False
+Q2420121,Australian Football Hall of Fame,False
+Q6383942,Keith 'Bluey' Truscott Medal,False
+Q612041,Brewster Medal,False
+Q50327743,Knight of the Order of Montreal,False
+Q2902709,Yakir Yerushalayim,False
+Q28312048,Society for Developmental Biology Lifetime Achievement Award,False
+Q56289445,Novartis Prize for Clinical Immunology,False
+Q17126021,Occhialini Prize,False
+Q2331722,Stanley J. Korsmeyer Award,False
+Q35294856,Distinguished Mycologist Award,False
+Q18560156,George and Christine Sosnovsky Award in Cancer Therapy,False
+Q116218098,Laureate of the Academy - Class of Natural Sciences,False
+Q25421163,Prince of Girona award,False
+Q60243246,Talented Young Researcher Award,False
+Q137917138,,False
+Q78093744,honorary doctor of the National University of Rosario,False
+Q4335893,Order of Saints Cyril and Methodius,False
+Q2038006,Otto Roelen Medal,False
+Q2037956,Otto Hahn Medal,False
+Q55255797,Member of the Academia Europaea,False
+Q68454056,Fellow of the Electrochemical Society,False
+Q126416247,honorary doctor of Paris 13 University,False
+Q138659033,CEU Angel Herrera Prizes,False
+Q141880600,,False
+Q5303973,Dr. B. C. Roy Award,False
+Q90488688,Dr. Nathan Davis Award for Members of the Executive Branch in Career Public Service,False
+Q63433652,Fellow of the California Academy of Sciences,False
+Q20522573,,False
+Q65244511,Rolf Luft Award,False
+Q39182247,Jane Coffin Childs postdoctoral Fellowship,False
+Q571115,Albert Order,False
+Q88533749,honorary doctor of the University of Halle-Wittenberg,False
+Q131294738,honorary doctor of the University of Liverpool,False
+Q694715,Arnold Eucken Prize,False
+Q21662139,Maxwell Lecture,False
+Q323373,Abraham Pais Prize for History of Physics,False
+Q12314862,H. O. Lange Prize,False
+Q1094530,Kavli Prize,False
+Q105683407,Fellow of the International Academy of Wood Science,False
+Q123273879,The Wilhelm Klauditz Award,False
+Q123274257,"The Borden Award from the Forest Products Research Society, USA",False
+Q11593374,Knight of the Royal and Military Order of Saint Louis,False
+Q15117228,Knight of the Order of the Golden Fleece,False
+Q5679249,Haskins Medal,False
+Q116982264,Binoux Prize,False
+Q117311892,Fellow of the Medieval Academy of America,False
+Q21961530,Leonard G. Berry medal,False
+Q1569607,Haitinger Prize,False
+Q22025625,Tennessee Women's Hall of Fame,False
+Q56667085,American Association of Immunologists Lifetime Achievement Award,False
+Q2011427,Order of Bishop Platon,False
+Q1862291,Order of Honor,False
+Q3853497,Astana Medal,False
+Q16683971,Excellence in Public Education of the RSFSR,False
+Q41793795,Dostyk Order of grade II,False
+Q1915788,"Medal ""10 years of Astana""",False
+Q20216584,,False
+Q20216687,,False
+Q4335990,Order of Tudor Vladimirescu,False
+Q109027813,Order of Labor,False
+Q16088080,,False
+Q28732359,"Order ""For Merit to the People"" with golden star",False
+Q12827039,"""Mehnat shuhrati"" order",False
+Q943283,Order of George I,False
+Q63877754,Padma Bhushan in Literature & Education,False
+Q16519551,Eötvös Loránd Prize,False
+Q12143896,Alexander Ilyich Brodsky Award,False
+Q109264578,Borys Paton National Prize,False
+Q18712239,Florida Inventors Hall of Fame,False
+Q75028351,honorary doctor of the RWTH Aachen University,False
+Q101462913,honorary doctor of Queen's University Belfast,False
+Q572316,National Book Award,False
+Q20431931,"""Mihai Eminescu"" Medal",False
+Q141640036,,False
+Q289214,Pulitzer Prize for Drama,False
+Q6759373,Margaret Edwards Award,False
+Q126171642,star on Playwrights' Sidewalk,False
+Q97301393,honorary doctor of the University of Marburg,False
+Q821879,Berlin Science Award,False
+Q23786110,Hector Wissenschaftspreis,False
+Q3655852,Gusi Peace Prize,False
+Q55518535,Stifterverband Science Prize,False
+Q27996489,Prize Jaffé,False
+Q6821883,Messenger Lectures,False
+Q402425,Cullum Geographical Medal,False
+Q784589,Pulitzer Prize for General Nonfiction,False
+Q22251730,Eugène Carrière Prize,False
+Q19864305,Los Angeles Times Women of the Year Silver Cup,False
+Q61962219,Dudley Herschbach medal,False
+Q441792,Global 500 Roll of Honour,False
+Q60666810,WOW Award,False
+Q343913,Imtiyaz Medal,False
+Q599024,Order of the Medjidie,False
+Q1515028,Order of Glory,False
+Q1882991,Order of Osmanieh,False
+Q2085270,Order of the Badge of Honour,False
+Q4187995,Honored Scientist of Armenia,False
+Q9062258,,False
+Q28925963,Grand Cross of the Order of Merit for Agriculture,False
+Q34206334,Grand Cross of the Royal and Military Order of Saint Hermenegild,False
+Q34473235,Grand Cross of Naval Merit with white badge,False
+Q39688273,Grand Cross of the Aeronautical Merit - White Decoration,False
+Q85635540,Dearest Son of Oviedo,False
+Q106909254,Kalinga Samman,False
+Q25303888,J. D. Crawford Prize,False
+Q99312121,Aldo Leopold Award,False
+Q41488586,The Smith College Medal,False
+Q5555574,Premio Universidad Nacional (UNAM),False
+Q901898,Braunschweiger Forschungspreis,False
+Q56230343,Bristol-Myers Squibb Award for Distinguished Achievement in Metabolic Diseases Research,False
+Q1031969,Canada Gairdner Global Health Award,False
+Q6008353,Medalla Plus Ultra,False
+Q112303953,Dearest Son of Zaragoza province,False
+Q21405591,"Order of the Cross of Grunwald, 3rd class",False
+Q1137694,Order of the Companions of Honour,False
+Q4809650,Association of Biomolecular Resource Facilities,False
+Q1335771,Emil Wiechert Medal,False
+Q22893893,Commander of the Order of Vasa,False
+Q752331,Veitch Memorial Medal,False
+Q50613443,honorary doctorate of the University of the Balearic Islands,False
+Q731542,Strega Prize,False
+Q788568,Bagutta Prize,False
+Q844284,Grawemeyer Award for Music Composition,False
+Q1526935,Viareggio Prize,False
+Q2108706,Premio Campiello,False
+Q7370848,Rough Rider Award,False
+Q23579153,Bailey Distinguished Member Award,False
+Q100145927,honorary doctor of the University of Amsterdam,False
+Q5486555,Rolex Awards for Enterprise,False
+Q2547047,Walther Flemming Medal,False
+Q3613808,Ambrogino d'oro,False
+Q14539726,Officer of the Order of Merit of the Italian Republic,False
+Q124077510,Fellow of the International Science Council,False
+Q938479,Sir John William Dawson Medal,False
+Q73022111,Honorary Certificate of the Presidium of the Supreme Soviet of the Azerbaijan SSR,False
+Q4375455,Russian Federation Government Certificate of Honour,False
+Q47452388,"Order of Prince Yaroslav the Wise, 5th class",False
+Q2248352,Doctor of Science,False
+Q139731754,International Alisher Navoi Prize,False
+Q205811,Descartes Prize,False
+Q141288048,INSA Medal for Young Scientists,False
+Q104852299,Swarnajayanti Fellowship,False
+Q141345022,ANRF J. C. Bose Grant,False
+Q141345023,APS Outstanding Referee Award,False
+Q141345024,Prof. (Mrs.) Archana Sharma Memorial Lecture Award,False
+Q141345025,IIT Delhi Distinguished Alumni Award,False
+Q141345026,Kirk Distinguished Visiting Fellowship,False
+Q141345027,Eminent Engineer Award,False
+Q141345029,IISc Aerospace Engineering Platinum Jubilee Prize,False
+Q141345030,Mary Sears Fellowship,False
+Q141345031,INSA Distinguished Lecture Award,False
+Q1670035,Tübingen Prize for the Promotion of Early Prehistory and Quaternary Ecology,False
+Q4709676,Albert B. Sabin Gold Medal,False
+Q93728,Order of the White Lion,False
+Q94410,Grand Order of King Petar Krešimir IV,False
+Q94450,Grand Order of King Dmitar Zvonimir,False
+Q768999,Order of Vytautas the Great,False
+Q1465984,Order of Saint John,False
+Q1801104,Ronald Reagan Freedom Award,False
+Q2037015,Order of Good Hope,False
+Q2124237,Royal Order of Francis I,False
+Q5126128,Clare Boothe Luce Award,False
+Q10993583,Grand Cross of the Order of Vytautas the Great,False
+Q12198181,Knight of the Garter,False
+Q18080682,Dostyk Order of grade I,False
+Q58402380,honorary citizen of Gdańsk,False
+Q61962986,honorary citizen of Zagreb,False
+Q64736569,"Order of the Precious Crown, 1st Class",False
+Q54107107,honorary doctor of Carnegie-Mellon University,False
+Q86454113,honorary doctor of the University of Chile,False
+Q110867674,Esther Hoffman Beller Lectureship,False
+Q17403163,Doctor of Science (honorary),False
+Q22021768,Arkansas Women's Hall of Fame,False
+Q18560233,Honorary Fellow of the Royal Society of Chemistry,False
+Q11795562,Hall of Fame of Delaware Women,False
+Q7653934,Swarthmore Lecture,False
+Q1064731,Charles Hard Townes Award,False
+Q5663967,Harrie Massey Medal and Prize,False
+Q777181,Ramon Magsaysay Award,False
+Q1975665,ennoblement,False
+Q11353044,"Iron Cross, 1st class",False
+Q11371757,"Iron Cross, 2nd class",False
+Q18378471,Mustafa Prize,False
+Q107644519,Order of King Abdullah II for Excellence,False
+Q20925110,Knight Grand Cross in the Order of the Holy Sepulchre,False
+Q59358159,Grand Cross of the Order of the Immaculate Conception of Vila Viçosa,False
+Q66674276,Knight Grand Cross of the Order of the Imperial Rose,False
+Q2469017,Order of Liberty,False
+Q4375596,Honored badge of merit of the President of Ukraine,False
+Q12142981,Honorary Diploma of the Verkhovna Rada of Ukraine,False
+Q22812615,medal of 25 years of Ukrainian independence,False
+Q29017353,"Order of Merit, 1st class",False
+Q29024446,State Prize of Ukrainian SSR in Science and Technology,False
+Q47452385,"Order of Prince Yaroslav the Wise, 3rd class",False
+Q10905425,Medal of the Order of Merit of the Federal Republic of Germany,False
+Q59772446,Fellow of the Canadian Academy of Health Sciences,False
+Q69683942,Fellow of the Materials Research Society,False
+Q1143510,George Cross,False
+Q20857721,Knight of the National Order of the Cedar,False
+Q20894772,Knight 1st Class of the Royal Norwegian Order of Merit,False
+Q111469029,R. Bruce Merrifield Award,False
+Q15280138,Honorary Companion of the Order of Australia,False
+Q113155160,Eugene Shoemaker Distinguished Scientist Medal,False
+Q63922496,Fellow of the American Society for Microbiology,False
+Q5671387,Harry Oppenheimer Fellowship Award,False
+Q30688929,Hodgkins Medal,False
+Q56874608,Queen's Royal Medal,False
+Q51977426,Olomouc City Award,False
+Q2727598,Croix de guerre 1914–1918,False
+Q56398422,Prix de Joest,False
+Q63091960,honorary doctor of the Tsinghua University,False
+Q4469309,Shock Worker of the Five-Year Plan,False
+Q126416237,honorary doctor of the École normale supérieure de Cachan,False
+Q30196271,C.V. Raman Birth Centenary Award,False
+Q14420,Order of the British Empire,False
+Q85752858,Clifford Paterson Medal and Prize,False
+Q64547328,Fellow of the Royal College of Nursing,False
+Q18560147,Chemistry World Entrepreneur of the Year,False
+Q52564882,"Order of Saint Anna, 1st class with diamonds",False
+Q2073340,Order of the Federal Republic,False
+Q20745350,Integrity Award,False
+Q458911,Order of the Flag of the People's Republic of Hungary,False
+Q2785258,Order of Merit of the Hungarian People's Republic,False
+Q7697212,Telford Medal,False
+Q18759100,baronetcy,False
+Q56256023,Paul Pascal Prize,False
+Q67505968,Frederick White Medal,False
+Q110300036,Moyal Medal,False
+Q29025853,Macfarlane Burnet Medal and Lecture,False
+Q117833637,NZIA President's Award,False
+Q114457472,honorary doctor of Wrocław University of Science and Technology,False
+Q43575461,The Brackenbury Scholarship,False
+Q20966578,Order of the White Lion 3rd Class,False
+Q25324202,Heroes of Chemistry,False
+Q42309226,honorary doctorate from Princeton University,False
+Q25113052,A.O. Kovalevsky Medal,False
+Q108530492,Ross G. Harrison Award,False
+Q11573873,Grand Cordon of the Order of the Sacred Treasure,False
+Q66891436,Farrer Memorial Medal,False
+Q16001282,A. A. Griffith Medal and Prize,False
+Q56648126,Catalysis Award,False
+Q113163322,Michael J. Wargo Exploration Science Award,False
+Q64851868,Fellow of the American Vacuum Society,False
+Q14865220,commander of the Order of the Crown of Italy,False
+Q20080471,Knight of the Order of Saints Maurice and Lazarus,False
+Q486225,Pearson Medal of Peace,False
+Q18637028,the Norwegian Research Council Award for Outstanding Research,False
+Q50616507,honorary doctorate of Barcelona University,False
+Q50618392,honorary doctorate of the Polytechnic University of Valencia,False
+Q7511361,John Muir Award,False
+Q56247224,ACS Rising Star Award,False
+Q22045510,Harry Jerome Award,False
+Q56258319,Adel S. Sedra Distinguished Graduate Award,False
+Q109640104,Shuttleworth Foundation Flash Grant,False
+Q95149361,Novartis Early Career Award in Organic Chemistry,False
+Q56421232,Zonta Science Award,False
+Q57218993,Cranwell Medal,False
+Q106706041,Science Communicator Medal,False
+Q4800207,Arthur S. Flemming Award,False
+Q56627685,Killam Research Fellowship,False
+Q56240647,Allan P. Colburn Award,False
+Q329455,justice of the peace,False
+Q23049782,Dame Companion of the New Zealand Order of Merit,False
+Q89249800,honorary doctor of the Far Eastern Federal University,False
+Q29574535,honorary citizen of Potsdam,False
+Q265920,Peace Prize of the German Publishers' and Booksellers' Association,False
+Q1374911,Cultural Honor Prize of the City of Munich,False
+Q2571514,Wilhelm Leuschner Medal,False
+Q1915789,Bene Merenti,False
+Q4284316,Master of Sport of USSR in Chess Composition,False
+Q4273323,Queen Elizabeth Prize for Engineering,False
+Q21662000,Louis E. Levy Medal of the Franklin Institute,False
+Q550099,War Cross,False
+Q5251224,Defence Medal 1940–1945,False
+Q6513761,War Medal,False
+Q104783477,Honorary Officer of the Order of the British Empire,False
+Q17051446,Manson Medal,False
+Q56310628,Special Novartis Prize for Immunology,False
+Q19854698,National Cultural Award,False
+Q125855339,,False
+Q24941013,Premio Aragón,False
+Q141215381,March scholarship,False
+Q88008444,Honorary doctorate from Queen's University,False
+Q20853430,Officer's Cross of the Order of Merit of the Republic of Poland,False
+Q64006904,"Medal ""100th anniversary of the Azerbaijani police""",False
+Q98538676,"2nd degree ""For Service to the Fatherland"" order",False
+Q107464025,The jubilee medal on the occasion of the 100th anniversary of the state security and foreign intelligence agencies (1919-2019,False
+Q118279090,"Jubilee medal ""100 years of Heydar Aliyev (1923-2023)"".",False
+Q63092055,honorary doctor of the Tianjin University,False
+Q65494128,Walter Hälg Prize,False
+Q1614662,Hertha Sponer Prize,False
+Q55867663,Thieme Chemistry Journal Award,False
+Q1712436,Lilienfeld Prize,False
+Q67171741,Arthur B.C. Walker II Award,False
+Q58407221,Emilia Valori award for science,False
+Q458894,Grand Cross of the Order of Merit of Hungary,False
+Q7349636,Robert Schuman Medal,False
+Q23058979,"Order of the Cross of Terra Mariana, 1st Class",False
+Q57899611,honorary citizen of Kraków,False
+Q138645519,Honourable Member of the European Order of Merit,False
+Q1772016,Roman count,False
+Q50626454,honorary doctorate of the University of Navarre,False
+Q101085992,honorary doctor of the University of Kent,False
+Q56230558,Biophotonics Technology Innovator Award,False
+Q59771461,Fellow of the SPIE,False
+Q117838636,Mildred Dresselhaus Prize in Nanoscience and Nanomaterials,False
+Q131732959,honorary doctorate from University of Technology of Troyes,False
+Q99929505,George Hevesy Medal Award,False
+Q96657631,honorary doctor of Ulm University,False
+Q141396891,,False
+Q1915989,"Jubilee Medal Medal ""In Commemoration of the 250th Anniversary of Leningrad""",False
+Q1992414,"Jubilee Medal ""300 Years of the Russian Navy""",False
+Q3978972,switzerite,False
+Q19978393,Statsrådet Mauritz Hallberg's prize,False
+Q129622380,Vigyan Ratna Award,False
+Q15709486,Lord Lloyd of Kilgerran Award,False
+Q1506830,Saint Helena Medal,False
+Q18399390,deported French resistance,False
+Q10354877,Seeds of Science Prize,False
+Q2427600,Air Force Cross,False
+Q56042497,Society Merit Prize,False
+Q67507281,Fellow of the Geological Society of Australia,False
+Q57233737,Founders Award for Outstanding Contributions to the Field of Chemical Engineering,False
+Q5970350,IEEE Daniel E. Noble Award,False
+Q21660980,Nick Holonyak Jr. Award,False
+Q63091996,honorary doctor of the Shanghai University,False
+Q52651432,Bonei Zion Prize,False
+Q63072472,honorary doctor of the University of Pennsylvania,False
+Q135790420,Knight of the Order of San Carlos,False
+Q111414433,Sven Berggren prize,False
+Q30208796,Trieste Science Prize,False
+Q56449119,Honorary Member of the Order of Australia,False
+Q10904959,Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany,False
+Q4836602,BSFA Award for Best Novel,False
+Q104867722,Ambassador Award,False
+Q64784928,Outstanding Clinical Investigator Award,False
+Q105326386,The John P. McGovern Science and Society Award,False
+Q59779966,Fellow of the Institute of Mathematics and its Applications,False
+Q32106947,Walter P. Kistler Book Award,False
+Q4377038,Gordon Bell Prize,False
+Q7459155,Seymour Cray Computer Engineering Award,False
+Q41254,Grammy Awards,False
+Q7054427,North Carolina Award,False
+Q106715357,North Carolina Award for Fine Arts,False
+Q18560141,Catalysis in Organic Chemistry Award,False
+Q55656886,,False
+Q123468512,Moxon Medal,False
+Q18579597,Grand Cross of the Order of the Red Eagle,False
+Q57575890,honorary citizen of Clausthal-Zellerfeld,False
+Q13606964,"Medal ""In memory of the 300th anniversary of Romanov dynasty""",False
+Q16675287,Numa Manson Medal,False
+Q19909593,Friedmann Prize,False
+Q14900491,Commander of the Order of the Crown (Romania),False
+Q67050335,Commander of the Order of Saint James of the Sword,False
+Q3404571,,False
+Q137970105,,False
+Q3355529,Order of St. Sergius of Radonezh,False
+Q4287082,"Medal ""For Strengthening of Brotherhood in Arms""",False
+Q29043608,Order of St. Sergius of Radonezh 2nd class,False
+Q56561400,"Order of the Sacred Treasure, 3rd class",False
+Q56561485,"Order of the Sacred Treasure, 6th class",False
+Q2278528,Shewhart Medal,False
+Q59007232,,False
+Q1726311,Wilks Memorial Award,False
+Q3910560,,False
+Q135653327,Bancarella Literary Prize,False
+Q629291,Order of Merit for Labour,False
+Q5461701,Florida Women's Hall of Fame,False
+Q1800135,Laetare Medal,False
+Q68796930,honorary doctor of Loyola University Chicago,False
+Q57587903,CAF-Elhuyar awards,False
+Q11733892,Kalos Kagathos,False
+Q28822776,State Prize of the Autonomous Republic of Crimea,False
+Q112770876,,False
+Q18560148,Creativity in Industry Prize,False
+Q8153695,SPIE Gold Medal,False
+Q58006745,Fellow of the American Psychological Association,False
+Q87717846,prix Liliane-Bettencourt pour les sciences du vivant,False
+Q4618975,Doctor,False
+Q5724712,Henry Laurence Gantt Medal,False
+Q1645905,Lower Saxony Honorary Medal,False
+Q15812525,Gold Goethe medal,False
+Q56498654,Honorary doctorate from the Technical University of Munich,False
+Q107104202,honorary doctor of the University of Bielefeld,False
+Q159909,Goethe Prize of the City of Frankfurt,False
+Q1296191,Theodor Frerichs Prize,False
+Q56871267,Honorary doctor at the University of Bern,False
+Q105477187,honorary doctor of Rutgers University,False
+Q354189,Adelbert von Chamisso Prize,False
+Q858528,Carl Zuckmayer Medal,False
+Q996648,Brüder-Grimm-Poetikprofessur,False
+Q1329692,Elisabeth Langgässer Literature Award,False
+Q1353569,Weilheim Literature Prize,False
+Q1565002,Thaddäus-Troll-Preis,False
+Q1610469,,False
+Q1792573,Kunstpreis Rheinland-Pfalz,False
+Q1896174,Jenny Smelik-Kiggen Prize,False
+Q2084834,Phantastik-Preis der Stadt Wetzlar,False
+Q2132916,Rattenfänger-Literaturpreis,False
+Q31839105,Goldene Zeile,False
+Q130238505,Adelbert von Chamisso Prize (award of sponsorship),False
+Q62594073,honorary doctorate of the Johann Wolfgang Goethe University Frankfurt,False
+Q74071105,honorary doctor of the University of Giessen,False
+Q84986976,honorary doctor of the Technische Universität Darmstadt,False
+Q124738963,War Merit Cross 2nd Class without Swords,False
+Q1205358,Deutscher Stifterpreis,False
+Q61775211,honorary doctor of the University of Utrecht,False
+Q28498643,Heinrich Roessler Prize,False
+Q1802180,Baden-Wuerttemberg Research Award,False
+Q49002718,Patriotic Order of Merit (honor clasp),False
+Q113161450,Grand Star of People's Friendship,False
+Q1400970,Feenberg Medal,False
+Q17099726,UNESCO Niels Bohr Medal,False
+Q56376423,Knight of the Order of Saint Joseph,False
+Q20108450,President Macià Medal,False
+Q20961995,Cross of the Civil Order of Alfonso X the Wise,False
+Q50617312,honorary doctorate of the University of Lleida,False
+Q24948322,"Honorary badge ""For exemplary work in the field of health"".",False
+Q1885471,King George V Silver Jubilee Medal,False
+Q96274243,Trémont Prize,False
+Q63971562,Shitsan Pai International Award,False
+Q66615802,Fellow of the American Ceramic Society,False
+Q17018468,Scottish Engineering Hall of Fame,False
+Q63092141,honorary doctor of the Hunan University,False
+Q5349948,Eisenmann Medal,False
+Q12177451,Knight Grand Cross of the Order of the Bath,False
+Q29646834,Bayliss-Starling Prize Lecture,False
+Q96373586,Gili Agostinelli Prize,False
+Q96374425,,False
+Q5970404,IEEE Lamme Medal,False
+Q1422957,Order of Saints Maurice and Lazarus,False
+Q56649459,officier d'académie,False
+Q5256974,Denham Harman Research Award,False
+Q5896953,honorary citizen of Singapore,False
+Q827986,Berthold Leibinger Zukunftspreis,False
+Q64732841,"The Order of the Sacred Treasure, Gold and Silver Star",False
+Q188914,Hugo Award,False
+Q255032,Hugo Award for Best Novel,False
+Q595998,Locus Award for Best Novel,False
+Q901462,Damon Knight Memorial Grand Master Award,False
+Q906455,Ditmar Award,False
+Q936683,Nebula Award for Best Novelette,False
+Q987744,Edward E. Smith Memorial Award,False
+Q1056237,Hugo Award for Best Related Work,False
+Q1056265,Hugo Award for Best Novelette,False
+Q2576795,Locus Award for Best Science Fiction Novel,False
+Q3174253,Klumpke-Roberts Award,False
+Q3404499,Cosmos 2000 Award,False
+Q17008964,Locus Award for Best Novelette,False
+Q17008985,Locus Award for Best Short Story,False
+Q48961500,Science Fiction and Fantasy Hall of Fame,False
+Q115280877,Retro Hugo Award for Best Novel,False
+Q115289074,Retro Hugo Award for Best Novelette,False
+Q115289318,Retro Hugo Award for Best Short Story,False
+Q129360438,Hugo Award for Best All-Time Series,False
+Q130619273,Locus Award for Best Reprint Anthology/Collection,False
+Q99445835,Legión del Libro Prize,False
+Q1347889,Order of Saint Michael,False
+Q6052174,Order of Police Merit,False
+Q41117746,Grand Cross of the Order of Merit of the Civil Guard,False
+Q85794397,President's Medal,False
+Q285071,Order of Saint Stephen of Hungary,False
+Q5442991,Knight of the Order of Orange-Nassau,False
+Q31887203,,False
+Q1102842,József Attila Prize,False
+Q6052157,Order of the Second of May,False
+Q141880581,,False
+Q1428560,Pilot-Cosmonaut of the Russian Federation,False
+Q194540,Queen Elizabeth II Diamond Jubilee Medal,False
+Q12339377,Tietgen Award,False
+Q63074689,honorary doctor of the Aarhus University,False
+Q108428778,,False
+Q19116891,Medal with Dark Blue Ribbon,False
+Q17773361,University of Oslo Research Prize,False
+Q47526522,Brøgger prize,False
+Q123737,Emmy Award,False
+Q3405011,Marcel Vincent Prize,False
+Q11722786,Josef Vavroušek award,False
+Q11722811,Award of the Minister of the Environment,False
+Q2910323,Médaille d'honneur des épidémies,False
+Q50628347,Prix de la laïcité,False
+Q84042880,Padma Vibhushan in Public Affairs,False
+Q94573154,Willi Dansgaard Award,False
+Q7294993,Rashtrapati Award,False
+Q684511,Friedrich Order,False
+Q20725582,Geheimer Bergrat,False
+Q1091585,Cicero Orator Prize,False
+Q1299981,honorary citizen of Jonava District,False
+Q126416246,honorary doctorate from University of Nantes,False
+Q946626,"Jubilee Medal ""30 Years of the Soviet Army and Navy""",False
+Q1915946,"Jubilee Medal ""40 Years of the Armed Forces of the USSR""",False
+Q1915952,"Jubilee Medal ""60 Years of the Armed Forces of the USSR""",False
+Q48893522,Henri Moissan Award,False
+Q11776607,Jan Harabaszewski Medal,False
+Q15910721,Bernd Theodor Matthias Prize,False
+Q15839675,Paul Bunge Prize,False
+Q1507907,George Medal,False
+Q123996606,Kernot Memorial Medal,False
+Q7458154,ASN Award for Distinguished Achievement in the Conceptual Unification of the Biological Sciences,False
+Q32313209,Honorary doctor of the University of Fribourg,False
+Q83531787,honorary doctor of Georgetown University,False
+Q29000734,Arkansas Black Hall of Fame,False
+Q61746261,Francis Bacon Medal,False
+Q47971737,Hunger Strike Medal,False
+Q99700,Order of Canada,False
+Q2097647,Victoria Medal of Honour,False
+Q64027178,Geochemistry Fellow,False
+Q99348286,,False
+Q1417302,Order of the Volta,False
+Q2295963,Silver Snoopy award,False
+Q19161782,Seoul City Cultural Award,False
+Q113333686,Top Scientist and Technologist Award of Korea,False
+Q17010641,Abraham Horwitz Award,False
+Q17231624,Legionnaire of Legion of Merit,False
+Q68928508,Fellow of the Uganda National Academy of Sciences,False
+Q136388799,Benjamin Franklin Medal in Life Science,False
+Q50620708,honorary doctorate of the University of Vigo,False
+Q1684948,Jean-Louis Signoret Prize,False
+Q2524191,Viktor Frankl Award,False
+Q19883682,Grand Cross of Honor for Services to the Republic of Austria,False
+Q1166881,Darwin–Wallace Medal,False
+Q16750840,Knight Commander of the Order of St. Sylvester,False
+Q28721482,Memorial medal of the Winter War,False
+Q28721512,Memorial medal of the Continuation War,False
+Q47337762,Grand Cross of the Order of the Lion of Finland,False
+Q96033558,"Cross of Liberty, 2nd Class",False
+Q96070188,Memorial medal of the War of Liberation,False
+Q130362530,Thannhauser Medaille,False
+Q2914468,life peer,False
+Q137700,Order of the Republic,False
+Q12056818,Klement Gottwald State Prize,False
+Q41795411,honorary doctorate from Brown University,False
+Q63253968,honorary doctor of University of Cologne,False
+Q131354115,honorary doctorate from the University of Strasbourg,False
+Q16832661,Kurt Schwabe award,False
+Q10656994,Rosenkjær Award,False
+Q29647240,The Paton Lecture,False
+Q61913920,Fellow of the American College of Physicians,False
+Q105079169,Leo P. Kadanoff Prize,False
+Q15654956,Kihara Memorial Foundation Academic Award,False
+Q5445344,Ferrier Lecture,False
+Q15995236,Kavli Medal,False
+Q57567049,MacDiarmid Medal,False
+Q102048083,"Innovation, Science and Health award",False
+Q27851929,Candace Award,False
+Q28950181,William W. Grimes Award,False
+Q126179299,,False
+Q10875102,Member of Academia Sinica,False
+Q11722780,South Moravian Region Award,False
+Q3910611,International Nonino Prize,False
+Q5465069,Fonseca Prize,False
+Q6008331,Derek John de Solla Price Award,False
+Q2417264,Theodor Körner Prize,False
+Q949193,Padma Shri,False
+Q61745633,Fellow of the American Institute of Aeronautics and Astronautics,False
+Q115924122,,False
+Q124175532,Rosalind Franklin Medal and Prize,False
+Q4793820,Royal Society Armourers and Brasiers' Company Prize,False
+Q65007287,David Tabor Medal and Prize,False
+Q20749254,Joseph Thomson Medal and Prize,False
+Q126416288,honorary doctorate from INSA Lyon,False
+Q56085850,Jay and Jeanie Schottenstein prize in cardiovascular science,False
+Q108466413,Inspiring Fifty Italy,False
+Q61313305,EU-40 Materials Prize,False
+Q140277021,,False
+Q4813188,Athalie Richardson Irvine Clarke Prize,False
+Q1300472,Ehrenprofessur,False
+Q10872019,China International Science and Technology Cooperation Award,False
+Q4673510,Acharius Medal,False
+Q92093155,Nancy T. Burbidge Medal,False
+Q15279705,Order of Mapungubwe in Bronze,False
+Q30749435,African Union Kwame Nkrumah Awards for Scientific Excellence,False

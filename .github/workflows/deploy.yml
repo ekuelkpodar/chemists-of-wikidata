@@ -1,0 +1,66 @@
+name: test-and-deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - name: Install Python deps
+        run: |
+          uv venv --python 3.11 .venv
+          uv pip install --python .venv/bin/python -e ".[dev]"
+      - name: Unit tests
+        run: .venv/bin/python -m pytest -q
+      - name: Rebuild data from raw + cached enrichment (offline)
+        run: |
+          .venv/bin/python -m chemkg.pipeline data
+          .venv/bin/python -m chemkg.pipeline analyses
+      - name: Committed web data matches a fresh build (reproducibility check)
+        run: |
+          if ! git diff --quiet -- web/public/data/findings.json web/public/data/cog.json web/public/data/migration.json; then
+            echo "::error::Rebuilt data differs from the committed web/public/data"; git diff --stat; exit 1
+          fi
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+        working-directory: web
+      - run: npm run build
+        working-directory: web
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: [test, build]
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

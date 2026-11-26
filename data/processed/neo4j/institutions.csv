@@ -1,0 +1,4620 @@
+qid,name
+Q35794,University of Cambridge
+Q319078,University of Melbourne
+Q675110,Darwin College
+Q4005855,University High School
+Q6153258,Janet Clarke Hall
+Q34433,University of Oxford
+Q168756,"University of California, Berkeley"
+Q1061104,"University of California, San Francisco"
+Q1351061,Salk Institute for Biological Studies
+Q263064,"University of California, Santa Barbara"
+Q193727,Johns Hopkins University
+Q609768,Cold Spring Harbor Laboratory
+Q858729,Johns Hopkins School of Medicine
+Q1047293,"University of California, Santa Cruz"
+Q73094,The Queen's College
+Q1227526,St Paul's School
+Q5642636,Hall School
+Q49088,Columbia University
+Q865528,University of Warwick
+Q1048851,Yeshiva University
+Q2030894,Albert Einstein College of Medicine
+Q3100195,Grossman School of Medicine
+Q838330,University of Wisconsin–Madison
+Q2302260,South Dakota State University
+Q13371,Harvard University
+Q174710,"University of California, Los Angeles"
+Q6232369,John F. Kennedy High School
+Q161562,California Institute of Technology
+Q49108,Massachusetts Institute of Technology
+Q180865,University of Toronto
+Q391028,University of British Columbia
+Q189022,Imperial College London
+Q5367796,Eltham College
+Q837164,Newcastle University
+Q131252,University of Chicago
+Q156598,Leiden University
+Q214341,University of Amsterdam
+Q1137665,Ghent University
+Q193196,University College London
+Q499510,University of Liverpool
+Q1035745,Cardiff University
+Q8028571,Wittenberg University
+Q153265,University of Cincinnati
+Q219564,Karolinska Institutet
+Q219563,University of Washington
+Q4380853,Missouri University of Science and Technology
+Q5047301,Carthage Senior High School
+Q6879708,Missouri Southern State University
+Q861548,Florida State University
+Q2723670,Ain Shams University
+Q864855,Georgia Tech
+Q1247373,Harrow School
+Q17020147,"Royal Military College, Sandhurst"
+Q217741,Purdue University
+Q1536258,Southern Methodist University
+Q4879156,Bedford High School
+Q23548,National Aeronautics and Space Administration
+Q21578,Princeton University
+Q49112,Yale University
+Q5484518,Universidad Nacional del Sur
+Q738258,University of Miami
+Q842909,Rice University
+Q6912075,Morgridge Institute for Research
+Q1041671,Carleton College
+Q49116,Dartmouth College
+Q1785291,Washington and Lee University
+Q2725999,University of Texas Southwestern Medical Center
+Q2140391,University of Texas System
+Q956501,Pembroke College
+Q1921431,Merchant Taylors' School
+Q7432509,"School of Medicine, University of Manchester"
+Q8055475,York House School
+Q19945990,Yusuf Hamied Department of Chemistry
+Q230899,University of Manchester
+Q202660,Collège de France
+Q270222,Michigan State University
+Q777403,Washington University in St. Louis
+Q270272,The Rockefeller University
+Q4120165,Perelman School of Medicine at the University of Pennsylvania
+Q7901181,Ursinus College
+Q160302,University of Edinburgh
+Q192775,University of Glasgow
+Q3098911,Stuyvesant High School
+Q49115,Cornell University
+Q55044,LMU Munich
+Q154804,Leipzig University
+Q230492,University of Michigan
+Q1250108,Miss Porter's School
+Q20725458,University of Michigan Medical School
+Q309350,Northwestern University
+Q4304107,Moscow State University of Fine Chemical Technologies
+Q4314522,Gamaleya Research Institute of Epidemiology and Microbiology
+Q1816221,University of Harderwijk
+Q151510,Heidelberg University
+Q8047425,Yale School of Engineering and Applied Science
+Q1567748,Union College
+Q49211,Rensselaer Polytechnic Institute
+Q499451,Rutgers University
+Q13164,Lomonosov Moscow State University
+Q1531782,Russian State Agricultural University
+Q4201437,Bach Institute of Biochemistry RAS
+Q4201795,Timiryazev Institute of Plant Physiology
+Q4229557,Komi Scientific Center UB RAS
+Q280824,Eindhoven University of Technology
+Q273626,École polytechnique
+Q27621,Saint Petersburg State University
+Q84151,Taras Shevchenko National University of Kyiv
+Q608338,University of Bucharest
+Q4299199,Mogilev Male Gymnasium
+Q161976,University of Würzburg
+Q2654767,City of London School
+Q7373985,Royal College of Science
+Q1610024,Heriot-Watt University
+Q850730,University of Groningen
+Q3358331,Oundle School
+Q375606,"Birkbeck, University of London"
+Q153987,University of Freiburg
+Q165980,University of Vienna
+Q152171,University of Bonn
+Q157808,Technical University of Munich
+Q152087,Humboldt-Universität zu Berlin
+Q153006,Freie Universität Berlin
+Q2176686,Rupprecht-Gymnasium München
+Q32120,Martin Luther University Halle-Wittenberg
+Q153978,University of Tübingen
+Q310207,McKinsey & Company
+Q4483556,Faculty of Physics and Mathematics of Moscow Imperial University
+Q83172,Russian Academy of Sciences
+Q1851014,Ural State University
+Q4201552,A.V. Shubnikov Institute of Crystallography
+Q4425482,Moscow City People’s University
+Q83259,École Normale Supérieure
+Q209842,University of Paris
+Q659080,University of Bern
+Q1422903,University of Porto
+Q622664,"University of California, San Diego"
+Q793867,Scripps Research
+Q1168443,Kaiserliches Gesundheitsamt
+Q1743009,Preußisches Institut für Infektionskrankheiten
+Q7842,University of Tokyo
+Q73079,Trinity College
+Q6411505,King Edward VII School
+Q221653,Utrecht University
+Q309948,Ruhr University Bochum
+Q51985,Technische Universität Berlin
+Q280247,Fluminense Federal University
+Q586904,Federal University of Rio de Janeiro
+Q1547084,University of Twente
+Q5123519,City and Country School
+Q15975,Montesquieu
+Q653307,Manufacture nationale de Sèvres
+Q31519,Charles University
+Q185246,Uppsala University
+Q836805,Chalmers University of Technology
+Q924289,King's College
+Q1341516,Westminster School
+Q472316,University of Nottingham
+Q1058224,Tsuyama Domain
+Q487556,University of Sydney
+Q245247,King's College London
+Q5956953,Hyndland Secondary School
+Q1851075,Universidade Federal de Santa Catarina
+Q1232831,Universidade Federal do Paraná
+Q1047060,Case Western Reserve University
+Q76473,University of Southampton
+Q2171086,Royal Institution
+Q736674,University of Colorado Boulder
+Q1856153,National Laboratory of the Rockies
+Q948720,"Indian Institute of Science, Bengaluru"
+Q3135913,Savitribai Phule Pune University
+Q734764,University of New South Wales
+Q1144750,Queensland University of Technology
+Q458393,Durham University
+Q49110,Boston University
+Q2599077,Yale College
+Q7620554,Stoughton High School
+Q1200258,Alfred P. Sloan Foundation
+Q30274055,Enzo Life Sciences (Switzerland)
+Q1329478,Czech Technical University in Prague
+Q154561,University of Jena
+Q18786052,N.D. Zelinsky Institute of Organic Chemistry
+Q820887,University of Florence
+Q174158,Hebrew University of Jerusalem
+Q221062,DuPont
+Q428520,University of Tirana
+Q590643,Miami University
+Q406402,University of Mumbai
+Q1049470,University of Waterloo
+Q7285776,Rajaram College
+Q1057890,RMIT University
+Q1514848,University of Saskatchewan
+Q6040089,Institute of Chemical Technology
+Q1026846,California Polytechnic State University
+Q1256981,San Francisco State University
+Q12242279,Desert Research Center
+Q1856423,University of the Republic
+Q5854582,Facultad de Ciencias (Universidad de la República)
+Q28695,University of Helsinki
+Q223429,University of Birmingham
+Q5528733,Gayaza High School
+Q7759890,The Red Maids' School
+Q887649,University of San Carlos
+Q1334582,University of Liège
+Q157575,University of Strasbourg
+Q3815465,Institut de biologie moléculaire et cellulaire
+Q1537591,Goodrich Corporation
+Q503473,University of Geneva
+Q1420239,Temple University
+Q1066492,Stellenbosch University
+Q627969,University of Ottawa
+Q1480421,University of Dhaka
+Q7109265,Ottawa University
+Q6123196,Jahangirnagar University
+Q168751,Duke University
+Q178848,University of Notre Dame
+Q749718,Oklahoma State University
+Q379848,Los Alamos National Laboratory
+Q1072029,University of Wales
+Q1420500,Swansea University
+Q566189,New York University Abu Dhabi
+Q170027,University of London
+Q1067471,University of Calgary
+Q1517021,University of Western Australia
+Q213439,University of Virginia
+Q250205,Central Michigan University
+Q2413375,The Open University
+Q186285,University of Copenhagen
+Q1111640,Colorado State University
+Q195046,Worcester Polytechnic Institute
+Q309331,Ohio State University
+Q1150105,University of Tennessee
+Q1075148,"University of California, Riverside"
+Q3075124,Trent University
+Q868421,"University of California, Irvine"
+Q7842344,Trine University
+Q4614,University of Southern California
+Q1161297,University of Sussex
+Q839669,Peoples' Friendship University of Russia
+Q1636837,Instituto Superior Técnico
+Q29565491,Instituto de Telecomunicações
+Q49738,German Academy of Sciences at Berlin
+Q501758,University of Florida
+Q1521725,Louisiana State University
+Q1806300,The Citadel
+Q1466001,Villanova University
+Q8002474,Wilkes University
+Q579321,Dalhousie University
+Q795988,University of Guelph
+Q503424,University of Leeds
+Q500692,University of Bremen
+Q46756,Kenyatta University
+Q16733315,Aburi Girls' Senior High School
+Q144488,University of Warsaw
+Q43401,National Chiao Tung University
+Q43406,National Tsing Hua University
+Q659706,Illinois Institute of Technology
+Q5971402,IIT Stuart School of Business
+Q1045828,University of East Anglia
+Q1458113,University of Victoria
+Q1422458,University of Bath
+Q238101,University of Minnesota
+Q432475,University of Canterbury
+Q1201513,University of Otago
+Q1325937,Agostinho Neto University
+Q19573532,Oxford Institute for Energy Studies
+Q116455574,Institut Français du Pétrole
+Q677832,Sonangol Group
+Q890884,Eduardo Mondlane University
+Q10317942,Escola Secundária Francisco Manyanga
+Q125849445,Ministry of Mineral Resources and Energy of Mozambique
+Q1366519,Hamline University
+Q1364464,University of Madras
+Q6733207,Maharaja's College
+Q665105,University of Delhi
+Q457281,University of Illinois Urbana-Champaign
+Q484108,Ulsan National Institute of Science and Technology
+Q54980903,Center for Soft and Living Matter
+Q7895626,University of Leuven
+Q7568252,South Point School
+Q17016720,"St. Lawrence High School, Kolkata"
+Q279724,University of Tromsø – The Arctic University of Norway
+Q492467,University of Auckland
+Q1860208,National University of Ireland
+Q49212,Texas A&M University
+Q29052,Vanderbilt University
+Q182973,University of Iowa
+Q739627,Pennsylvania State University
+Q217365,Bell Labs
+Q70203012,Exxon Research & Engineering Company
+Q469476,The American University in Cairo
+Q932411,Brunel University London
+Q49210,New York University
+Q681025,University at Buffalo
+Q1149089,Columbia Law School
+Q5149896,Columbia University Mailman School of Public Health
+Q129421,"University of California, Davis"
+Q1062129,Tohoku University
+Q632004,Radboud University
+Q1079140,Indiana University Bloomington
+Q1136919,Iowa State University
+Q728840,University of Pardubice
+Q1460141,Czech University of Life Sciences Prague
+Q13344,University of Bordeaux
+Q3064332,Science Faculty of Paris
+Q391083,Pasteur Institute
+Q1357891,Middlebury College
+Q632891,McMaster University
+Q691283,St John's College
+Q1202716,University of Nebraska system
+Q469482,American University of Beirut
+Q1463036,King Abdullah University of Science and Technology
+Q6783621,Mason Science College
+Q127990,Australian National University
+Q216273,University of St Andrews
+Q963530,University of Stirling
+Q1150437,Victoria University of Wellington
+Q152838,University of Göttingen
+Q18331707,Stockport School
+Q1859178,University of Strathclyde
+Q5566738,The Glasgow Academy
+Q899151,Imperial Chemical Industries
+Q1437507,National Research Council Canada
+Q1478723,La Trobe University
+Q16956381,Department of Supply
+Q17087836,International Mycological Institute
+Q22336931,Whitcliffe Mount School
+Q1333399,University of Leicester
+Q1718656,Warsaw University of Technology
+Q995265,Bryn Mawr College
+Q1144549,Pierre and Marie Curie University
+Q3578223,École nationale supérieure de chimie de Rennes
+Q84026,French Institute of Petroleum
+Q11914852,Nuns of the Order of St. John of Jerusalem
+Q1143779,St Thomas' Hospital
+Q5195067,Current Opinion
+Q201492,McGill University
+Q1474019,University of Hull
+Q5040786,Carl Schurz High School
+Q432637,George Washington University
+Q708038,Kaiser Wilhelm Society
+Q414481,Royal Academy of Turku
+Q499911,University of Turin
+Q863940,Gonville and Caius College
+Q1067870,Charterhouse School
+Q7885568,Union Commonwealth University
+Q781124,Stedelijk Gymnasium Leiden
+Q2983698,Collège Stanislas de Paris
+Q1987282,University of Rennes
+Q3551621,University of Lille
+Q20791505,University of Bordeaux
+Q714717,Christ's College
+Q2983685,St. Xavier's Collegiate School
+Q5268727,Dhaka Collegiate School
+Q5656757,Hare School
+Q6947799,Mymensingh Zilla School
+Q7121813,"Pabna Zilla School, Pabna"
+Q7592175,"St. Xavier's College, Kolkata"
+Q2749583,Presidency University
+Q20724588,Faculty of Pharmacy of Montpellier
+Q273631,École pratique des hautes études
+Q19860306,Faculty of Sciences of Montpellier
+Q838691,Muséum national d'histoire naturelle
+Q1191335,Colgate University
+Q2154182,Columbia University Vagelos College of Physicians and Surgeons
+Q28482293,Kazan Imperial University
+Q28729082,Imperial St. Petersburg University
+Q837320,University of Havana
+Q839919,University of Santiago de Cuba
+Q4483558,Faculty of Physics and Mathematics of the Saint Petersburg University
+Q958769,National Academy of Sciences of Ukraine
+Q1517401,Tavrida National V.I. Vernadsky University
+Q2370801,Academy of Sciences of the USSR
+Q4387323,V.G. Khlopin Radium Institute
+Q12159345,Ukranian Agricultural Scientific Committee
+Q27923720,Imperial Moscow University
+Q48945052,
+Q372608,University of Basel
+Q413941,Academy of Sedan
+Q1269766,Technical University of Denmark
+Q114702522,Den Polytekniske Læreanstalt
+Q309988,Karlsruhe Institute of Technology
+Q390287,Eötvös Loránd University
+Q1186843,Budapest University of Technology and Economics
+Q49166,Williams College
+Q149990,University of Rochester
+Q603034,Drexel University
+Q849751,York University
+Q12236173,Harvey Mudd College
+Q11942,ETH Zurich
+Q1432632,University of Reading
+Q7895156,"University of California, Berkeley College of Natural Resources"
+Q48977450,Betts Academy
+Q81965,General Motors
+Q524989,NCR Corporation
+Q2112884,Ethyl Corporation
+Q7889588,United States Bureau of Mines
+Q11090234,Delco Electronics
+Q414464,Academy of Gondishapur
+Q206702,University of Zurich
+Q841581,Sofia University
+Q522109,Wrocław University of Science and Technology
+Q534643,University of the Witwatersrand
+Q4061516,Alexandrov Military School
+Q4297700,Mikhailovskaya Military Artillery Academy
+Q15814223,Mikhailovsky Artillery School
+Q2467687,Honeywell UOP
+Q4398101,"Russian scientific centre ""Applied Chemistry"""
+Q139428044,
+Q141881609,
+Q317053,University of Giessen
+Q547867,National and Kapodistrian University of Athens
+Q1641504,University of Palermo
+Q209344,Sapienza University of Rome
+Q1961140,Yale School of Medicine
+Q574606,Université libre de Bruxelles
+Q1780816,State University of New York at Albany
+Q41506,Stanford University
+Q6249714,John Muir High School
+Q7141532,Pasadena City College
+Q766486,Hercules Inc.
+Q173959,Al-Azhar University
+Q1060621,Ankara University
+Q6103956,Ankara University Faculty of Science
+Q192964,Istanbul University
+Q546118,Paris-Sorbonne University - Paris IV
+Q5328480,East Grand Rapids High School
+Q761534,University of Georgia
+Q734774,Saint Louis University
+Q273638,"ESPCI Paris, PSL University"
+Q326342,Concordia University
+Q15277924,Sir George Williams University
+Q1140241,State University of New York
+Q1067935,Laval University
+Q2983589,Collège François-de-Laval
+Q1480643,University of Paris-Sud
+Q195668,Queen Mary University of London
+Q4358364,John Roan School
+Q3268614,Lycée Carnot
+Q5038781,Cardozo Education Campus
+Q2038889,St. Francis Xavier University
+Q3551457,Mount Saint Vincent University
+Q640694,University of Alberta
+Q2496149,University of Reims
+Q20808141,University of Strasbourg
+Q280183,Upper Alsace University
+Q280413,National Center for Scientific Research
+Q1391755,University of Namur
+Q503419,University of Arizona
+Q1742161,University of Mons
+Q1795928,King Abdulaziz University
+Q273539,"École européenne de chimie, polymères et matériaux"
+Q1250541,Monnaie de Paris
+Q3551497,Louis Pasteur University
+Q617433,Syracuse University
+Q7603610,State University of New York College of Environmental Science and Forestry
+Q3287039,Vincennes porcelain
+Q20754971,Free University of Brussels
+Q3298462,Faculty of Medicine of Montpellier
+Q1244704,Trinity Hall
+Q574586,Murray State University
+Q390551,United States National Institutes of Health
+Q3554590,Vanier College
+Q481762,École normale supérieure de jeunes filles
+Q8919,European Atomic Energy Community
+Q774489,Somerville College
+Q1112515,University of New Brunswick
+Q501542,United States Department of Agriculture
+Q131262,University of Bologna
+Q16661602,Lycée Laure-Gatet
+Q1191833,University of Manitoba
+Q5327761,East Aurora High School
+Q587326,Tokyo Institute of Technology
+Q11524880,Tokyo University of Education
+Q219317,University of Pavia
+Q258464,"Trinity College, Dublin"
+Q181461,Downing College
+Q4968912,Bristol Grammar School
+Q459506,University of Bristol
+Q273604,École normale supérieure Paris-Saclay
+Q3064277,Paris Medical Faculty
+Q273535,HEC Paris
+Q10176,University of Lyon
+Q3279259,Maisons d'éducation de la Légion d'honneur
+Q1247589,Newnham College
+Q5171563,Cornell University College of Human Ecology
+Q7060292,Northwestern California University School of Law
+Q632694,Archer Daniels Midland
+Q5200367,Cypress Systems
+Q75478,New York University Tandon School of Engineering
+Q1093910,City College of New York
+Q7791257,Thomas Jefferson High School
+Q2166712,Rose–Hulman Institute of Technology
+Q7703357,Terre Haute South Vigo High School
+Q6608367,Indiana University
+Q1819342,St Anne's College
+Q2962242,Cheltenham Ladies' College
+Q168515,University of Utah
+Q1432645,Phillips Academy
+Q49121,Harvard Medical School
+Q3046113,ESIEE Paris
+Q3268795,Lycée Lakanal
+Q3207654,La Compagnie des Lampes
+Q1249188,Nancy-Université
+Q189441,Jagiellonian University
+Q414245,AGH University of Science and Technology
+Q429561,Wichita State University
+Q392189,Université de Montréal
+Q3251779,Minister of Industry
+Q219694,Complutense University of Madrid
+Q106436254,"Colegio de la Asunción, Gijón"
+Q788091,Autonomous University of Madrid
+Q1024362,Spanish National Research Council
+Q20013983,Severo Ochoa Molecular Biology Center
+Q3520640,Madras Medical College
+Q221645,Stockholm University
+Q28024477,Imperial University of Dorpat
+Q6669528,Lomond School
+Q1737734,Keele University
+Q101011398,Keele University Department of Chemistry
+Q657222,Stevens Institute of Technology
+Q470517,Amgen
+Q1512226,Howard Hughes Medical Institute
+Q49114,Brown University
+Q1068072,University of Delaware
+Q578023,University of Toulouse (1896-1968)
+Q858979,Institut national des sciences appliquées de Toulouse
+Q734324,TU Braunschweig
+Q675848,University of Zagreb
+Q904388,Pliva
+Q50662,Goethe University Frankfurt
+Q678982,Leibniz University Hannover
+Q48861,Max Planck Institute for Astrophysics
+Q113499490,
+Q30262136,Laboratoire Réactions et Génie des Procédés
+Q7966487,WEHI
+Q69482,Lincoln's Inn
+Q192088,Eton College
+Q1431541,Lycée Janson-de-Sailly
+Q2042382,Ignatius Gymnasium
+Q9899,Amsterdam
+Q161982,Johannes Gutenberg University Mainz
+Q832808,Max Planck Institute for Chemistry
+Q1353679,University of Nebraska–Lincoln
+Q2164222,Rollins College
+Q2706734,St Catherine's College
+Q7659840,Sydney Boys High School
+Q2982991,Grinnell College
+Q14689076,Iowa City High School
+Q1206658,University of Colorado
+Q15574,University of Adelaide
+Q81162,Magdalen College
+Q823917,University of Sheffield
+Q1025332,Cadre Noir
+Q80207,Lviv University
+Q6801306,McGill Faculty of Medicine and Health Sciences
+Q1193547,Tulane University
+Q1474157,LSU New Orleans
+Q7592283,St Albans School
+Q49122,Harvard Law School
+Q9219,United States Military Academy
+Q1140775,Reed College
+Q847117,Meijo University
+Q1191132,Nagoya University
+Q5171564,Cornell University College of Engineering
+Q7196697,Pioneer High School
+Q550376,University of Baghdad
+Q158158,TU Dresden
+Q1264867,Dulwich College
+Q7227384,Pomona College
+Q579968,University of Missouri
+Q49119,Brandeis University
+Q273447,École Centrale Paris
+Q4892030,Berkeley High School
+Q54096,University of Cologne
+Q503415,University of Maryland
+Q49165,Amherst College
+Q3439758,Sidwell Friends School
+Q11209,United States Department of Defense
+Q780366,St. Ignatius College Prep
+Q1537759,Loyola University Chicago
+Q6246903,University of Illinois Chicago School of Law
+Q1179603,DePaul University
+Q1138384,University of Mississippi
+Q2475371,Hope College
+Q733487,Pilkington
+Q913462,Gaumont
+Q1530721,National Film Board of Canada
+Q700758,Saarland University
+Q122453,University of Stuttgart
+Q622683,University of Graz
+Q155354,University of Marburg
+Q344334,Istanbul Technical University
+Q1741148,Philips Natuurkundig Laboratorium
+Q14711377,Thomas Jefferson High School
+Q1653099,IBM Almaden Research Center
+Q316592,University of Wittenberg
+Q742494,Tomsk State University
+Q737835,University of Tehran
+Q835960,University of São Paulo
+Q27265,University of Salzburg
+Q861888,Oregon State University
+Q102398208,German University in Prague Medical School
+Q102398283,"faculty of science, German University in Prague"
+Q833822,University of Kassel
+Q204181,University of Tartu
+Q604487,Tallinn University of Technology
+Q6411036,"King's Oak Academy, à l'époque Kingswood Grammar School"
+Q239221,Lunar and Planetary Institute
+Q1420038,Queen's University
+Q640652,University of Oklahoma
+Q153838,Grünenthal GmbH
+Q969850,Stony Brook University
+Q7373975,Royal College of Chemistry
+Q49123,Harvard College
+Q766145,University of Oregon
+Q1878600,Lycée Henri-IV
+Q868550,Alternative Energies and Atomic Energy Commission
+Q1250256,Dorotheenstädtische Realschule
+Q1464143,Friedrichs-Gymnasium Berlin
+Q882742,Gelehrtenschule des Johanneums
+Q689400,TU Wien
+Q3268905,Rochambeau French International School
+Q3269151,Lycée privé Sainte-Geneviève
+Q262760,École polytechnique fédérale de Lausanne
+Q6747415,The Manchester Grammar School
+Q317032,University of Düsseldorf
+Q3695910,Teesside University
+Q4878701,Beckfoot School
+Q212322,GSK
+Q1190881,Reckitt
+Q1675535,SSL International
+Q7623713,Strides Arcolab
+Q1475126,Politehnica University of Timișoara
+Q39913,Seoul National University
+Q40018,Pohang University of Science and Technology
+Q12586769,Institute for Basic Science
+Q39988,Yonsei University
+Q39949,KAIST
+Q1472358,University of Houston
+Q374457,Sogang University
+Q2360056,Hölderlin Gymnasium
+Q1142544,Wellcome Sanger Institute
+Q1896148,University of Greenwich
+Q486156,University of Oslo
+Q192334,University of North Carolina at Chapel Hill
+Q1360303,University of Kentucky
+Q4134258,Goucher College
+Q1140542,Mount Holyoke College
+Q215539,Moscow Conservatory
+Q411895,Riga Technical University
+Q498407,University of Latvia
+Q1472245,Bauman Moscow State Technical University
+Q8039606,Wycliffe College
+Q16955,Tsinghua University
+Q6511142,Lebanon Valley College
+Q1145306,University of Calcutta
+Q7233637,Post Graduate Institute of Medical Education and Research
+Q1782980,University of Lagos
+Q864916,Biozentrum University of Basel
+Q2496385,University Hospital Bonn
+Q701818,Taipei Medical University
+Q52413,University of Kansas
+Q349055,Wayne State University
+Q745967,Christ Church
+Q5420130,Exeter School
+Q899030,Brasenose College
+Q1276338,Keble College
+Q304985,Royal College of Music
+Q8347695,School of St. Thomas Aquinas of the Piarist Schools of Zaragoza
+Q1048898,University of Vermont
+Q1313036,Ford Foundation
+Q117115074,National Tube Company
+Q49213,University of Texas at Austin
+Q2065769,University of Windsor
+Q3531508,Tonbridge School
+Q7989169,Westminster Hospital Medical School
+Q9401,BASF
+Q1950740,Icahn School of Medicine at Mount Sinai
+Q1048461,Flying University
+Q9383191,10th Secondary School named after Queen Jadwiga in Warsaw
+Q214654,Sorbonne
+Q2451973,Curie Institute
+Q3124195,Northeastern State University
+Q3468361,Texas Woman's University
+Q3444292,Cameron University
+Q797846,Girton College
+Q846173,New York University School of Law
+Q2093794,Vassar College
+Q782682,Indian Institute of Technology Kanpur
+Q5189702,Miranda House
+Q13564514,National Institute for Interdisciplinary Science and Technology
+Q15106197,Indian Institute of Chemical Technology
+Q813868,Bedford College
+Q7988792,Westford Academy
+Q609646,St John's College
+Q5946889,Huron High School
+Q8192864,Toho University
+Q5621541,Gustavus Adolphus College
+Q159433,3M
+Q1378320,Swarthmore College
+Q10749664,Midwood High School
+Q664846,National Cancer Institute
+Q159895,University of Rostock
+Q273263,RWTH Aachen University
+Q1591849,Wilhelm-Gymnasium
+Q672420,University of Königsberg
+Q156737,Kiel University
+Q315658,University of Wrocław
+Q465922,Gdańsk University of Technology
+Q435809,Gymnasium of Cistercian Order of Louis the Great
+Q165528,University of Greifswald
+Q164946,St Bartholomew's Hospital
+Q332342,Trinity College
+Q3237444,The Leys School
+Q17022869,Tollington School
+Q156725,University of Hamburg
+Q310695,Technical University of Darmstadt
+Q2290583,Siemens & Halske
+Q168426,University of Münster
+Q875788,University of Innsbruck
+Q1379834,Peter the Great Saint Petersburg State Polytechnical University
+Q2155067,Tallinn Cathedral School
+Q4271095,Danylo Halytsky Lviv National Medical University
+Q8448,Lyon-Bron Army Health Service School
+Q2383462,University of Lyon
+Q5061828,Central South University
+Q2608329,BYD Company
+Q2983792,Arc College (Dole)
+Q7298417,Raychem
+Q7895349,University of Dundee School of Law
+Q752663,Delft University of Technology
+Q846819,EG&G
+Q69315906,Constellation Technology Corporation
+Q2537765,Wadham College
+Q259517,Joint Institute for Nuclear Research
+Q6773401,Marsha Stern Talmudical Academy
+Q235034,University of Pittsburgh
+Q319761,Aberystwyth University
+Q49206,University of Connecticut
+Q7895298,University of Connecticut Health Center
+Q18706195,University of Connecticut School of Medicine
+Q695267,European Molecular Biology Laboratory
+Q1912019,Max Delbrück Center for Molecular Medicine
+Q501841,University of Turku
+Q917874,Åbo Akademi University
+Q16952,Peking University
+Q10886739,Foshan No.1 High School
+Q10926964,National Central University (Nanjing)
+Q270532,University of Aberdeen
+Q4666924,Aberdeen Grammar School
+Q805285,Balliol College
+Q1059517,Winchester College
+Q7627335,Stubbington House School
+Q6735519,Maidstone Grammar School
+Q49129,Boston Latin School
+Q5676553,Harvard School of Engineering and Applied Sciences
+Q193755,United States Geological Survey
+Q1068752,Howard University
+Q49117,University of Pennsylvania
+Q926749,Lycée Condorcet
+Q240631,University of Belgrade
+Q7237171,Požarevac Gymnasium
+Q11155446,"Faculty of Science and Mathematics, University of Belgrade"
+Q1660987,University of Belgrade Faculty of Medicine
+Q1141929,Military Engineering-Technical University
+Q1459393,S. M. Kirov Military Medical Academy
+Q2654435,Saint Petersburg State Institute of Technology
+Q58346416,Saint Petersburg Mining Institute
+Q4361180,Peter’s Agricultural Academy
+Q1573631,"Royal Military Academy, Woolwich"
+Q5493652,Rossall School
+Q604029,Scripps Institution of Oceanography
+Q319239,Tel Aviv University
+Q333705,Technion – Israel Institute of Technology
+Q1189954,Mines ParisTech
+Q1472347,Southern Illinois University Carbondale
+Q1196057,Santa Fe Institute
+Q336264,Kyoto University
+Q1070333,University of Arkansas
+Q1376987,New College
+Q4923633,Blackwood High School
+Q962011,University of Tasmania
+Q5435896,Farmington High School
+Q7895695,University of Maryland Francis King Carey School of Law
+Q204711,United States Food and Drug Administration
+Q4119470,"University of Maryland, Baltimore"
+Q4115969,Stanford University School of Medicine
+Q1134606,Massey University
+Q100993157,Massey University - Albany Campus
+Q11087546,Heyrovský Institute of the Czech Academy of Sciences
+Q763586,Masaryk University
+Q500606,University of South Florida
+Q1523902,Alexandru Ioan Cuza University
+Q1592074,Lafayette College
+Q540672,Auburn University
+Q15575,Flinders University
+Q68489500,School of Data Science
+Q270794,National Academy of Sciences
+Q6039999,Institute of Cancer Research
+Q327116,Sidney Sussex College
+Q7864086,UCL Medical School
+Q1068258,University College Dublin
+Q2496094,University of Dublin
+Q737332,Ben-Gurion University of the Negev
+Q4182,Weizmann Institute of Science
+Q7381357,Russell Berrie Nanotechnology Institute
+Q683580,Nanjing University
+Q5061424,Central Methodist University
+Q877925,Queen's University Belfast
+Q2021166,University of Natal
+Q194223,University of Buenos Aires
+Q1688743,Jewish Theological Seminary of America
+Q15276544,Seminario Rabinico Latinoamericano
+Q308963,University of Salamanca
+Q6123383,Jai Hind College
+Q598841,Monash University
+Q2738622,University of Salford
+Q3101007,National Chemical Laboratory
+Q3519967,Council of Scientific and Industrial Research
+Q18111697,Department of Scientific and Industrial Research
+Q190080,Carnegie Mellon University
+Q3445045,Bethel University
+Q1752117,Sheffield Hallam University
+Q1516684,University of Kent
+Q3570204,Wye College
+Q538452,Babeș-Bolyai University
+Q502336,Karnatak University
+Q3918532,University of Peshawar
+Q2892284,Baylor College of Medicine
+Q1045167,Carroll University
+Q1307345,University of Maine
+Q3244049,University of Southern Maine
+Q81153,Lincoln College
+Q17041550,West Plains R-7 School District
+Q621043,Emory University
+Q1317143,University of Louisville
+Q1474105,Western Kentucky University
+Q7895648,University of Louisville School of Medicine
+Q333886,Georgetown University
+Q7914466,Vanderbilt University School of Medicine
+Q101027895,University of Arizona College of Medicine Phoenix
+Q7056909,North Sydney Boys High School
+Q7435507,Scotch College
+Q15109469,Ilford County High School
+Q15568,University of Hong Kong
+Q738236,National University of Singapore
+Q4578297,St. John's University
+Q6936857,Munsang College
+Q720430,Nanyang University
+Q1142924,Universiti Malaya
+Q4572296,Clark Atlanta University
+Q5149356,Colquitt County High School
+Q156238,ExxonMobil
+Q176691,National Institute of Standards and Technology
+Q629998,General Mills
+Q744149,Wells Fargo
+Q5160925,Congressional Black Caucus Foundation
+Q5260099,Department 56
+Q6053989,International Trachoma Initiative
+Q6825262,Metropolitan State University
+Q8055406,York College
+Q8960737,School of Medicine of the University of São Paulo
+Q656871,University of Khartoum
+Q3179505,University of El Salvador
+Q1758474,University of Parma
+Q649120,Argonne National Laboratory
+Q924265,Aarhus University
+Q1542386,Roskilde University
+Q967165,University of York
+Q5529378,Medical University of Gdańsk
+Q7958639,Wabash College
+Q7458159,Sewanee: The University of the South
+Q1413977,"Piarist High School, Timișoara"
+Q222738,National Autonomous University of Mexico
+Q189325,Jet Propulsion Laboratory
+Q579611,Haverford College
+Q762243,University of Chester
+Q40025,University of Erlangen–Nuremberg
+Q7706974,Tettenhall College
+Q1149028,Lister Institute of Preventive Medicine
+Q4751084,Analy High School
+Q650068,Peterhouse
+Q951305,University of Cape Town
+Q7750489,The Mary Erskine School
+Q326044,Francis Crick Institute
+Q371522,University of Gothenburg
+Q782600,Linköping University
+Q895960,Max Planck Institute for Coal Research
+Q1048626,Lincoln University
+Q435846,Alte Landesschule Korbach
+Q81170,Oriel College
+Q2567148,Whitgift School
+Q6413785,Kingswood School
+Q7374037,Royal Commission on the Ancient and Historical Monuments of Wales
+Q1141571,Macalester College
+Q175241,University of Antwerp
+Q104901618,Lincoln Grammar School
+Q1202039,"Royal Holloway, University of London"
+Q4272498,University of Manchester Institute of Science and Technology
+Q81173,Exeter College
+Q3197003,King Edward's School
+Q7205171,Plovdiv University
+Q1377,University of Ljubljana
+Q622137,Lehigh University
+Q7300518,Reading Senior High School
+Q5025404,Cambridge Crystallographic Data Centre
+Q306764,Abbott Laboratories
+Q1552247,University of Kerala
+Q1854488,University of Idaho
+Q1026925,"California State University, Fullerton"
+Q789915,United States Department of State
+Q101013553,University of Canterbury Department of Philosophy
+Q1145814,University of Illinois System
+Q3539296,Trinity Washington University
+Q1813742,Leibniz-Forschungsinstitut für Molekulare Pharmakologie
+Q101248032,Georg-August-Universität Göttingen Universitätsmedizin
+Q867530,Victoria University of Manchester
+Q8025920,The Winsford Academy
+Q5225614,Dartford Grammar School
+Q1869028,London Metropolitan University
+Q4981040,Brynteg Comprehensive School
+Q30264004,Carnegie's Geophysical Laboratory
+Q4497731,MSU Faculty of Chemistry
+Q7895715,University of Massachusetts Medical School
+Q8034183,Worcester Foundation for Biomedical Research
+Q199948,University of Concepción
+Q378134,UCLouvain
+Q833670,Katholieke Universiteit Leuven
+Q1546437,Paris Dauphine University
+Q232141,University of Chile
+Q1129925,Pontifical Catholic University of Chile
+Q3138071,University of Tarapacá
+Q13338,University of Bordeaux 1
+Q947747,University of Picardie Jules Verne
+Q7695688,iconectiv
+Q1074758,Chiron Corporation
+Q1465448,Politehnica University of Bucharest
+Q834219,Bolyai University
+Q18539115,Cantemir Vodă National College
+Q5546985,Georgetown College
+Q158085,Max Planck Society
+Q201603,Simon Fraser University
+Q1005540,Federal Institute for Materials Research and Testing
+Q7864146,"University of California, Berkeley College of Engineering"
+Q82513,Merton College
+Q5329808,Eastbourne College
+Q5540543,George Heriot's School
+Q7842817,Trinity Grammar School Kew
+Q1249005,University of Dundee
+Q7591561,St. Pius X High School
+Q49205,Wellesley College
+Q422208,Wageningen University & Research
+Q7846851,Troy High School
+Q812573,Baylor University
+Q797897,Fitzwilliam College
+Q21705070,Universidad Central
+Q1375146,Murdoch University
+Q6006478,Imperial College Faculty of Medicine
+Q670897,Arizona State University
+Q1026912,"California State University, Chico"
+Q206921,Pfizer
+Q2140369,Łódź University of Technology
+Q9379354,Faculty of Chemistry of Lodz University of Technology
+Q165862,Royal Air Force
+Q2170997,Royal College of Physicians of Edinburgh
+Q5319502,Dyson Perrins Laboratory
+Q9091642,University of Kuopio
+Q11875971,
+Q2093139,University of Eastern Finland
+Q8039991,Wymondham College
+Q7851947,Tulane University School of Medicine
+Q5108635,"Christ's College, Finchley"
+Q7374230,"Royal Grammar School, Guildford"
+Q951830,Royal Mint
+Q5001092,Bury Grammar School
+Q7895582,University of Kansas School of Medicine
+Q2583379,Ditsong National Museum of Natural History
+Q1416348,Norwegian Institute of Technology
+Q314536,Norwegian University of Science and Technology
+Q622358,Indian Institutes of Technology
+Q6694542,Loyola College
+Q153626,Waffen-SS
+Q51882723,St. Petersburg Practical Institute of Technology
+Q85300,Odesa University
+Q156152,IG Farben
+Q658975,University of Lausanne
+Q476299,Reichserziehungsministerium
+Q878218,Max Planck Institute of Biochemistry
+Q6973757,National Institutes of Health Clinical Center
+Q2495800,University School of Milwaukee
+Q1235608,Paris Diderot University
+Q259388,Nantes University
+Q196544,Aligarh Muslim University
+Q6082141,Islamia College
+Q7586189,Sri Pratap College
+Q3577716,École alsacienne
+Q1130982,Institut Henri Poincaré
+Q524289,Conservatoire national des Arts et Métiers
+Q26420630,Babraham Hall
+Q1544739,United Arab Emirates University
+Q2895705,Dubai Police Force
+Q2303765,University of Ghana
+Q15045868,University of Sierra Leone
+Q104760945,Polytechnic Institute of Brooklyn
+Q37156,IBM
+Q304878,National Science Foundation
+Q1499258,United States Naval Research Laboratory
+Q606140,University of Waikato
+Q616591,Oberlin College
+Q1130172,Mayo Clinic
+Q164028,University of Guadalajara
+Q7894351,Atemajac Valley University
+Q1967606,National Physical Laboratory
+Q3778585,BSI Group
+Q689854,Freiberg University of Mining and Technology
+Q5676651,Harvard–MIT Division of Health Sciences and Technology
+Q5441562,Feinberg School of Medicine
+Q233098,Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science
+Q20266330,Frederick William University Berlin
+Q15812192,Gewerbeinstitut Berlin
+Q51984,Bauakademie
+Q17403358,Technische Hochschule Berlin
+Q17403399,Royal College for Vocational Studies
+Q112942958,Mineralogical Museum (Berlin)
+Q790029,Bangor University
+Q5624199,Jovan Jovanović Zmaj Gymnasium (Novi Sad)
+Q1057199,Hokkaido University
+Q1287141,Teikyo University
+Q30092787,Imperial Alexander University
+Q4117596,Cleveland Clinic
+Q1434547,Loughborough University
+Q7597409,Stamford School
+Q15142,University of Massachusetts Amherst
+Q12312773,Frederiksberg Gymnasium
+Q1575044,Visva-Bharati University
+Q1661243,Indian Institute of Technology Kharagpur
+Q7285591,"University College of Science, Technology & Agriculture"
+Q8191850,Kurume University
+Q1195900,University of the Ryukyus
+Q12432,Michigan Technological University
+Q1188786,Kyushu University
+Q638859,Mills College at Northeastern University
+Q348402,Adam Mickiewicz University in Poznań
+Q32751,National Sun Yat-sen University
+Q178972,Sun Yat-sen University
+Q6658359,Liverpool College
+Q179036,The Catholic University of America
+Q7591701,St. Stanislaus  School
+Q105427177,UCLA Division of Physical Sciences
+Q599316,The New School
+Q844999,Fashion Institute of Technology
+Q1339626,Parsons School of Design
+Q1446181,Hunter College
+Q7974645,Wath Academy
+Q7057025,North Toronto Collegiate Institute
+Q11968294,FHS/Sjefskurs
+Q1770047,Norwegian Defence Research Establishment
+Q5046045,Carre's Grammar School
+Q746153,University of the West Indies
+Q5365568,First Higher School
+Q11664441,Junten Junior & Senior High School
+Q39311438,Tokyo Imperial University
+Q1153275,RIKEN
+Q7896431,University of Texas Health Science Center at Houston
+Q3151753,James A. Baker III Institute for Public Policy
+Q7895155,University of Calicut
+Q218506,Lund University
+Q7895753,"University of Michigan College of Literature, Science, and the Arts"
+Q49120,Tufts University
+Q197543,Zhejiang University
+Q3276757,Presidency College
+Q184478,University of California
+Q1075339,Ohio University
+Q747179,Wheaton College
+Q1755318,University of Wisconsin–Milwaukee
+Q2094177,University of Memphis
+Q1430048,Florida A&M University
+Q1051840,Sarah Lawrence College
+Q810771,Bates College
+Q127050,Manhattan Project
+Q1524124,Morehouse College
+Q4219242,Kemerovo State University
+Q667568,Aristotle University of Thessaloniki
+Q513658,University of Portland
+Q16947,Tongji University
+Q2442457,NKI
+Q5373193,Emmanuel College
+Q762266,City University of New York
+Q15144,University of Massachusetts Boston
+Q49124,Radcliffe College
+Q126412,Massachusetts General Hospital
+Q4354672,McLean Hospital
+Q6389637,Kennedy Krieger Institute
+Q30253669,Eunice Kennedy Shriver Center
+Q50363516,Johns Hopkins Medicine
+Q7245413,Prior Park College
+Q7996607,Whitman College
+Q168000,American University
+Q5836034,Stanford University School of Engineering
+Q1728130,Kantonsschule Solothurn
+Q1133630,Lawrence Berkeley National Laboratory
+Q7896544,University of Virginia School of Medicine
+Q6494081,Lasswade High School Centre
+Q167733,Barnard College
+Q3350920,University of Rajshahi
+Q495015,Fudan University
+Q2281517,Sichuan University
+Q46210,University of Milan
+Q265058,Hungarian Academy of Sciences
+Q908553,Union Carbide
+Q6603941,Tougaloo College
+Q7896032,"University of Otago, Christchurch"
+Q627271,Southern University
+Q659255,University of West Florida
+Q7591484,St. Petersburg College
+Q735049,"University of Maryland, Baltimore County"
+Q4795243,Arnold School
+Q31249,Kansas State University
+Q531285,University of Newcastle
+Q1350021,University of Wollongong
+Q750066,Aston University
+Q450587,Alzahra University
+Q502545,Ferdowsi University of Mashhad
+Q15570,The Chinese University of Hong Kong
+Q4745875,Ames National Laboratory
+Q1661751,University of Karachi
+Q287072,University of Burgundy Europe
+Q8625,Collège-lycée Ampère
+Q3268797,Lycée Lalande
+Q3022909,Denis Roger-Vasselin
+Q941551,Washburn University
+Q7972509,Washington University School of Medicine
+Q748307,Lycée Charlemagne
+Q6721729,MacArthur High School
+Q695599,Austrian Federal Government
+Q4129793,
+Q955609,University of Ferrara
+Q7184,NATO
+Q56034,Federal Foreign Office
+Q272969,Federal Intelligence Service
+Q1431700,Middlesex Hospital
+Q1732774,National Institute for Medical Research
+Q863813,Binghamton University
+Q7277844,RTI International
+Q32746,National Taiwan University
+Q712051,Affiliated Senior High School of National Taiwan Normal University
+Q130394401,"Makif Alef, Ashdod"
+Q1343885,Monterrey Institute of Technology and Higher Education
+Q5149833,Fu Foundation School of Engineering and Applied Science
+Q691851,University of Naples Federico II
+Q7502154,Shorter University
+Q278648,A. E. Staley
+Q760967,Clare College
+Q7206472,Pocklington School
+Q1452369,Fred Hutchinson Cancer Center
+Q1144262,University of Western Ontario
+Q7959335,Wadsworth Center
+Q130981,Cooper Union
+Q3443159,University of the Sciences in Philadelphia
+Q6166301,Miller Institute
+Q7987724,Western College for Women
+Q5146733,College of Idaho
+Q5017530,Minot State University
+Q118899049,DeSales College
+Q519560,North American Aviation
+Q104869134,Neil A. Armstrong Test Facility
+Q4493503,Denison University
+Q7691246,Teachers College
+Q7063387,Notre Dame College
+Q1132346,North Carolina State University
+Q651233,University of Osaka
+Q332498,Brigham Young University
+Q61228,Gresham's School
+Q5133190,Clifton College
+Q29426438,University of Karlsruhe
+Q7432510,"School of Medicine, Trinity College Dublin"
+Q4855264,Bangladesh Agricultural University
+Q3449522,Gazipur Agricultural University
+Q4855358,Bangladesh Open University
+Q5329668,East West University
+Q5128282,Classical High School
+Q664881,Franklin & Marshall College
+Q5637231,Hackensack High School
+Q52152,Goddard Space Flight Center
+Q371625,Brooklyn College
+Q6313025,Juniata College
+Q13654033,Northampton School for Boys
+Q7895971,University of North London
+Q5362972,Elizabeth High School
+Q7242167,Pretoria Boys High School
+Q6973612,National Institute of Biomedical Imaging and Bioengineering
+Q7738972,The Harvey Grammar School
+Q15238514,King Edward VII and Queen Mary School
+Q185800,Laboratory of Molecular Biology
+Q4848558,Baines School
+Q326276,Wellcome Trust
+Q965321,Ministry of Supply
+Q3403302,Uppingham School
+Q1537303,Gonzaga University
+Q5522207,Garden City High School
+Q2887413,"Faculty of Medical Sciences, University of Buenos Aires"
+Q266423,Bristol-Myers Squibb
+Q1567459,"Faculty of Science, University of Zagreb"
+Q7383690,Ruđer Bošković Institute
+Q514590,Fritz Haber Institute of the MPG
+Q7494354,Shenyang Pharmaceutical University
+Q1333303,Hong Kong University of Science and Technology
+Q5624208,Gymnasium of Karlovci
+Q495957,Medical University of Łódź
+Q2001798,Shiraz University
+Q4730631,Allan Glen's School
+Q28406627,"Queen's Park Secondary School, Glasgow"
+Q13334,University of Orléans
+Q1209029,Shinshu University
+Q1043356,Carlsberg Laboratory
+Q3351574,Aliah University
+Q1549932,University of the Punjab
+Q6411530,"King Edward VI High School for Girls, Birmingham"
+Q365105,John Innes Centre
+Q6149540,State University of New York at Geneseo
+Q4116241,King Fahd University of Petroleum and Minerals
+Q11713002,"Institute of Pharmacology, Polish Academy of Sciences"
+Q677662,University of the National Education Commission
+Q805122,Ball State University
+Q3162985,Tashkent State Technical University
+Q651133,National University of Uzbekistan named after Mirzo Ulugbek
+Q12822190,Abdullayev Institute of Geology and Geophysics
+Q782116,Oakland University
+Q475700,University of the Western Cape
+Q1698809,Johanneum Breslau
+Q1329669,Elisabeth-Gymnasium
+Q114339958,TH Karlsruhe
+Q1457922,Friedrich-Wilhelms-Gymnasium
+Q1297729,Magdalenaeum Wrocław
+Q162684,Charité
+Q470438,Physikalisch-Technische Bundesanstalt
+Q1558065,Gymnasium Andreanum
+Q655542,Estonian University of Life Sciences
+Q6006500,Imperial College School of Medicine
+Q3803682,Istituto Superiore di Sanità
+Q7985142,West Fargo High School
+Q5329984,Eastern Arizona College
+Q3560910,Highgate School
+Q7897033,Unley High School
+Q47473770,University of Trondheim
+Q7851551,Tufts University School of Medicine
+Q5303087,Downe House
+Q503224,United States Secret Service
+Q1539696,National Polytechnic Institute
+Q7243805,Prince Alfred College
+Q4019812,Wiley University
+Q6729834,Magdalen College School
+Q2398901,Hawarden
+Q14920443,Newington College
+Q131626,Smithsonian Institution
+Q81174,Jesus College
+Q11676804,Kōnan High School
+Q1605513,Wagner College
+Q854280,Royal Institute of Technology
+Q337989,SETI Institute
+Q1654025,Kwame Nkrumah University of Science and Technology
+Q1683230,University of Greater Manchester
+Q1857773,University of Lancashire
+Q1075104,University of Essex
+Q4884322,Belmont Abbey College
+Q1145731,University of Technology Sydney
+Q1187271,Hong Kong Polytechnic University
+Q45134019,"Bell Labs, Alcaltel-Lucent"
+Q284777,Western Washington University
+Q1637997,Novosibirsk State University
+Q4201537,Boreskov Institute of Catalysis
+Q101013876,Novosibirsk State University Faculty of Foreign Languages
+Q3530803,Cochin University of Science and Technology
+Q6733535,"Mahatma Gandhi University, Kerala"
+Q30299282,Délégation Paris-Centre (DR2)
+Q100993236,University at Buffalo - North Campus
+Q30265158,Toyota Physical and Chemical Research Institute
+Q756126,Middle East Technical University
+Q273619,Polytechnic School of Montreal
+Q25527956,Yunusov Institute of the Chemistry of Plant Substances
+Q7864122,UCSF Medical Center
+Q3152650,Florida Institute of Technology
+Q1674548,Beijing University of Technology
+Q262854,University of Lancaster
+Q1462246,University of Patras
+Q80796,Frontiers Media
+Q1752043,King Saud University
+Q7675938,Taif University
+Q1404053,Woods Hole Oceanographic Institution
+Q2495917,University of Tennessee System
+Q689617,Università della Svizzera italiana
+Q1326975,University of Wyoming
+Q645663,University of Pisa
+Q3268899,Lycée Racine
+Q393762,Agilent Technologies
+Q1126189,London School of Hygiene and Tropical Medicine
+Q7138214,Parkdale Collegiate
+Q6973433,National Hsinchu Senior High School
+Q337266,Academia Sinica
+Q726595,University of Rennes 1
+Q1066731,6024 Ochanomizu
+Q1816069,University of Benin
+Q1190812,University of New Mexico
+Q10159,École Normale Supérieure de Lyon
+Q98112081,Paris-Saclay Faculty of Sciences
+Q138691,Bureau de Recherches Géologiques et Minières
+Q154037,TotalEnergies
+Q30299470,CEA Saclay
+Q123165600,Lavoisier H2 Geoconsult
+Q1111261,Colorado College
+Q7568723,Southern University of Science and Technology
+Q30254689,"Institute of Catalysis and Surface Chemistry, Polish Academy of Sciences"
+Q1771451,Grand Rapids Community College
+Q383568,University of Valencia
+Q2060678,University of Campinas
+Q7523729,University of Sindh
+Q30270740,Association for Iron & Steel Technology
+Q60650497,"Department of Statistical Sciences, Sapienza University of Rome"
+Q3155747,Istituto Nazionale di Ricerca per gli Alimenti e la Nutrizione
+Q21486123,Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria
+Q392667,Wake Forest University
+Q1198571,University of Nice Sophia Antipolis
+Q1155944,Paris Descartes University
+Q6792344,Maudsley Hospital
+Q7374196,Royal Free Hospital
+Q760516,Augsburg University
+Q7366447,Roosevelt High School
+Q15255083,Monessen High School
+Q1536562,Malvern College
+Q762068,Clare Hall
+Q4669021,Abraham Lincoln High School
+Q7252783,Provo High School
+Q6742723,Malcolm X College
+Q8000254,Wilbur Wright College
+Q5597915,Gravesend Grammar School
+Q6411092,"King's School, Rochester"
+Q48753512,Kaiser Wilhelm Institute for Physics
+Q3268893,lycée Pierre-de-Fermat
+Q59340616,Faculté des Sciences de Lyon
+Q10178,École supérieure de chimie physique électronique de Lyon
+Q829449,Marie and Louis Pasteur University
+Q22249413,Université de Nancy
+Q1150419,National University of Colombia
+Q7896140,University of Pittsburgh School of Pharmacy
+Q1456173,Friderico-Francisceum
+Q1425119,Georgian Technical University
+Q7404072,Salem College
+Q270145,National University of San Marcos
+Q4794281,Army and Navy Academy
+Q5055311,Cayetano Heredia University
+Q4673779,Achimota School
+Q369839,University of Szeged
+Q600634,Pontifícia Universidade Católica do Rio Grande do Sul
+Q766447,Federal University of Rio Grande do Sul
+Q1362729,Technical University of Lisbon
+Q7894395,Mackenzie Presbyterian University
+Q7834196,Federal Rural University of Rio de Janeiro
+Q5440479,Universidade Federal da Paraíba
+Q1817137,São Paulo State University
+Q1665208,Instituto Militar de Engenharia
+Q10302932,
+Q2008672,Obafemi Awolowo University
+Q7902729,Usmanu Danfodiyo University
+Q12236087,Kullīyat al-Malik Khālid al-ʻAskarīyah
+Q1124657,Bar-Ilan University
+Q45137009,"Faculty of Exact Sciences, Bar-llan University"
+Q7010998,New Plymouth Boys' High School
+Q6073159,Irondequoit High School
+Q486269,Kodak
+Q1476484,North Carolina Agricultural and Technical State University
+Q5061195,Central High School
+Q5055246,Cawthron Institute
+Q1812600,Brooklyn Law School
+Q5124722,Civilian Pilot Training Program
+Q7986919,West Virginia State University
+Q701679,Civil Aeronautics Administration
+Q5125034,Claflin University
+Q3038055,Douglass Residential College
+Q7351231,Robert Wood Johnson Medical School
+Q6973027,"National Heart, Lung, and Blood Institute"
+Q7965939,Walter Reed Army Institute of Research
+Q626591,Texas Southern University
+Q3306469,Prairie View A&M University
+Q620640,Appalachian State University
+Q6973632,National Institute of Dental and Craniofacial Research
+Q4887262,Benedict College
+Q49041,Allen University
+Q7427872,Savannah River National Laboratory
+Q7124862,Paine College
+Q4570781,Lincoln University
+Q3509595,Masaryk University Faculty of Science
+Q3551402,De Montfort University
+Q780975,University of Papua New Guinea
+Q7587550,St. Christopher's School
+Q5108634,"Christ's College, Christchurch"
+Q49204,Smith College
+Q105522476,Realgymnasium Langenberg
+Q49101402,University City of Madrid
+Q3268712,lycée Henri-Poincaré
+Q597236,Washington State University
+Q689775,Graz University of Technology
+Q917899,University of New Haven
+Q142740,MIT Sloan School of Management
+Q519427,University of Denver
+Q1426464,Phillips Exeter Academy
+Q1861687,Montana State University
+Q1185955,"University of Nevada, Reno"
+Q7492742,Sheffield Scientific School
+Q5151844,Comilla Victoria Government College
+Q5269001,Dhanmondi Government Boys' High School
+Q2302336,University of Montana
+Q7989148,Westminster College
+Q714439,Oak Ridge National Laboratory
+Q1641788,University of Rhode Island
+Q4115972,New York Medical College
+Q7985124,West Essex High School
+Q875637,College of William & Mary
+Q7142513,Passaic High School
+Q109176,Andrews University
+Q7591530,St. Philip Catholic Central High School
+Q5521430,Gannon University
+Q7494490,Shepherd University
+Q7704982,Terry Sanford High School
+Q192864,Science
+Q1024426,University of South Carolina
+Q536282,Corpus Christi College
+Q5142105,Colchester Royal Grammar School
+Q5130087,Clayesmore School
+Q7594124,"St Margaret's School, Edinburgh"
+Q7677252,Takapuna Grammar School
+Q746592,University of the Philippines
+Q3551545,Centro Escolar University
+Q507349,Gujarat University
+Q1756541,Vytautas Magnus University
+Q658192,Vilnius University
+Q1506510,Norwegian Military Academy
+Q630226,University of the Pacific
+Q1817355,Lviv Polytechnic
+Q400422,Saratov State University
+Q955764,University of Illinois Chicago
+Q914024,Yokohama City University
+Q6005,Cabinet Office
+Q1142254,Cabinet Secretariat
+Q11264698,Japanese Foundation for Cancer Research
+Q11421209,National Cancer Center
+Q3521333,Indian Agricultural Research Institute
+Q274486,Waseda University
+Q11572243,Doitsugaku Kyōkaigakkō
+Q11382345,Sasaki Institute
+Q654536,Canadian Nuclear Safety Commission
+Q1109093,College of Wooster
+Q49087,Fisk University
+Q4026847,Meharry Medical College
+Q7895546,University of Ilorin
+Q41114,Ewha Womans University
+Q1145497,Curtin University
+Q2744099,Vertex Pharmaceuticals
+Q3433335,Metallurgical Laboratory
+Q53122,Pusan National University
+Q7233,Lockheed Corporation
+Q6717488,MRIGlobal
+Q5476635,Fox Chase Cancer Center
+Q1474005,Western Illinois University
+Q1999150,Bestuzhev Courses
+Q4127526,All Russia Petroleum Research Exploration Institute
+Q4135691,Geological Committee
+Q741082,Macquarie University
+Q1661242,Indian Institute of Technology Bombay
+Q724207,Azerbaijan State Oil and Industrial University
+Q4201824,Semenov Institute of Chemical Physics
+Q143451,University of Central Florida
+Q5461598,Florida Solar Energy Center
+Q528468,Sandoz
+Q4954686,Bradford Grammar School
+Q3047595,Edinburgh Academy
+Q37008,Tbilisi State University
+Q16375275,Agricultural University of Georgia
+Q216272,Chrome Holding Co.
+Q1301275,Tokyo University of Agriculture and Technology
+Q1043963,Carnegie Science
+Q16507426,CRPG
+Q6553672,Linfield University
+Q855730,Chulalongkorn University
+Q5620660,Gus Fring
+Q4682076,Adelphi University
+Q2321391,"St Mary's University, Twickenham"
+Q8067559,Zayed University
+Q1777001,Kneiphof Gymnasium
+Q193510,University of Padua
+Q1747272,Maharaja Sayajirao University of Baroda
+Q585777,Brookhaven National Laboratory
+Q7896521,University of Utah School of Medicine
+Q1287942,Max Planck Institute for Intelligent Systems
+Q1697093,Johannes-Kepler-Gymnasium
+Q2132876,Ratsgymnasium Bielefeld
+Q204457,University of Bergen
+Q1066823,National Weather Service
+Q2983328,Swedish Meteorological and Hydrological Institute
+Q806116,Banaras Hindu University
+Q2089433,"Physics Association (Frankfurt am Main, Germany)"
+Q152051,Bayer
+Q156199,Electorate of Saxony
+Q2388897,Saint Peter's School
+Q1065,United Nations
+Q28664814,Imperial University of St. Vladimir
+Q30279593,Karpov Institute of Physical Chemistry
+Q1419175,Royal Aircraft Establishment
+Q5175401,Cotner College
+Q4272111,General Foods
+Q115806272,
+Q664875,ETH Domain
+Q1236345,University of Murcia
+Q10177,École Centrale de Lyon
+Q11453658,Sendai Daiichi High School
+Q5368951,Taihoku Imperial University
+Q43452,Autonomous University of Barcelona
+Q219615,University of Barcelona
+Q1640731,Polytechnic University of Catalonia
+Q3088656,Mobil
+Q1781384,University of Tennessee at Chattanooga
+Q5149893,Columbia University College of Dental Medicine
+Q5171560,Cornell University College of Agriculture and Life Sciences
+Q6280779,Joseph A. Craig High School
+Q201325,Ariel University
+Q787360,City University of Hong Kong
+Q5593620,Grambling State University
+Q1795487,Drew University
+Q14705485,Eastside High School
+Q256754,St Catharine's College
+Q49167,Wesleyan University
+Q2092358,Osmania University
+Q7055270,North-Eastern Hill University
+Q5676556,Harvard T.H. Chan School of Public Health
+Q7490595,Shasta High School
+Q3445856,Royal Agricultural University
+Q832550,Northwestern Polytechnical University
+Q1912082,Max Planck Institute of Colloids and Interfaces
+Q4976343,Brown University School of Engineering
+Q1346110,Occidental College
+Q1026909,"California State University, Dominguez Hills"
+Q6020703,"Indian Institute of Science Education and Research, Kolkata"
+Q1041737,Carleton University
+Q2342183,University of North Bengal
+Q194445,Cairo University
+Q1552010,University of Louisiana at Monroe
+Q609586,Shahid Beheshti University
+Q7694901,Tehran University of Medical Sciences
+Q2579702,Jadavpur University
+Q30282198,National Institute of Plant Genome Research
+Q2341039,Stetson University
+Q558977,Carnegie Institute of Technology
+Q7010189,New Mexico Highlands University
+Q3113011,Hamilton College
+Q3151770,D. Mendeleev University of Chemical Technology of Russia
+Q972553,Universidad Autónoma Metropolitana
+Q5917562,Instituto Nacional de Neurología y Neurocirugía
+Q7894282,Universidad Juárez Autónoma de Tabasco
+Q5648133,Hangzhou University
+Q1771717,Portland State University
+Q632240,Eli Lilly and Company
+Q3550116,University of the Philippines Los Baños
+Q3100918,Alborz High School
+Q7382826,Rutgers University–New Brunswick
+Q1736748,Sandia National Laboratories
+Q101248150,Rheinische Friedrich-Wilhelms-Universität Bonn Kekulé-Institut für Organische Chemie und Biochemie
+Q24382,Bielefeld University
+Q707272,University of Bamberg
+Q1795727,Köllnisches Gymnasium
+Q16351408,Polytechnical Institute Riga
+Q505639,Athenaeum Illustre of Amsterdam
+Q1026932,"California State University, Los Angeles"
+Q631066,Clemson University
+Q186047,Valparaiso University
+Q81087,"University College, Oxford"
+Q7593614,"St John's School, Leatherhead"
+Q19818476,Darwen Vale High School
+Q7316686,Retford Oaks Academy
+Q4781944,Exxon
+Q108006386,Standard Oil of New Jersey
+Q765642,Queens' College
+Q494230,medical school
+Q6783971,Mass
+Q7593821,"St Joseph's Academy, Blackheath"
+Q1247544,University of Westminster
+Q6410900,King's College School
+Q5048217,Cascadilla School
+Q866012,University of Queensland
+Q5524507,Garvan Institute of Medical Research
+Q4745202,American Sugar Refining Company
+Q1115050,United States Army Command and General Staff College
+Q1525831,The University of Texas MD Anderson Cancer Center
+Q1808012,Memorial Sloan Kettering Cancer Center
+Q625713,BHP Group
+Q533235,Ateneo de Manila University
+Q1939211,Mississippi State University
+Q7370433,Rotherham Grammar School
+Q776807,Magdalene College
+Q5228062,Dauntsey's School
+Q6411705,"King Henry VIII School, Coventry"
+Q7094936,Ontario Veterinary College
+Q4914271,Bingley Grammar School
+Q25205802,Hutchinson High School
+Q265866,National University of the Littoral
+Q1311379,Trinity University
+Q6515975,Leeds Grammar School
+Q65379,Virginia Tech
+Q4564494,Albright College
+Q6138769,James Madison High School
+Q132140,Federal University of Minas Gerais
+Q110701976,Altos Labs
+Q4775012,Antioch College
+Q4775035,Antioch University
+Q7996846,Whittemore Peterson Institute
+Q16266700,Upjohn
+Q825987,Whitehead Institute
+Q846101,Georgetown University Law Center
+Q1518804,North Carolina Central University
+Q10709746,University of North Carolina at Pembroke
+Q6411596,King George's Medical University
+Q7423716,Sardar Patel Medical College
+Q15697080,"Mirosław Mossakowski Institute of Experimental and Clinical Medicine, Polish Academy of Sciences"
+Q6806253,Medical Academy of Łódź
+Q1782948,Tennessee State University
+Q7339779,Roanoke College
+Q4005868,University of Texas Health Science Center at San Antonio
+Q4119601,Duke University School of Medicine
+Q3551583,Université de Dschang
+Q3551692,Université de Yaoundé I
+Q1551044,Alabama A & M University
+Q30261846,Institute of Medical Research and Medicinal Plants Studies
+Q597758,University of Oldenburg
+Q7459941,Shaanxi University of Science and Technology
+Q1461161,Friedrich Miescher Institute for Biomedical Research
+Q30287180,Délégation Provence et Corse
+Q41085,Sungkyunkwan University
+Q1570489,National University of Córdoba
+Q4672815,Accra Academy
+Q5326502,Earlham College
+Q685557,Technical University of Dortmund
+Q14552696,University of Minnesota System
+Q282097,Oregon Health and Science University
+Q1065414,Vrije Universiteit Amsterdam
+Q1137652,Maastricht University
+Q4882325,Belfast Royal Academy
+Q7373798,Royal Belfast Academical Institution
+Q1128819,United States Naval Test Pilot School
+Q1515048,Naval Postgraduate School
+Q3578252,École Nationale Supérieure des Mines de Saint-Étienne
+Q7344852,Robert Gordon's College
+Q7842696,Trinity College
+Q3113694,Toyohashi University of Technology
+Q1152391,Ochanomizu University
+Q1069994,Tokyo University of Science
+Q5115295,Chubu University
+Q5647674,King Edward VI Handsworth Grammar School for Boys
+Q8564903,Foster's School
+Q49207,University of New Hampshire
+Q3551772,University of Wisconsin–Whitewater
+Q8026986,Wirral Grammar School for Boys
+Q541548,University of Neuchâtel
+Q1475413,Saint Joseph's University
+Q899140,Genentech
+Q1144565,Umeå University
+Q5666542,Harrow High School
+Q12010547,West Virginia Wesleyan College
+Q1159198,Dana–Farber Cancer Institute
+Q3567094,Weill Cornell Medicine
+Q4897536,Beth Israel Deaconess Medical Center
+Q557597,University of Dar es Salaam
+Q390087,Xavier University of Louisiana
+Q632506,Norfolk State University
+Q5362587,Elizabeth City State University
+Q1517478,Pontifical Xavierian University
+Q3117949,University of Valle
+Q956056,Transylvania University
+Q2471216,Thomas Jefferson University
+Q2159219,Illinois Wesleyan University
+Q1137779,University of Cauca
+Q926068,University of Navarre
+Q1687025,Comillas Pontifical University
+Q7895888,University of Nebraska Medical Center
+Q5948658,Hurstpierpoint College
+Q501473,"Royal College, Colombo"
+Q3523079,Ananda College
+Q7895254,University of Ceylon
+Q256462,Université-de-Montréal
+Q207983,Monsanto
+Q5123723,City of Hope National Medical Center
+Q5530214,Geisel School of Medicine
+Q3140484,Bedford School
+Q8023516,Wimbledon College
+Q3551343,University College Hospital
+Q207361,Defense Advanced Research Projects Agency
+Q582418,ITT Corporation
+Q5436019,Farnham Grammar School
+Q559549,United States Naval Academy
+Q7754952,The Oldershaw Academy
+Q1179599,DePauw University
+Q126726,Government College University
+Q10927231,National Taiwan University College of Medicine
+Q7094613,Ontario Cancer Institute
+Q7894718,University Health Network
+Q8033156,The Woodroffe School
+Q7170040,Stephen Perse Foundation
+Q611723,Toronto Metropolitan University
+Q6487738,State University of New York at Fredonia
+Q101029563,University of Connecticut Department of Chemistry
+Q5146820,College of Saint Benedict and Saint John's University
+Q5576782,Godolphin and Latymer School
+Q1478095,Royal Academy of Engineering
+Q2904022,Bio-Rad Laboratories
+Q296709,Oil & Gas University of Ploiești
+Q20073492,Institute for Scintillation Materials
+Q3790133,Universidade Federal de Santa Maria
+Q2994429,National Council for Scientific and Technological Development
+Q1249251,Missouri State University
+Q7452674,Serampore College
+Q797892,Emmanuel College
+Q5080245,Culford School
+Q135325,Alcoa
+Q1074103,University of Science and Technology of China
+Q165053,Anna University
+Q111549528,Zalaegerszegi Zrínyi Miklós Gimnázium
+Q101266434,Johannes Gutenberg Universitat Mainz Katholisch-Theologische Fakultät
+Q4784933,Arbroath High School
+Q784171,National University of La Plata
+Q6978293,National Scientific and Technical Research Council
+Q125030794,
+Q3268583,Lycée Bartholdi
+Q1464415,Friedrichswerder Gymnasium
+Q4135693,Moscow State University Faculty of Geology
+Q849047,Komsomolskaya Pravda
+Q3551634,Miyagi University
+Q3443325,Widener University
+Q2842903,American Cyanamid
+Q1760438,Queens College
+Q4874834,Bayside High School
+Q6411536,King Edward VI School
+Q1474431,IBM Research – Zurich
+Q1508631,Royal School of Mines
+Q5644830,Hamilton Academy
+Q4878755,Beckman Institute for Advanced Science and Technology
+Q1799872,Rowan University
+Q5975101,Liceo José Victorino Lastarria
+Q84555962,Guy's Hospital Medical School
+Q7691704,Teaneck High School
+Q19393185,
+Q7690168,Taylor University
+Q104480051,BioAtla
+Q1474517,French National Institute of Health and Medical Research
+Q584919,University of Madrid
+Q1473677,University of Santiago de Compostela
+Q14705839,Pascack Hills High School
+Q986122,Ashland University
+Q7061507,Norwich High School for Girls
+Q967321,Topsoe
+Q40358,American Association for the Advancement of Science
+Q6973666,National Institute of General Medical Sciences
+Q7896139,University of Pittsburgh School of Medicine
+Q714740,Churchill College
+Q907481,Columbia Business School
+Q2212976,Saint Mary's University of Minnesota
+Q5149780,Columbia Pacific University
+Q5854574,Facultad de Ciencias (Universidad Autónoma de Madrid)
+Q30282406,CIC bioGUNE
+Q525169,Shanghai Jiao Tong University
+Q1321046,Rhodes College
+Q1468161,University of Colorado Denver
+Q11989206,Metropolitanskolen
+Q4567575,Norwegian Academy of Technological Sciences
+Q1353248,New Mexico State University
+Q546976,University of Surrey
+Q16893464,King Edward VII Science and Sport College
+Q1326711,Rothamsted Research
+Q7984608,West Buckland School
+Q1534879,Golden Gate University
+Q7055607,North High School
+Q4917566,Bishop Gore
+Q1191202,University of North Carolina
+Q1546191,Western Michigan University
+Q1026919,"California State University, Fresno"
+Q7305700,Redeemer's University
+Q5512517,G. V. Kurdyumov Institute for Metal Physics of the National Academy of Sciences of Ukraine
+Q1989628,Oles Honchar Dnipro National University
+Q7894366,Ceará State University
+Q6497526,Latymer Upper School
+Q770544,Creighton University
+Q6826781,Mfantsipim School
+Q101012397,Aristotle University of Thessaloniki Faculty of Sciences
+Q633561,University of Zaragoza
+Q2075365,University of Puerto Rico
+Q7590125,St Mary's Catholic Academy
+Q1465651,St Hilda's College
+Q101013056,Pohang University of Science and Technology Department of Chemistry
+Q5099853,China Pharmaceutical University
+Q780745,Worcester College
+Q4853179,National Institute for Materials Science
+Q476208,IBM Thomas J. Watson Research Center
+Q519826,Lawrence Livermore National Laboratory
+Q247556,American Chemical Society
+Q5025874,Camelback High School
+Q901677,Romanian Academy
+Q18355971,"School of Chemistry, University of Manchester"
+Q895401,Bowdoin College
+Q2303536,Virginia Commonwealth University
+Q56259221,Pinsk Realschule
+Q115251388,
+Q28024487,Imperial Kharkov University
+Q106947038,Faculty of Physics and Mathematics of the Imperial Kharkov University
+Q76466916,Imperial Novorossiia University
+Q7689864,Taylor Allderdice High School
+Q2649559,University of Frankfurt an der Oder
+Q670995,Collegium medicum
+Q7728557,The Cyprus Institute
+Q5590060,Gowerton School
+Q1095773,Clark University
+Q2344683,Stephen F. Austin State University
+Q4861418,Barnard Castle School
+Q9296597,Bolesław I the Brave High School in Piotrków Trybunalski
+Q471980,Lycée Saint-Louis
+Q2302280,Texas Christian University
+Q945876,Grenoble Alpes University
+Q1659467,Technische Hochschule Leuna-Merseburg
+Q458778,Preussag
+Q1821579,Leuna works
+Q11472286,
+Q895560,Parteihochschule Karl Marx
+Q1202031,Academy of political science and jurisprudence
+Q49750,Socialist Unity Party of Germany
+Q76845,Free German Youth
+Q884081,Deutscher Turn- und Sportbund
+Q1711420,Jugendtourist
+Q4569677,Columbia College
+Q1346135,University of Akron
+Q14437811,Simmons University
+Q927091,Czechoslovak Academy of Sciences
+Q7896293,University of Shanghai
+Q519556,National Southwestern Associated University
+Q530471,Chinese Academy of Sciences
+Q835185,Fudan University Shanghai Medical College
+Q1108197,Wuhan University
+Q1153539,Xiamen University
+Q1363559,Northeastern University
+Q1552757,Guangxi University
+Q16078295,"Institute of Chemistry, Academia Sinica"
+Q55694841,
+Q5210926,Dalian Institute of Chemical Physics
+Q15953222,Hengyang Normal University
+Q835366,South China University of Technology
+Q7170807,Perth Academy
+Q954035,University of Bradford
+Q7592174,St. Xavier's College
+Q1682329,Tuskegee University
+Q152057,BP
+Q3875191,New Brunswick Laboratory
+Q849950,Scottish Church College
+Q15437219,Dupchanchia Government Pilot Model High School
+Q5087708,Chatham University
+Q6475773,Lake Erie College
+Q6485360,Lane College
+Q30693272,University of West Tennessee College of Medicine and Surgery
+Q671642,University of Malawi
+Q7733638,The Feinstein Institute for Medical Research
+Q6721799,MacDiarmid Institute for Advanced Materials and Nanotechnology
+Q4217712,Bergen Cathedral School
+Q2737843,Brooklyn Technical High School
+Q678765,Eawag
+Q7996547,Whitley Academy
+Q2005647,University of Allahabad
+Q1036470,Kwansei Gakuin University
+Q1540619,Space Telescope Science Institute
+Q492318,University of Alabama
+Q4894781,Berry College
+Q911561,Hannover Medical School
+Q1667439,Max Planck Institute for Infection Biology
+Q77084747,Max Planck Unit for the Science of Pathogens
+Q7986651,West Texas A&M University
+Q1783148,University of Alabama in Huntsville
+Q618696,Marshall Space Flight Center
+Q5639734,University of Cervera
+Q703620,Copenhagen Business School
+Q858662,Indian Institute of Technology Madras
+Q74343,Duquesne University
+Q7592804,St Christopher School
+Q2749572,Manhattan University
+Q18421861,Faculty of Biotechnology and Food Sciences of Lodz University of Technology
+Q3106542,La Salle University
+Q17681492,University of Maryland School of Medicine
+Q12376194,Tallinn Secondary School of Science
+Q7280027,Radcliffe Infirmary
+Q498401,University of Stavanger
+Q2393647,Lamar University
+Q7895287,University of Colorado School of Medicine
+Q10814056,University of Wisconsin System
+Q41335723,Glasgow Academy
+Q19286191,Institut du Radium
+Q1393497,Unocal Corporation
+Q7896095,University of Pennsylvania School of Engineering and Applied Science
+Q3205188,Ontario Agricultural College
+Q2031051,Perm State National Research University
+Q1541161,Lingnan University
+Q4201853,Institute of Experimental Medicine
+Q1916610,Medical University of Lublin
+Q7322281,Ribe Katedralskole
+Q7926646,"Victoria College, British Columbia"
+Q1305521,University of South Dakota
+Q545334,Athénée de Luxembourg
+Q3307837,William Jewell College
+Q693380,Old University of Leuven
+Q3428253,U.S. Air Force Test Pilot School
+Q6799905,McAllen High School
+Q7895505,University of Houston–Clear Lake
+Q4201817,Institute of Chemical Biology and Fundamental Medicine
+Q4325471,Novosibirsk Institute of Organic Chemistry
+Q4398500,Rostov State University
+Q4497733,
+Q30263031,National Institute of Solar Energy
+Q7291901,Randolph–Macon College
+Q1633799,Baku State University
+Q129207,Azerbaijan National Academy of Sciences
+Q4201631,Institute of Petrochemical Processes of Azerbaijan
+Q2177111,Russian National Research Medical University
+Q4504035,
+Q4315124,National University of Life and Environmental Sciences of Ukraine
+Q4201634,N.S. Kurnakova Institute of General and Inorganic Chemistry
+Q2067315,University of Cagliari
+Q38178366,Imperial Academy of Medical Surgery
+Q1366589,Dubna State University
+Q1367256,Moscow Institute of Physics and Technology
+Q1778321,Moscow Pedagogical State University
+Q4314488,
+Q4318657,Nizhny Novgorod Cadet Corps
+Q2495829,Saint Petersburg Mining University
+Q4407708,Vladimir Ulyanov (Lenin) LETI Saint Petersburg State Electrotechnical University
+Q141883315,
+Q1257946,Tallinn University
+Q1141980,Tama Art University
+Q13054964,Vanadzor State University
+Q4407669,Saint Petersburg Medical Academy of Postgraduate Education
+Q4496332,Kharkiv National Agrarian University named after V.V. Dokuchayev
+Q1458695,National University of Kharkiv
+Q4201442,Palladin Institute of Biochemistry
+Q11275855,Kents Hill School
+Q41790,Chung-Ang University
+Q99285442,Sungkyunkwan University - Natural Sciences Campus
+Q5604095,Greenhead College
+Q9289166,ISIS Neutron and Muon Source
+Q200601,Pontifical Catholic University of Peru
+Q7896217,URochester Medicine
+Q7270302,"Queen Elizabeth's School, Barnet"
+Q1244726,Wolfson College
+Q15576,University of South Australia
+Q558922,Illinois State University
+Q1571997,Pearson College UWC
+Q6052876,International School Ibadan
+Q1797817,Hampton University
+Q682739,Johannes Kepler University Linz
+Q1551183,Chernivtsi University
+Q1305486,University of Costa Rica
+Q45612,University of Limpopo
+Q604444,University of Pretoria
+Q677993,University of South Africa
+Q5429065,University of the Witwatersrand Faculty of Science
+Q6588080,Mangosuthu University of Technology
+Q7565733,South African Medical Research Council
+Q2093477,Simón Bolívar University
+Q1034468,Cape Peninsula University of Technology
+Q12017944,Institute of Physiology of the Czech Academy of Sciences
+Q29716,Universidad Autónoma Nuevo León
+Q86020246,University of Oxford University College Oxford
+Q2487309,Mansfield College
+Q132478,Oxford Brookes University
+Q1143289,Yale Law School
+Q8047384,Yale Graduate School of Arts and Sciences
+Q1076890,Pacific Northwest National Laboratory
+Q1814503,University of Girona
+Q24543,Pompeu Fabra University
+Q1235594,University of Lleida
+Q903092,University of Debrecen
+Q6837620,Michigan Molecular Institute
+Q7370121,Roswell Park Comprehensive Cancer Center
+Q2302586,Aix-Marseille University
+Q6520936,Leloir Institute
+Q5059081,Centenary Institute
+Q261506,Makerere University
+Q1414861,University of Exeter
+Q5088072,Chaudhary Charan Singh University
+Q1074112,Ehime University
+Q1640726,National Technical University of Athens
+Q1061122,University of Massachusetts
+Q14956773,Jefferson Health
+Q6122616,Medical College of Jagiellonian University
+Q6020738,Indian Institute of Toxicology Research
+Q1895354,Memorial University of Newfoundland
+Q142617,Tata Institute of Fundamental Research
+Q7278129,"RWTH Aachen Faculty of Mathematics, Computer science, and Natural sciences"
+Q101259153,Freie Universität Berlin Fachbereich Biologie Chemie Pharmazie
+Q1169487,University of Ibadan
+Q3509289,University of Calabar
+Q1998811,North-West University
+Q100943837,North-West University - Mafikeng Campus
+Q47462137,National University of Singapore Faculty of Engineering
+Q7971155,Warwick Manufacturing Group
+Q30283558,Sharp Laboratories of Europe (United Kingdom)
+Q45136823,Samuel Ginn College of Engineering
+Q300980,Aalto University
+Q212646,Hoffmann-La Roche
+Q861904,Bilkent University
+Q120111113,AL Sa'adia Secondary Boys' School
+Q344405,İzmir Institute of Technology
+Q510029,Birzeit University
+Q3276104,Madurai Kamaraj University
+Q6866650,"Ministry of Business, Innovation and Employment"
+Q4500472,Houghton University
+Q5904489,Hornsby Girls' High School
+Q919256,Université du Québec à Trois-Rivières
+Q1401524,University of Santo Tomas
+Q497259,Kangwon National University
+Q720958,University of Sri Jayewardenepura
+Q6040330,National Institute of Fundamental Studies
+Q7285789,Rajarata University of Sri Lanka
+Q10302635,Polytechnic Institute of Bragança
+Q3443493,Shaw University
+Q6413125,Kingsborough Community College
+Q11396095,Institute for Molecular Science
+Q2378813,Kharkiv National Medical University
+Q4470466,Ukrainian Academy of Printing
+Q61374734,
+Q113562126,
+Q16256127,Callaghan Innovation
+Q661056,University of Poitiers
+Q1583390,Félix Houphouët Boigny University
+Q4139211,Main Pedagogical Institute
+Q1977696,Richelieu Lyceum
+Q1976962,Nelson College
+Q181892,Cavendish Laboratory
+Q1572352,Technologisches Gewerbemuseum
+Q2400151,Teerfarbenwerk Oehler
+Q43250,Gestapo
+Q314466,University of Helmstedt
+Q36188,University of Fribourg
+Q1036417,Carl-Bosch-Gymnasium
+Q1991332,Nikolaus Lenau High School
+Q836125,Max Planck Institute for Biophysical Chemistry
+Q6019423,Max Planck Institute
+Q510478,Degesch
+Q57699054,École supérieure de pharmacie de Paris
+Q5149722,Columbia High School
+Q54173,General Electric
+Q3268638,Lycée Pierre-Corneille
+Q28667128,Imperial University of Warsaw
+Q30909168,Warsaw 5th Gymnasium
+Q113788,Kazan Federal University
+Q4303988,Guerrier Courses
+Q135061667,
+Q4426262,Commission for the Study of the Natural Productive Forces
+Q7263638,Vernadsky Institute of Geochemistry and Analytical Chemistry
+Q30266846,A. P. Vinogradov Institute of Geochemistry
+Q4119316,Hobart and William Smith Colleges
+Q1320232,University of Detroit Mercy
+Q5061175,Central High School (Detroit)
+Q1075116,Colby College
+Q6901065,Monmouth College
+Q5531879,General Electric Research Laboratory
+Q30273429,Centre for Ecological Research
+Q49118,Boston College
+Q4897900,Bethel High School
+Q6747552,Manchester University
+Q17220103,Tokyo Metropolitan University
+Q1294736,Hôtel-Dieu de Paris
+Q4865820,Bartłomiej Nowodworski High School
+Q1604022,Beijing Normal University
+Q12241650,Emory University School of Medicine
+Q20062961,"National Institute of Biological Sciences, Beijing"
+Q855639,Dow Chemical Company
+Q4943906,Bootham School
+Q1101188,"Agency for Science, Technology and Research"
+Q115376,West Virginia University
+Q3953372,High School of Agriculture of Portici
+Q107029864,
+Q943498,Universities in Leuven
+Q3530191,Atomic Energy Commission of India
+Q1049405,Tekijuku
+Q3578021,Imperial College of Engineering
+Q11613519,
+Q1141991,Japan Patent Office
+Q3315480,Ministry of Agriculture and Commerce
+Q7040930,Nissan Chemical
+Q11354461,"Sankyo Co., Ltd"
+Q7585674,Sree Rama Varma Higher Secondary School
+Q7589140,"St Joseph's College, Tiruchirappalli"
+Q426045,University of Malta
+Q2898298,National Museum of Archaeology
+Q5109060,Christchurch Boys' High School
+Q673111,Arkansas Tech University
+Q37230,Central Intelligence Agency
+Q495911,Soochow University
+Q1760244,Yenching University
+Q7688520,Tatung University
+Q2031560,Tianjin University
+Q3551422,Southwest Jiaotong University
+Q3953805,Nanjing University of Science and Technology
+Q649895,Zhengzhou University
+Q461033,Guizhou University
+Q30259634,Institute of Earth Environment
+Q7683742,Tanox
+Q707573,National Chung Hsing University
+Q10873098,
+Q10872936,PLA Academy of Military Medical Sciences
+Q9384255,Shanghai Institutes for Biological Sciences
+Q1432030,Jilin University
+Q9384254,Shanghai Institute of Organic Chemistry
+Q137503,University of Łódź
+Q3578303,Rzeszów University of Technology
+Q3551770,Southeast University
+Q685664,Fu Jen Catholic University
+Q1074097,China University of Geosciences
+Q7161060,Peking University Health Science Center
+Q1678753,Poznań University of Technology
+Q5312721,Duke–NUS Medical School
+Q1977379,Armenian State Pedagogical University
+Q7895776,University of Michigan School for Environment and Sustainability
+Q1024543,CUNY Graduate School and University Center
+Q5020704,California NanoSystems Institute
+Q188370,Marquette University
+Q37548,Northeastern University
+Q101002486,University of Tehran College of Engineering
+Q81090,Hertford College
+Q624090,University of Southern Mississippi
+Q4879627,Beechen Cliff School
+Q17134414,New England Biolabs
+Q6672299,Long Beach High School
+Q46201076,Columbia University College of Pharmaceutical Sciences
+Q4120330,Barts and The London School of Medicine and Dentistry
+Q610999,Dragon School
+Q326079,Cancer Research UK
+Q1016927,Burroughs Wellcome & Company
+Q16351413,Polytechnikum Riga
+Q7637318,Summer Fields School
+Q6859976,Mills High School
+Q18409139,College of San Mateo
+Q1520129,Gettysburg College
+Q3519875,National Institute of Allergy and Infectious Diseases
+Q2963665,Chimie ParisTech
+Q1059546,Lycée Louis-le-Grand
+Q2565941,Royal Military College of Canada
+Q7989327,Westmount High School
+Q1194988,Paris 8 University
+Q1229924,University of Ioannina
+Q1248816,National Hellenic Research Foundation
+Q1261815,First Belgrade Gymnasium
+Q1282917,University of Belgrade Faculty of Philosophy
+Q7669956,TED Ankara College Foundation Schools
+Q7338137,Riverdale Country School
+Q98539441,Faculté des sciences de Rennes
+Q461761,Canadian Broadcasting Corporation
+Q776223,University of Montpellier
+Q3578227,École nationale supérieure de géologie
+Q4674292,Ackworth School
+Q161795,Loretto School
+Q314578,Helmholtz-Zentrum Berlin
+Q14688717,North Central High School
+Q5034252,Canyon del Oro High School
+Q1472663,University of Alabama at Birmingham
+Q7570400,Southern Research
+Q277681,Semmelweis University
+Q5304514,Dr Challoner's Grammar School
+Q30273809,Cancer Research UK Manchester Institute
+Q19962204,DWI – Leibniz Institute for Interactive Materials
+Q9340531,Społeczna Akademia Nauk
+Q11713030,"Institute of Physics, Polish Academy of Sciences"
+Q4201814,Institute of Solid State Chemistry and Mechanochemistry
+Q101013874,Novosibirsk State University Department of Solid State Chemistry
+Q835440,University of Konstanz
+Q429863,Florida Atlantic University
+Q7435779,Scots College
+Q17513775,Department of Scientific and Industrial Research
+Q1811567,Southwestern Oklahoma State University
+Q3176886,University of the Philippines Diliman
+Q2496210,Beijing University of Chemical Technology
+Q3152453,National Polytechnic Institute of Toulouse
+Q262663,University of San Diego
+Q3578248,National High School of Chemical and Technological Engineers (Toulouse)
+Q7442057,Center for Global Infectious Disease Research
+Q7442071,Seattle Children's Research Institute
+Q1444125,National University of Malaysia
+Q4118498,Taiz University
+Q1470769,University of Agder
+Q1164229,University of St. Thomas
+Q45135753,Penn State College of Medicine
+Q1115878,University of Richmond
+Q7170970,Peru High School
+Q3146518,IBM Research
+Q5044767,Carolina Academy
+Q1329269,The Wharton School
+Q2333445,"Ryazan State Medical University, Another Name:King Dr.Md.Enamul Hasan University"
+Q11755767,St. Augustine's High School
+Q6867218,Ministry of Infrastructure of Poland
+Q3064259,Paris Law Faculty
+Q1147614,Ferme générale
+Q273523,École Nationale des Ponts et Chaussées
+Q2706726,Harris Manchester College
+Q589636,Ss. Cyril and Methodius University of Skopje
+Q14701409,Faculty of Veterinary Medicine Zagreb
+Q5509771,Furtherwick Park School
+Q11595490,Akita Prefectural Akita Central Senior High School
+Q669441,Daiichi Sankyo
+Q684783,Kanazawa University
+Q11354517,Sankyo
+Q5140489,Coe College
+Q1052614,Utah State University
+Q6978818,National Tainan First Senior High School
+Q63246380,Tainan Municipal Liren Elementary School
+Q672416,Scuola Normale Superiore
+Q902464,Consiglio Nazionale delle Ricerche
+Q5373734,Emory & Henry University
+Q224802,Moscow Power Engineering Institute
+Q4201596,Baikov Institute of Metallurgy and Materials Science
+Q4398063,Russian State Geological Prospecting University
+Q4201601,Winogradsky Institute of Microbiology RAS
+Q1097810,Moldova State University
+Q4483622,"Faculty of Physics, State University of Saint Petersbourg"
+Q4201454,Institute of Macromolecular Compounds
+Q2151478,Orenburg State University
+Q4287841,
+Q4323007,Institute of Agriculture and Forestry
+Q2367144,MSU Faculty of Physics
+Q4315005,National University of Science and Technology
+Q3444679,Bucknell University
+Q4828622,Aviation Cadet Training Program
+Q1506552,Ural Federal University
+Q3135719,Ural State Mining University
+Q2629059,Slavic Greek Latin Academy
+Q1303887,Imperial Porcelain Factory
+Q1967405,National Institute of Mental Health
+Q2004114,Plekhanov Russian Economic University
+Q7138111,Park Tudor School
+Q7502221,Shortridge High School
+Q709066,Arthur D. Little
+Q1187444,University of Pécs
+Q2082826,Yerevan State Medical University
+Q1552981,Gubkin University
+Q4135692,Geological Faculty of St. Petersburg State University
+Q1965825,MSU Faculty of Geography
+Q1166885,Omsk State Pedagogical University
+Q4483542,Specialized Educational Scientific Center of NSU
+Q126075,Isaac Newton Institute
+Q492766,N. I. Lobachevsky State University of Nizhny Novgorod
+Q857975,Clay Mathematics Institute
+Q946028,"Courant Institute School of Mathematics, Computing, and Data Science"
+Q1156553,Institut des Hautes Études Scientifiques
+Q1466666,Tomsk Polytechnic University
+Q1664127,Omsk State University
+Q3032414,Siberian Branch of the Russian Academy of Sciences
+Q4201456,Institute of Computational Modeling
+Q4201751,Institute of Theoretical and Applied Mechanics
+Q4239227,Krasnoyarsk Summer School
+Q4239246,Krasnoyarsk State Technical University
+Q4239251,Krasnoyarsk State University
+Q4334723,Omsk State Transport University
+Q28064984,Medical faculty of Moscow University
+Q4406402,Samara State Technical University
+Q1338761,Academy of Sciences of Moldova
+Q952960,National Polytechnic University of Armenia
+Q30263196,Institute of Synthetic Polymeric Materials
+Q2065921,Southern Federal University
+Q11699840,Gymnasium in Warsaw
+Q4086897,MSU Faculty of Biology
+Q1962613,I.M. Sechenov First Moscow State Medical University
+Q4287769,Medical Radiological Research Center
+Q1613719,Maria Curie-Skłodowska University
+Q11713242,Institute of Soil Science and Plant Cultivation
+Q1477512,Russian University of Transport
+Q58039437,Imperial Moscow Technical School
+Q4304096,Moscow State University of Environmental Engineering
+Q3152467,All-Russian Scientific Research Institute of Experimental Physics
+Q5429018,"Faculty of Biology, Medicine and Health"
+Q5332879,Eckerd College
+Q700245,Max Planck Institute for Chemical Ecology
+Q7511074,Siena Heights University
+Q117075329,Institutum Divi Thomae
+Q1476341,University of Chemistry and Technology
+Q11087613,Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences
+Q12048294,"Faculty of Science, Charles University"
+Q700731,Medical University of Vienna
+Q1721667,Max Planck Institute for Molecular Genetics
+Q5761421,National Center for Oncological Research
+Q6484421,Lander University
+Q101017342,Clemson University College of Engineering and Sciences
+Q6971398,National Centre for Atmospheric Science
+Q1180978,Deakin University
+Q100992044,Deakin University - Melbourne Burwood Campus
+Q666916,Vigo University
+Q5995880,Ikerbasque
+Q30284795,CIC biomaGUNE
+Q19465322,University of Cincinnati College of Medicine
+Q1423756,Texas Tech University
+Q1848657,University of Tulsa
+Q1778355,Slovak University of Technology in Bratislava
+Q317361,Max Planck Institute of Molecular Cell Biology and Genetics
+Q85985187,University College London Cancer Institute
+Q7082301,Oklahoma School of Science and Mathematics
+Q7971391,Waseda University Junior and Senior High School
+Q164740,Fujifilm Corporation
+Q7813375,Toin University of Yokohama
+Q17229286,Research Center for Advanced Science and Technology
+Q12036042,"Faculty of Mathematics and Physics, Charles University"
+Q1202897,Dublin City University
+Q3803623,Istituto Italiano di Tecnologia
+Q975461,Lebanese University
+Q1026926,"California State University, Long Beach"
+Q5944289,Hunter College High School
+Q7058245,Northern Collegiate Institute and Vocational School
+Q4869016,Bathgate Academy
+Q1290544,Helmholtz Centre Hereon
+Q4897974,Bethesda-Chevy Chase High School
+Q1379613,Marshall University
+Q5294218,Donald Danforth Plant Science Center
+Q375791,Standard Oil
+Q14714519,Lourdes High School
+Q65944809,Hurunui College
+Q30283557,Agave BioSystems (United States)
+Q6040094,"Institute of Chemistry, Slovak Academy of Sciences"
+Q7864145,"University of California, Berkeley College of Chemistry"
+Q257655,China Agricultural University
+Q604470,Shandong University
+Q4982877,Buck Institute for Research on Aging
+Q30294630,Department of Embryology
+Q86019796,Durham University Department of Chemistry
+Q876629,Max Planck Institute for Polymer Research
+Q1273188,Toulouse III - Paul Sabatier University
+Q2749558,Universidade Federal do Ceará
+Q7894376,Federal University of Pelotas
+Q1026941,"California State University, Sacramento"
+Q217439,University of Hawaiʻi System
+Q192539,University of Zulia
+Q3152786,Venezuelan Institute for Scientific Research
+Q4119659,Boston University School of Medicine
+Q7063568,Notting Hill and Ealing High School
+Q887543,Board of Trade
+Q1613236,Rhode Island College
+Q1972050,University of Johannesburg
+Q17110806,Riara University
+Q1229996,University of Seville
+Q1951942,Muhlenberg College
+Q247489,Merck & Co.
+Q815352,California State University
+Q7766655,The Stony Brook School
+Q20266894,University of Berlin
+Q44294,Ford Motor Company
+Q702524,University of Erfurt
+Q994543,Eötvös József Gimnázium
+Q1069423,Kyoto Institute of Technology
+Q123885,Royal Society of London
+Q376471,Bogdan Petriceicu Hasdeu National College
+Q5684929,Hawken School
+Q2687782,University of Wisconsin–Stevens Point
+Q624985,Eastern Illinois University
+Q758659,Auckland University of Technology
+Q13647114,Marnix Gymnasium
+Q6411643,King George V College
+Q3524031,Madras Christian College
+Q6811784,Melbourne Grammar School
+Q1117048,Commonwealth Scientific and Industrial Research Organisation
+Q7982928,Wenona School
+Q28147636,National Trust of Australia (Victoria) listing
+Q3381488,Norwich School
+Q5261469,Derby School
+Q1122926,University of Lisbon
+Q6041322,Instituto Gulbenkian de Ciência
+Q2010561,University of Buckingham
+Q3760670,George Watson's College
+Q16361741,University of Latvia Faculty of Chemistry
+Q193412,Texas Instruments
+Q3349673,Office of Science and Technology Policy
+Q3480437,United States Foreign Service
+Q678965,University of Kaiserslautern
+Q111020102,University of Kaiserslautern-Landau
+Q842165,UCLA David Geffen School of Medicine
+Q500632,Marine Biological Laboratory
+Q5942027,Hunan Normal University
+Q7617570,Stirling High School
+Q52224760,"Instituto Isabel la Católica, Madrid"
+Q11839029,Stewart's Melville College
+Q6859396,Millersville University of Pennsylvania
+Q108418,Cook County
+Q2862799,Armour and Company
+Q7899237,Upsala College
+Q112513,SOLEIL
+Q311801,DESY
+Q2288739,Dutch Institute for Fundamental Energy Research
+Q7622023,Strathallan School
+Q7374735,Royal Postgraduate Medical School
+Q7598799,Stanford Synchrotron Radiation Lightsource
+Q5305629,Drake University
+Q7382396,Rust College
+Q181177,Cranfield University
+Q7397744,Saddleback College
+Q1065809,Florida International University
+Q7374710,Royal Perth Hospital
+Q7595606,"St Vincent's Hospital, Melbourne"
+Q22121875,Kraft Foods Inc.
+Q1147063,Jawaharlal Nehru University
+Q7754772,Ohio State University College of Medicine
+Q1424978,Silesian University of Technology
+Q1797448,Connecticut College
+Q6879096,Mississippi Christian University
+Q7570040,Southern Intercollegiate Athletic Association
+Q1318848,Intuit
+Q1607255,University of Veterinary Medicine Hannover
+Q649998,University of Nairobi
+Q372040,Gnessin Russian Academy of Music
+Q1077236,Princeton Plasma Physics Laboratory
+Q649868,Hunan University
+Q377757,Rhodes University
+Q220226,University of Namibia
+Q8030657,Woman's Medical College of Pennsylvania
+Q7007269,New England Hospital for Women and Children
+Q5255905,National University of Rosario
+Q50899983,Institute of Agrobiotechnology of the Litoral
+Q5103051,University of Port Harcourt
+Q19908085,Frumkin Institute of Physical Chemistry and Electrochemistry
+Q2911112,Hebrew Reali School
+Q5149662,Columbia College Chicago
+Q18563009,Mathematical-Mechanical Institute
+Q2324614,Luitpold Gymnasium
+Q2576235,Wilhelmsgymnasium
+Q812404,Bavarian Central Mint
+Q4475823,Stephen Báthory University
+Q13133789,Belarusian Gymnasium of Navahrudak
+Q11223,United States Air Force
+Q3917343,Belarusian Gymnasium of Vilnia
+Q14932155,Calico
+Q188771,French Academy of Sciences
+Q905534,Henri Étienne Sainte-Claire Deville
+Q593556,University of the Aegean
+Q1726892,Russell Sage College
+Q5508996,Fundação Getúlio Vargas
+Q210047,Petrobras
+Q516346,Royal Netherlands Meteorological Institute
+Q6986214,Nederland High School
+Q5120092,Cimarron Fuel Fabrication Site
+Q7074763,Oberlin High School
+Q4957316,Branford College
+Q7227302,Pomfret School
+Q214700,National Oceanic and Atmospheric Administration
+Q312,Apple Inc.
+Q2014020,State University of Leuven
+Q3551554,Tarleton State University
+Q5203187,D'Youville University
+Q2983728,collège d’Harcourt
+Q1055404,Royal garden of medical plants
+Q1340217,Encyclopédie Méthodique
+Q14714814,Natrona County High School
+Q895645,Sankt Georgen Graduate School of Philosophy and Theology
+Q16827357,Colegio Máximo de San José
+Q16911644,Inmaculada Concepción Seminary
+Q16935366,Facultades de Filosofía y Teología de San Miguel
+Q653483,Linacre College
+Q5302824,Down High School
+Q7987309,Westcott House
+Q2893526,Bedales School
+Q1074117,Renmin University of China
+Q273461,École Centrale de Lille
+Q1232180,University of Granada
+Q270734,Broken Hill
+Q7660171,Sydney Technical College
+Q1039400,Beijing University of Chinese Medicine
+Q8044301,Xiaoshi Middle School
+Q10132577,Ningbo High School
+Q4146907,Vavilov State Optical Institute JSC
+Q85449,Igor Sikorsky Kyiv Polytechnic Institute
+Q815268,Belarusian National Technical University
+Q2418908,Belarusian State University
+Q17043283,Institute of Chemistry of BSSR Academy of Sciences
+Q4146982,State University of Non-Ferrous Metals and Gold
+Q4101968,Advanced Research Institute of Inorganic Materials named after Academician A. A. Bochvar
+Q4497732,Institute of Chemistry of Saint Petersburg State University
+Q2637170,Academy of Sciences of Uzbekistan
+Q20082116,Medical department of Kyiv Emperor University of St. Vladimir
+Q1056886,First Pavlov State Medical University of St. Petersburg
+Q4862212,Baron Byng High School
+Q104381303,Belozersky Institute of Physico-Chemical Biology
+Q4201415,Institute of Protein Research
+Q1938341,Ural State Technical University
+Q1367937,Wolfram Research
+Q19909099,National Medical Research Center of Cardiology
+Q14875039,Institute for Biodiagnostics
+Q4304082,Moscow State University of Medicine and Dentistry
+Q12168137,Chemical faculty of the Taras Shevchenko National University of Kyiv
+Q4201438,Emanuel Institute of Biochemical Physics
+Q4397981,Russian Medical Postgraduate Academy
+Q4201812,Institute of Silicate Chemistry named after IV Grebenshchikov
+Q4201433,Institute of Biophysics SB RAS
+Q1639969,Suzhou High School
+Q2982993,College of Mount Saint Vincent
+Q5635112,"HM Factory, Gretna"
+Q8033568,Woodward High School
+Q3360728,Pakistan Ordnance Factories
+Q1238770,Addis Ababa University
+Q1734280,Karolinska University Hospital
+Q5547065,Georgetown University School of Medicine
+Q30281301,SFC Fluidics (United States)
+Q6818469,Merchiston Castle School
+Q951946,Lady Margaret Hall
+Q101005524,University of Newcastle Faculty of Health
+Q8047424,Yale School of the Environment
+Q7838189,Penryn Campus
+Q61774240,Hexima
+Q4947204,Bose Institute
+Q860527,University of North Texas
+Q407744,Air Products & Chemicals
+Q3133193,Rovira i Virgili University
+Q6399651,Khalifa University
+Q1343386,Shanghai University
+Q7082022,Okinawa Institute of Science and Technology
+Q30279667,Aerodyne Research
+Q10874020,Institute of Chemistry
+Q28416699,Westlake University
+Q6049130,International Centre of Insect Physiology and Ecology
+Q30280185,"Center for Medical, Agricultural and Veterinary Entomology"
+Q2929441,Technikon Witwatersrand
+Q574571,University of Regensburg
+Q7900207,Urbana High School
+Q7894801,University Laboratory High School
+Q1439786,J. Craig Venter Institute
+Q447953,University of Wuppertal
+Q321312,Cassella
+Q1809286,Lawrence University
+Q7975236,Wauwatosa East High School
+Q7060785,Norwalk High School
+Q7597395,Stamford High School
+Q5546041,George Washington University Medical School
+Q7458189,Seward Park High School
+Q1813791,Leibniz Society of Sciences
+Q5120231,Cincinnati Children's Hospital Medical Center
+Q696757,University of Duisburg-Essen
+Q2166335,University of Southern Denmark
+Q156959,Merck KGaA
+Q743615,University of Tsukuba
+Q5504101,Friends' Central School
+Q8004153,William Adams High School
+Q5950952,Hutt Valley High School
+Q38252213,Weir House
+Q1781394,University of Texas at Dallas
+Q4892294,Berkshire School
+Q7894927,University School of Nashville
+Q501416,Office of Scientific Research and Development
+Q3817847,ShanghaiTech University
+Q11456411,Toyama City Shimazono Junior High School
+Q11456506,Toyama Chubu High school
+Q517117,Shimadzu Corp.
+Q4877043,Beath High School
+Q194266,Ohio Wesleyan University
+Q452406,Kasetsart University
+Q626804,Mahidol University
+Q835662,Ulm University
+Q1209824,Silpakorn University
+Q13026935,Chitralada School
+Q1089393,Chulabhorn Research Institute
+Q25541103,Chulabhorn Royal Academy
+Q770596,L'Express
+Q3152060,Paris Institute of Earth Physics
+Q1912059,Max Planck Institute for Chemical Physics of Solids
+Q56584138,Helmholtz Institute for RNA-based Infection Research
+Q645285,National Institute of Neurological Disorders and Stroke
+Q5919633,Florey Institute of Neuroscience and Mental Health
+Q6817418,Mental Health Research Institute
+Q1144682,Beijing Foreign Studies University
+Q4570201,Ginling College
+Q740308,UNICEF
+Q3372325,Peking Union Medical College
+Q7895038,University of Alabama at Birmingham School of Medicine
+Q41559830,Mount Sinai Morningside
+Q136243167,University of Montpellier. Faculty of Sciences
+Q714891,National Central University
+Q5750869,Hibiya High School
+Q4125933,Yangzhou High School of Jiangsu Province
+Q1477368,Dalian University of Technology
+Q7809,UNESCO
+Q5953653,Hyde Park Academy High School
+Q104843306,Swanley Horticultural College
+Q133822,Komarov Botanical Institute
+Q30283520,Manhattan Scientifics Inc.
+Q267322,Wayne State University School of Medicine
+Q3831968,liceo scientifico
+Q30291146,National Composites Centre
+Q1075126,Freer Gallery of Art
+Q217810,United States Department of Energy
+Q7566444,South Brunswick High School
+Q1284039,National Institute of Environmental Health Sciences
+Q6956114,NYU Langone Health
+Q1312762,Swedish University of Agricultural Sciences
+Q7128323,Palmerston North Boys' High School
+Q7554874,New Zealand Soil Bureau
+Q6156725,Universidad Técnica del Estado
+Q5244134,DeVilbiss High School
+Q5306874,Dreher High School
+Q1192597,Kobe University
+Q263761,University of Copenhagen Niels Bohr Institute
+Q633529,Erasmus University Rotterdam
+Q56640901,Greifswald Botanic Garden and Arboretum
+Q101258317,Ernst-Moritz-Arndt Universität Greifswald Zoologisches Institut und Museum
+Q1603232,Hermann-von-Helmholtz-Gymnasium
+Q97520,Edmund Hartnack
+Q662864,Leibniz Institute for Astrophysics Potsdam
+Q696693,Voigtländer
+Q130299069,Höhere Gewerbeschule Kassel
+Q60176885,Technical University of Stuttgart
+Q1796045,Königlich Bayerische Artillerie- und Ingenieur-Schule
+Q1935177,Prussian Military Academy
+Q7894741,University High School
+Q4125838,Tianjin Nankai High School
+Q2845896,University of Paris
+Q568554,University of Caen Normandy
+Q730948,Jardin des plantes
+Q157062,Unilever
+Q170416,Koninklijke Philips NV
+Q902650,Koninklijke DSM
+Q1540121,Moscow Metallurgical Plant
+Q4114347,"Military Academy of Radiation, Chemical and Biological Defense and Engineer Forces"
+Q5569556,Glidden
+Q103447274,United States Coast Survey
+Q5517995,Galashiels Academy
+Q5046955,Mangyongdae Revolutionary School
+Q4327355,
+Q7974619,Watford Grammar School for Boys
+Q1955646,Musterschule
+Q7889453,United States Army Biological Warfare Laboratories
+Q7020331,Newton North High School
+Q751612,Bronx High School of Science
+Q229058,Indian Space Research Organisation
+Q16237778,The Judd School
+Q3275551,Annamalai University
+Q2661844,Islamic Azad University
+Q5061200,St. Paul Central High School
+Q721064,Nanyang Technological University
+Q1567050,Hacettepe University
+Q8192944,Hoshi University
+Q3633045,Central Drug Research Institute
+Q5092939,Cheshire Academy
+Q37819,Auckland Grammar School
+Q5102286,Chitose Institute of Science and Technology
+Q916367,National University of San Antonio Abad in Cusco
+Q968559,University of North Dakota
+Q5444268,Fergusson College
+Q5261507,Derby School
+Q7283638,Rahway High School
+Q4728786,All Hallows' School
+Q5921653,Howell's School
+Q1666729,Chung Chi College
+Q1887879,University of San Francisco
+Q1277776,East Carolina University
+Q5546988,Georgetown Day School
+Q1094742,University of Sunderland
+Q5677914,Harwood Union High School
+Q2302319,University of Toledo
+Q5559433,Gibsonburg High School
+Q61066842,
+Q7981419,Wellington Hospital
+Q5035685,Capital University
+Q2529518,University of Tripoli
+Q7730801,"The Downs, Malvern College Prep School"
+Q1829731,Institute for Systems Biology
+Q1210045,Dickinson College
+Q1330634,University of Brasília
+Q6659650,Livingston High School
+Q2831920,Albion College
+Q921264,University of Texas Medical Branch
+Q3578217,École nationale supérieure de chimie de Clermont-Ferrand
+Q6872198,Mira Costa High School
+Q6709807,Lyons Township High School
+Q20723834,Société Lumière
+Q7110141,Ouachita Baptist University
+Q4667847,Abingdon School
+Q4201796,L.V. Pisarzhevskii Institute of Physical Chemistry
+Q4407737,Bekhterev Research Institute
+Q58388110,
+Q1474624,Yerevan State University
+Q5046531,Carroll College
+Q6475861,Lake Forest College
+Q3249136,North London Collegiate School
+Q563556,Schering AG
+Q7680006,Talladega College
+Q7575916,Spelman College
+Q7961485,Walden University
+Q11979088,Johnson C. Smith University
+Q5403378,Ethical Culture Fieldston School
+Q4879170,Bedford Modern School
+Q651690,Polish Academy of Sciences
+Q6991552,"Nencki Institute of Experimental Biology, Polish Academy of Sciences"
+Q5171517,Cornell College
+Q255876,Max Planck Institute for Biophysics
+Q934589,National Center for Atmospheric Research
+Q6784222,Massachusetts College of Pharmacy and Health Sciences
+Q697974,Taipei Municipal Chien Kuo High School
+Q6404081,Kibuli Secondary School
+Q5918253,Instituto de Investigaciones Biomédicas Alberto Sols
+Q2303432,University of Oviedo
+Q1000479,Boston Children's Hospital
+Q835529,Max Planck Institute for Solid State Research
+Q610253,University of Jordan
+Q4120361,Temple University School of Medicine
+Q7261701,Busan Foreign Language High School
+Q16096209,Korea Soongsil Cyber University
+Q308329,Université Abdou Moumouni
+Q7063652,Nottingham High School
+Q2600910,National Fund for Scientific Research
+Q3151915,University of Liège Institute of Astrophysics and Geophysics
+Q1596449,Leibnitz-Institute of Virology
+Q30295957,Wihuri Research Institute
+Q666941,Research Institute of Molecular Pathology
+Q4743104,American Association of University Professors
+Q3269062,Lycee Francais Charles de Gaulle
+Q148554,National Museum of Natural History
+Q6837527,Michigan Department of Health and Human Services
+Q931865,Clarkson University
+Q7272138,Quincy High School
+Q15143,University of Massachusetts Lowell
+Q494389,Polaroid Corporation
+Q2140778,Rochester Institute of Technology
+Q30268745,AC Immune
+Q4733529,Alma College
+Q6904332,Montana State University Billings
+Q6773617,Marshall High School
+Q4655072,AVX Corporation
+Q45820,Rutherford Appleton Laboratory
+Q1095537,Clarendon Laboratory
+Q1669366,Science and Technology Facilities Council
+Q7896093,University of Pennsylvania School of Dental Medicine
+Q1097479,University of Mauritius
+Q2621070,Kirov Plant
+Q4173178,Society of Jewish History and Ethnography
+Q5636352,Ha-Melitz
+Q7942009,Voskhod
+Q49572348,Evreysky Mir
+Q60852181,Evreyskaya Starina
+Q4947956,Boston Latin Academy
+Q6203214,Jissen Women's University
+Q5445986,Fettes College
+Q4331401,Odesa State Academy of Civil Engineering and Architecture
+Q13416713,Odesa Regional Institute of Public Administration
+Q5051216,Catalan Institution for Research and Advanced Studies
+Q5855042,Facultad de Medicina (Universidad Autónoma de Madrid)
+Q11913498,Centre for Genomic Regulation
+Q8023525,Wimbledon High School
+Q7587802,St Edward's College
+Q5568364,Glendale High School (California)
+Q5734479,Herbert Hoover High School
+Q651778,Douglas
+Q899183,FMC Corporation
+Q1138291,Curtiss-Wright
+Q1666759,International Mobile Satellite Organization
+Q6772485,Marquardt Corporation
+Q7887331,United Aircraft
+Q612665,Vrije Universiteit Brussel
+Q3391652,Brussels Planetarium
+Q407448,Air Liquide
+Q590539,Clonaid
+Q500740,Lille University of Science and Technology
+Q3152321,Institut industriel du Nord
+Q593321,University of Genoa
+Q1245318,University of Messina
+Q172025,Chile men's national football team
+Q2878539,La Nación
+Q575662,Naval War College
+Q974394,École Navale
+Q3151724,Institut Charles Sadron
+Q3268957,Lycée Thiers
+Q3152403,National Institute of Scientific Research
+Q3146770,Armand-Frappier Santé Biotechnologie Research Centre
+Q7934591,Virginia State University
+Q1569421,University of the Andes
+Q48989,ZDF
+Q1136874,St. Cloud State University
+Q1357517,University of Oulu
+Q578326,University of Jyväskylä
+Q2698482,Calvin University
+Q30279912,Duke University Medical Center
+Q1285262,University of Alaska Fairbanks
+Q273454,École Centrale de Marseille
+Q158205,Sanofi
+Q185334,Rhône-Poulenc
+Q6382470,Keck Graduate Institute
+Q12406895,Rehovot Campus of the Hebrew University
+Q5203573,D. E. Shaw Research
+Q4883112,Bell Baxter High School
+Q7595546,St Thomas's Hospital Medical School
+Q45131814,SmithKline Beecham Pharma
+Q676637,Truro School
+Q772421,"St George's, University of London"
+Q7374421,The Royal London Hospital
+Q86019564,Cardiff University Cardiff School of Chemistry
+Q101010460,University of Bristol School of Chemistry
+Q1515763,St. Olaf College
+Q7382780,Rutgers University–Newark
+Q337382,Acadia University
+Q2212977,Saint Mary's University
+Q7566644,South Carolina State University
+Q490163,Korea Institute of Science and Technology
+Q1236136,University of Bari
+Q254204,Nankai University
+Q7163263,Penn State Milton S. Hershey Medical Center
+Q4712830,Albuquerque Public Schools
+Q110645705,A1A Car Wash
+Q6905010,Montebello High School
+Q6537210,Lewis and Clark High School
+Q16974668,New Jersey Agricultural Experiment Station
+Q2331605,Hadassah Medical Center
+Q4897749,Bethany High School
+Q83855380,Instituto San Isidoro
+Q654907,Bristol Aeroplane Company
+Q7295293,Rastrick High School
+Q14689086,Iowa Wesleyan University
+Q48815838,Axiom Space
+Q6705529,Luther College
+Q5142861,National School of Buenos Aires
+Q7415110,San Pedro High School
+Q7896498,University of Toronto Schools
+Q145,United Kingdom
+Q56837,National Research Nuclear University
+Q117318997,Frumkin Institute of Electrochemistry (1958—2005)
+Q777039,Guy's Hospital
+Q392904,Polytechnic University of Milan
+Q392897,Polytechnic University of Turin
+Q644789,Catholic University of Leuven (1834–1968)
+Q13924486,"Our Lady College, Antwerp"
+Q6243649,John L. Miller Great Neck North High School
+Q8004049,William A. Shine Great Neck South High School
+Q3217284,hogereburgerschool
+Q1179914,De Groene Amsterdammer
+Q31204378,Technische Hoogeschool te Bandoeng
+Q449325,German Cancer Research Center
+Q11755749,Liceum Ogólnokształcące im. Michała Kosmowskiego w Trzemesznie
+Q60286109,Wyggeston Grammar School for Boys
+Q632558,Harbin Institute of Technology
+Q180855,Heineken International
+Q4201858,Nesmeyanov Institute of Organoelement Compounds
+Q212405,Procter & Gamble
+Q21693133,"Queen's School, Ibadan"
+Q7335148,Rio Americano High School
+Q927304,University of Nigeria
+Q1412551,University of Jos
+Q5061190,Central High School
+Q7572993,Spalding University
+Q581954,University of Zimbabwe
+Q6923419,St. Mary's College Namagunga
+Q4062566,Allegheny College
+Q941806,Universidad de Castilla-La Mancha
+Q20514915,Yerevan Veterinary-Cattle-breeding Institute
+Q49109,Bard College
+Q3298369,Carthage College
+Q1813751,Leibniz Institute for Natural Product Research and Infection Biology
+Q867662,Esso
+Q880447,Black Mountain College
+Q1683585,Ohio Northern University
+Q7417012,Sandusky High School
+Q55628344,Paddington Green Children's Hospital
+Q5250023,Deen Dayal Upadhyay Gorakhpur University
+Q567899,Panjab University
+Q1057591,Health Canada
+Q2945735,Children's Hospital of Eastern Ontario
+Q7801283,Tiffin School
+Q9531,BBC
+Q7566983,South Dakota School of Mines and Technology
+Q5547057,Georgetown University Medical Center
+Q3297997,State University of New York Upstate Medical University
+Q6487197,Lankenau Institute for Medical Research
+Q28401269,Masonic Medical Research Laboratory
+Q30254105,Upstate University Hospital
+Q1758009,University of Gdańsk
+Q9379625,"Faculty of Oceanography and Geography, University of Gdańsk"
+Q902688,Montpellier 2 University
+Q30255680,Délégation Languedoc Roussillon
+Q30299281,Délégation Ile-de-France Gif-sur-Yvette (DR4)
+Q5543885,George Riebau
+Q7568443,South Shore High School
+Q5971319,III Gymnasium Osijek
+Q12630913,Faculty of Pharmacy and Biochemistry
+Q4968616,Brisbane State High School
+Q46162166,Darwin High School
+Q6784300,Massachusetts Institute of Technology School of Science
+Q63252801,Polytechnikum Karlsruhe
+Q57611987,
+Q686522,University of Music and Performing Arts Vienna
+Q876520,"University of Natural Resources and Life Sciences, Vienna"
+Q663596,Gilead Sciences
+Q106411715,Kronos Bio (United Kingdom)
+Q686772,Medical University of Innsbruck
+Q5900712,Hopkins School
+Q99955354,University of Erlangen
+Q903085,Reformed College of Debrecen
+Q1276151,"School of Medicine, University of Zagreb"
+Q609301,University of Split
+Q30274177,Mediterranean Institute for Life Sciences
+Q5494137,Fraţii Buzeşti National College
+Q768224,University of Valladolid
+Q5654701,Harbord Collegiate Institute
+Q127773,University Medical Center Freiburg
+Q2983884,Gheorghe Lazăr National College
+Q2003976,Technical University of Valencia
+Q30263837,Institute of Chemical Technology
+Q5613625,Guangdong Experimental High School
+Q88101389,Institut de Recerca Sant Pau
+Q94184450,ICEERS
+Q138460568,Clínica Synaptica
+Q7864045,UCLA School of Public Health
+Q1741634,Kimberly-Clark
+Q598814,Klinikum Großhadern
+Q1603242,Helmholtz Centre for Infection Research
+Q1148423,IMI Systems
+Q5972026,IMI TAMI Institute for Research and Development Ltd.
+Q6980797,
+Q5440486,Federal University of Technology Akure
+Q24254508,"Edo State University, Iyamho"
+Q666128,Indiana State University
+Q6979260,National University of Mar del Plata
+Q7817,World Health Organization
+Q5474445,"FIND, the global alliance for diagnostics"
+Q1143281,Rugby School
+Q367429,University of Carabobo
+Q5315045,"Dunfermline High School, Dunfermline"
+Q2340211,Jamia Millia Islamia
+Q1194650,Indian Institute of Technology Delhi
+Q7895569,University of Jammu
+Q896267,Boğaziçi University
+Q7260991,Purdue University College of Pharmacy
+Q1411093,St. Lawrence University
+Q5202403,National University of Engineering
+Q3366382,Indian Institute of Technology Roorkee
+Q3181219,"University of Science and Technology, Houari Boumediene"
+Q59668,University of Luxembourg
+Q1728622,"University of California, Merced"
+Q2900977,Brigham and Women's Hospital
+Q12333820,Roskilde Cathedral School
+Q585828,Seton Hall University
+Q1393301,Fairleigh Dickinson University
+Q3272013,New Jersey Institute of Technology
+Q4287701,Medical and Surgical Academies in Russian Empire
+Q1630703,University of Pristina (1969–1999)
+Q1243705,University of Modena and Reggio Emilia
+Q3307047,Messiah University
+Q276507,Henkel KGaA
+Q7764635,The Skinners' School
+Q5763164,Hillhead High School
+Q565558,Schott AG
+Q4946360,Boroughmuir High School
+Q5684760,Hawick High School
+Q6693608,Lower Merion High School
+Q4746972,Amity Regional High School
+Q261894,Jerusalem College of Technology
+Q4583472,Danish Health Authority
+Q748085,University of Perugia
+Q604629,BI Norwegian Business School
+Q511031,Norsk Hydro
+Q1191166,University of Hyderabad
+Q1804942,Centre College
+Q49127,John F. Kennedy School of Government
+Q5734398,Herbert Henry Dow High School
+Q5070708,Chance Brothers
+Q5069571,Chamberlain-Hunt Academy
+Q159630,Chemnitz University of Technology
+Q1202292,Griffith University
+Q1473615,Kent State University
+Q3214375,Kastler–Brossel Laboratory
+Q3214477,Laboratory of Solid State Physics
+Q30261525,Paul Pascal Research Center
+Q109409389,Paris-Saclay University
+Q3616162,National Autonomous University of Honduras
+Q4201643,Latvian Institute of Organic Synthesis
+Q44397539,Baku Real School
+Q2069101,Gustav Adolf Grammar School
+Q14955171,Miina Härma Gymnasium
+Q5428834,Faculty of Engineering of the University of Porto
+Q5149371,Montpelier High School
+Q4982607,Charing Cross Hospital
+Q4661372,Aalborg Cathedral School
+Q60744259,Danish Pharmaceutical College
+Q11735734,Karkonosze College in Jelenia Góra
+Q4328888,Elektrostal Machine-Building Plant
+Q16636864,GIREDMET
+Q16678058,
+Q5196182,Cushing Academy
+Q12074701,Institute of Chemical Technologies of Volodymyr Dahl East Ukrainian National University
+Q1797768,Kenyon College
+Q720953,University of Colombo
+Q487841,Kyungpook National University
+Q5409765,Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Q2620177,College of the Holy Cross
+Q6277216,Jordanhill School
+Q5205117,DIMACS
+Q7980383,Weiser High School
+Q679134,University of Paderborn
+Q1439629,Providence College
+Q7245998,Pritzker School of Medicine
+Q120598154,USF Health
+Q607131,MetLife
+Q1110002,Collège Sainte-Barbe
+Q4128250,Woodhouse Grove School
+Q474563,Teylers Museum
+Q1411222,George Mason University
+Q29220409,National Institute of Diabetes and Digestive and Kidney Diseases
+Q14706474,Hunter College Elementary School
+Q6978045,National Research Centre
+Q114892,Nagasaki University
+Q1091287,Chuo University
+Q6452182,Kyoto Pharmaceutical University
+Q953446,Dokkyo University
+Q7105596,Osaka Prefectural Kitano High School
+Q720489,Asahi Kasei
+Q6973069,National High Magnetic Field Laboratory
+Q5434604,Far Rockaway High School
+Q4882669,Belgrano Day School
+Q52842912,"All-Russian Scientific Research Institute of Tobacco, Makhorka and Tobacco Products"
+Q413829,Józef Piłsudski University of Physical Education in Warsaw
+Q30643260,Sterling-Winthrop Research Centre
+Q1026939,"California State University, Northridge"
+Q15226824,Humphry Davy School
+Q24969911,Edinburgh Collegiate School
+Q7864156,"University of California, Davis, College of Engineering"
+Q15213813,Devonport High School for Boys
+Q15238550,Kingston Grammar School
+Q278455,Somali National University
+Q6898934,Monell Chemical Senses Center
+Q973884,St Edmund Hall
+Q323239,National Centre for Biological Sciences
+Q727516,University of KwaZulu-Natal
+Q1202543,Leibniz-Institute for Food Systems Biology at the Technical University of Munich
+Q7368786,Roseworthy Agricultural College
+Q2096524,Ulster University
+Q24061924,Hormel Institute
+Q100948525,University of Cape Town Faculty of Science
+Q12298062,University of Chemical Technology and Metallurgy
+Q3519221,Bangalore University
+Q7401823,Saint Mary's College
+Q1801980,Manaaki Whenua – Landcare Research
+Q1574185,University College Cork
+Q6040337,Institute of Genomics and Integrative Biology
+Q153012,University of Potsdam
+Q910825,Max Planck Institute for Molecular Plant Physiology
+Q40,Austria
+Q1643713,Higher Federal Graphical Institute of Education and Research
+Q2495874,University of Minnesota Duluth
+Q1143396,Osaka City University
+Q843253,Nara Institute of Science and Technology
+Q635118,Southeast Missouri State University
+Q7744473,"The King's School, Grantham"
+Q20825691,IMDEA Nanoscience Institute
+Q5019886,Calicut Medical College
+Q7516068,Silver Hills School
+Q2791690,Israel Atomic Energy Commission
+Q7122944,Packer Collegiate Institute
+Q4713602,Aldenham School
+Q7971641,Washington & Jefferson College
+Q15221882,Gore High School
+Q7895673,University of Mary Hardin–Baylor
+Q4831611,Ayr Academy
+Q834877,Ministry of Ammunition and War Production of Nazi Germany
+Q7528422,Sir Parashurambhau College
+Q5060595,Central College
+Q936476,Central University of Venezuela
+Q100998823,University of Rochester School of Medicine and Dentistry
+Q7896420,University of Tennessee Health Science Center
+Q1164246,St. Jude Children's Research Hospital
+Q7842960,Trinity School
+Q16986438,Cary Institute of Ecosystem Studies
+Q17014193,Monash University Faculty of Pharmacy and Pharmaceutical Sciences
+Q1643758,Central University of Ecuador
+Q4855561,Bangor Grammar School
+Q1661325,Indiana University of Pennsylvania
+Q5535569,Geophysical Institute
+Q6919331,Mount Albert Grammar School
+Q7737405,The Governor's Academy
+Q4807741,Aspatria Agricultural College
+Q19654938,Holme St Cuthbert School
+Q116485,University of Louisiana at Lafayette
+Q4475799,Lanzhou University
+Q834857,Chongqing University
+Q3274786,China University of Petroleum (Beijing)
+Q4126639,"The First High School of Changsha, Hunan"
+Q488851,Inha University
+Q47462199,National University of Singapore Faculty of Science
+Q1872239,Louisiana Tech University
+Q2239217,Medical University of Silesia
+Q18915353,Górnośląska Wyższa Szkoła Handlowa im. Wojciecha Korfantego
+Q101000660,University of Dhaka Faculty of Biological Sciences
+Q4570168,Fujian Normal University
+Q3551657,Niagara University
+Q1050317,Slovak Academy of Sciences
+Q30274235,Institute of Experimental Pharmacology & Toxicology
+Q19977932,Akosombo International School
+Q99290581,University of Canterbury College of Engineering
+Q5468962,Forest Hills High School
+Q1804763,Agricultural University of Berlin
+Q1729754,German University in Prague
+Q880228,University of Altdorf
+Q772334,Royal Saxon Academy of Forestry Tharandt
+Q28837991,German Technical University in Prague
+Q102398072,philosophy faculty of the German university of Prague
+Q2902978,Davidson College
+Q10323023,Magdalen Hall
+Q636400,Ashmolean Museum
+Q7209929,"Institute of Physical Chemistry, Polish Academy of Sciences"
+Q4032,Claude Bernard University Lyon 1
+Q5491372,Franklin College
+Q1974561,Institute for Creation Research
+Q4028031,First Moscow gymnasium
+Q5091325,Chengdu No.7 High School
+Q1141728,International Christian University
+Q10875262,
+Q11097177,Lee Kau Yan Memorial School
+Q603686,Hong Kong Baptist University
+Q697164,Taipei Municipal Taipei First Girls' High School
+Q470963,Fuzhou University
+Q30297399,Lanzhou Institute of Chemical Physics
+Q112731431,Molecular Diversity Preservation International
+Q183170,University of Texas at San Antonio
+Q1230902,University of Salento
+Q101012516,Hebrew University of Jerusalem Faculty of Science
+Q4754617,Andover High School
+Q1213279,Móricz Zsigmond Gimnázium és Közgazdasági Szakközépiskola
+Q4114428,Uniformed Services University of the Health Sciences
+Q4914963,Biological Research Centre
+Q30256699,BioNTech
+Q7896177,University of Puerto Rico at Mayaguez
+Q5701697,"Hele's School, Exeter"
+Q5301954,Douglas S. Freeman High School
+Q5020625,California Institute for Quantitative Biosciences
+Q20033123,"Faculty of Pharmacy, Medical University of Łódź"
+Q30296887,"Institute for Medical Biology, Polish Academy of Sciences"
+Q2827151,Agricultural Research Service
+Q3918391,Lyceum of Belarusian State University
+Q17043559,Faculty of Chemistry of the Belarusian State University
+Q4201652,Graduate School of the National Academy of Sciences of Belarus
+Q42565743,Institute of General and Inorganic Chemistry of the National Academy of Sciences of Belarus
+Q5001311,Busch Campus of Rutgers University
+Q4838012,Babraham Institute
+Q7244693,Princess Margaret Cancer Centre
+Q1232428,University of the Basque Country
+Q15733006,Google DeepMind
+Q7896435,University of Texas School of Medicine at San Antonio
+Q15056565,Journal of Pineal Research
+Q2744209,University of Portsmouth
+Q6460011,LSU Health Sciences Center New Orleans
+Q1096013,Fairchild Semiconductor
+Q1798499,Nova Southeastern University
+Q4177218,Institute of Natural Sciences named after P.F. Lesgaft
+Q58228883,Warsaw Polytechnic Institute
+Q3268613,Lycée Carnot
+Q5028085,Campbell High School
+Q498526,San José State University
+Q7452544,Sequoia High School
+Q2092392,University of Dayton
+Q7401550,"Saint Joseph College, Yokohama"
+Q25401654,Faculty of Philosophy in the Lviv (Lvov) University
+Q52161779,Grodno male gymnasium
+Q56709733,Faculty of Physics and Mathematics of Kyiv University
+Q28966944,Academia Gustaviana
+Q369629,Salahaddin University-Erbil
+Q11467055,Yamaguchi Prefectural Ube High School
+Q958696,Hirosaki University
+Q248,Intel
+Q203262,Zilog
+Q1007777,University of Aizu
+Q1017523,Busicom
+Q4966906,Bridgnorth Endowed School
+Q2177054,Russian Institute of Theatre Arts
+Q840812,Moscow Art Theatre
+Q4129798,Top Courses for Scriptwriters and Film Directors
+Q1293929,University of Franeker
+Q1345942,University of East London
+Q7284797,Raine's Foundation School
+Q6006894,Imperial Sugar
+Q6392302,Kentucky Military Institute
+Q3268766,Lycée Joffre
+Q3064295,Faculté des sciences pharmaceutiques et biologiques
+Q7401684,Saint Louis University School of Medicine
+Q4861502,Barnes-Jewish Hospital
+Q7983897,Wesley College
+Q4793430,Armidale High School
+Q7099645,Orange High School
+Q3240764,Shell USA
+Q5020332,California Coast University
+Q5442625,Felsted School
+Q8026002,Winstanley College
+Q3521052,Andhra University
+Q7659951,Sydney Grammar School
+Q5759926,Highway Secondary School
+Q748106,Glasgow School of Art
+Q6411230,The King Alfred School
+Q39997,Korea University
+Q2093110,University of Texas at El Paso
+Q5038567,Cardinal Langley Roman Catholic High School
+Q7593222,St George Girls High School
+Q749394,World Anti-Doping Agency
+Q144886,Zakłady Azotowe w Tarnowie-Mościcach
+Q8065268,Grupa Azoty Zakłady Azotowe Kędzierzyn
+Q774520,University of Kinshasa
+Q7603627,State University of New York at Oswego
+Q1111367,Colorado School of Mines
+Q5123776,City of London School for Girls
+Q3152769,European Institute for Marine Studies
+Q6039487,Institute for Marine and Antarctic Studies
+Q101003225,Aligarh Muslim University Faculty of Agricultural Sciences
+Q7017084,Newbridge College
+Q655866,University of Magdeburg
+Q1706859,Hampshire College
+Q1857293,Pontifical Catholic University of Rio de Janeiro
+Q12061441,MIT World Peace University
+Q1115639,Franz Joseph University
+Q102398119,Deutsche wissenschaftliche Prüfungs-kommission für das Lehramt an Mittelschulen in Prag
+Q8052862,Yeshivah of Flatbush
+Q1111609,Teijin
+Q7330854,Richmond High School
+Q11403050,Hokkaido Tomakomai Higashi High School
+Q3521222,Okayama University of Science
+Q6445630,Kurashiki University of Science and the Arts
+Q1022865,Center for Advanced Security Research Darmstadt
+Q1815710,De La Salle University
+Q7509130,Sidney High School
+Q1424632,Alexandria University
+Q15262345,Niles East High School
+Q846859,Berea College
+Q7571269,Southwest Early College Campus
+Q7571292,Southwest High School
+Q7089410,Omaha Central High School
+Q7372418,Roxbury Latin School
+Q7842565,Trinity Academy
+Q542511,Hoechst
+Q73251,Symrise
+Q4479389,Annenschule
+Q283099,University of the Bundeswehr Munich
+Q673354,University of St. Gallen
+Q2513927,Verband kommunaler Unternehmen
+Q104871107,Westenergie
+Q5208883,Dahlem Centre of Plant Sciences
+Q3418995,Rank Xerox
+Q809921,Basel Institute for Immunology
+Q6386678,Kelvin High School
+Q2299797,Beihang University
+Q688704,"Natural History Museum, Vienna"
+Q12338405,Sønderborg Statsskole
+Q1623314,Hofstra University
+Q4746780,Amirkabir University of Technology
+Q5384959,Erasmus Hall High School
+Q6665621,Lockheed Martin Missiles and Space
+Q915866,Chicago State University
+Q2038878,Pontifical Bolivarian University
+Q4119768,UCL School of Pharmacy
+Q2133858,Courtaulds
+Q612648,Blaise Pascal University (Clermont II)
+Q6979225,University of Abomey-Calavi
+Q32822,King Edward Memorial Hospital and Seth Gordhandas Sunderdas Medical College
+Q160746,Nestlé
+Q11220,United States Navy
+Q3303928,Episcopal High School
+Q5059585,Center for Devices and Radiological Health
+Q7166052,Peoples Christian Academy
+Q939090,United States Atomic Energy Commission
+Q5532125,General Precision Equipment
+Q7604719,Stauffer Chemical
+Q24895826,Naval Radiological Defense Laboratory
+Q27832090,Project Y
+Q1258413,University of Antioquia
+Q5956693,Hymers College
+Q15787840,Gewerbeschule
+Q4059193,Academic University at the St. Petersburg Academy of Sciences
+Q32637,Ioffe Institute
+Q3551685,Trinity College
+Q851143,Budapesti Egyetemi Katolikus Gimnázium
+Q1006690,Botanical Garden
+Q7984714,West Chester East High School
+Q7895227,Universidad de Cartagena
+Q172430,Loyola University New Orleans
+Q6728477,Madras College
+Q96415626,Wychwood School
+Q7011301,New Rochelle High School
+Q7988660,Westfield College
+Q3143507,Huston–Tillotson University
+Q4826834,Autonomous University of Sinaloa
+Q7416007,Sandbach School
+Q6074375,Irvine Royal Academy
+Q17013346,Pallas & Poleman
+Q4968573,Brisbane Grammar School
+Q30299255,Délégation Midi Pyrénées
+Q1052208,New Mexico Institute of Mining and Technology
+Q8016768,William Penn University
+Q3551717,University of Medicine and Dentistry of New Jersey
+Q1509333,Georgia State University
+Q168811,Kazakh Soviet Socialist Republic
+Q30281843,CeMM Research Center for Molecular Medicine
+Q6410897,King's College London GKT School of Medical Education
+Q5547686,Augusta University
+Q4948172,Boston University College of Arts and Sciences
+Q4732310,Alliance Girls High School
+Q476322,United States Public Health Service
+Q12073283,Yale – New Haven Hospital
+Q706712,National Taiwan Normal University
+Q4534544,Penn State University Park
+Q7240978,"Presentation Secondary School, Clonmel"
+Q898208,Honeywell
+Q20055490,Faculdade de Ciências da Universidade de Lisboa
+Q10302897,Instituto de Medicina Molecular
+Q672022,Collège Calvin
+Q11351132,Lawrenceville School
+Q2093909,Chemical Corps
+Q7528204,Sir Joseph Williamson's Mathematical School
+Q15995129,Higher Chemical College of the Russian Academy of Sciences
+Q11574733,National Institute for Physiological Sciences
+Q7590859,St. Norbert College
+Q1472474,Southern Illinois University
+Q536512,James Cook University
+Q72539,U.S. Steel
+Q7896427,University of Texas Dental Branch at Houston
+Q1370721,University of Mysore
+Q6276604,Jordan High School
+Q3151762,Linus Pauling Institute
+Q14993393,Westminster City School
+Q4406448,Samara Real School
+Q4192924,Znanie
+Q5508374,Fulneck School
+Q15205091,Brookfield Community School
+Q7896390,University of Sydney School of Chemistry
+Q386695,High School of Glasgow
+Q2424299,International School for Advanced Studies
+Q4705957,Alamo Heights High School
+Q7865388,UNSW Faculty of Law
+Q892188,Bond University
+Q1247550,St Cross College
+Q702482,University of Bayreuth
+Q6802447,McNair High School
+Q4737510,Alun School
+Q460173,United States Environmental Protection Agency
+Q905549,Royal Society of Chemistry
+Q4686149,Advanced Chemistry Development
+Q4304299,Moscow Technical University of Communication and Informatics
+Q14830251,Russian Journal of Physical Chemistry B
+Q609466,Colgate-Palmolive Company
+Q992830,Santa Clara University
+Q101015589,University of Colorado Boulder Department of Chemistry and Biochemistry
+Q1753535,Royal College of Art
+Q472795,VASKhNIL
+Q2466783,"Federal Research Center ""N.I. Vavilov All-Russian Institute of Plant Genetic Resources"""
+Q1378,University of Maribor
+Q1973130,Universiti Sains Malaysia
+Q1341845,EMBL's European Bioinformatics Institute
+Q4968872,Bristol College
+Q7896088,University of Pennsylvania Carey Law School
+Q130965,Fordham University
+Q4478869,Utkal University
+Q7370461,Rothesay Academy
+Q2034790,East China Normal University
+Q104773040,University of Versailles
+Q4564567,Washington College
+Q15223096,Harriton High School
+Q5508288,Fullerton College
+Q5315458,Dunlop Rubber
+Q1245999,University of Siena
+Q1752712,Nicolaus Copernicus University in Toruń
+Q3837561,Loughborough Grammar School
+Q163560,Axel Springer SE
+Q315229,German Sport University Cologne
+Q1204503,Deutsche Wildtier Stiftung
+Q1278808,Eberhard-Ludwigs-Gymnasium
+Q5935918,Hull Grammar School
+Q4345832,Saint Petersburg Academy of Sciences
+Q1468481,University of Deusto
+Q174747,Repsol
+Q474690,Naturgy
+Q1726547,Petronor
+Q209988,Gödöllő
+Q5588726,Government College Umuahia
+Q8046341,Yaba College of Technology
+Q3997334,Our Lady of the Rosary University
+Q1146700,Jesus College
+Q5545975,George Washington Educational Campus
+Q6727961,Madison East High School
+Q4453264,Tver State Technical University
+Q23101,Beijing Institute of Technology
+Q3332415,Qufu Normal University
+Q2655352,East China University of Science and Technology
+Q834458,Inner Mongolia University
+Q97279531,Higher School of Pedagogy in Katowice
+Q11689596,"Centre of Molecular and Macromolecular Studies, Polish Academy of Sciences"
+Q11837925,Military University of Technology
+Q10903231,Peiyang University
+Q21175545,ExxonMobil Chemical
+Q1204921,International Rice Research Institute
+Q95,Google
+Q507154,Novartis
+Q5399470,Loyola University Maryland
+Q488620,Sun Moon University
+Q588239,Tribhuvan University
+Q6376965,Kathmandu University
+Q16953838,Bristol University
+Q30258644,Institute of Biotechnology of the Czech Academy of Sciences
+Q7963635,Walnut Hills High School
+Q181114,Stellantis North America
+Q625103,University of Missouri–St. Louis
+Q470196,Mary Kay
+Q6340370,KV Pharmaceutical
+Q591426,Fort Hays State University
+Q3308284,Alpha Kappa Alpha
+Q19830060,6th Montessori School Anne Frank
+Q1320326,Nuclear Regulatory Commission
+Q5376976,Energy Research and Development Administration
+Q1273272,Royal Australian Mint
+Q5973154,IP Australia
+Q427677,Al-Farabi Kazakh National University
+Q1204714,Pratt Institute
+Q746079,University of Cape Coast
+Q742150,Mount Allison University
+Q20828993,Max Planck Institute for Biology
+Q106268420,Pommersche Provinzial-Zuckersiederei
+Q9351510,Szkoła Akademiczno-Górnicza w Kielcach
+Q2983549,Collège-lycée Jacques-Decour
+Q14682339,Hopkins Marine Station
+Q6858340,Mill Hill School
+Q1419424,"Königliches Gymnasium, Alleestraße 32"
+Q2205963,SGS Institut Fresenius
+Q4304039,Moscow Archaeological Institute
+Q5025054,Camberwell Girls Grammar School
+Q5033651,Canterbury Girls Secondary College
+Q514105,Australian Academy of Science
+Q56147,Gachon University
+Q860268,Tohoku Fukushi University
+Q4709349,Albany Medical College
+Q7057430,North Yarmouth Academy
+Q5060603,Central College of Bengaluru
+Q6971584,"National College, Bengaluru"
+Q6165974,Jawaharlal Nehru Centre for Advanced Scientific Research
+Q1286939,Banícka akadémia
+Q1243904,University of Alcalá
+Q5918325,Institute of Physical Chemistry Blas Cabrera
+Q6017284,Ministry of Education and Science
+Q8210792,Palma City Council
+Q3273657,Kuwait University
+Q2061633,Institute for Research in Biomedicine
+Q3041255,SINTEF
+Q374686,Czech Academy of Sciences
+Q6040092,Institute of Chemical Process Fundamentals
+Q10112146,Second Faculty of Medicine – Charles University
+Q24282759,"Faculty of Food and Biochemical Technology, University of Chemistry and Technology"
+Q46027,Indian Institute of Management Ahmedabad
+Q12060641,Hyderabad Public School
+Q163164,"First Faculty of Medicine, Charles University"
+Q7359290,Rogers High School
+Q1126179,Lincoln University
+Q1078474,Zagazig University
+Q7896279,University of Science and Arts of Oklahoma
+Q104694399,State College of Washington
+Q1003730,Bulgarian Academy of Sciences
+Q7567145,South East Water
+Q694887,Pomeranian Medical University
+Q4904036,Biddeford High School
+Q2422926,Utrecht School of the Arts
+Q7301510,Reasons To Believe
+Q30281767,Institut Pasteur du Maroc
+Q6087580,Programa de Desarrollo de las Ciencias Básicas
+Q633040,Morehead State University
+Q1132955,Lorraine INP
+Q6979244,National University of Education Enrique Guzmán y Valle
+Q198605,G. D. Searle & Company
+Q6806451,Medical University of South Carolina
+Q152303,University of Wisconsin Law School
+Q1927705,Trinity College
+Q4874507,Bayfield High School
+Q7270012,"Queen's High School, Dunedin"
+Q106202802,Arthur Street School
+Q2495129,Unitec Institute of Technology
+Q173395,Cisco
+Q259011,Motorola
+Q591923,Vatican Observatory
+Q690912,University of Hohenheim
+Q3827704,Launceston Church Grammar School
+Q7842815,Trinity Grammar School
+Q633448,Geelong Grammar School
+Q1848835,Parliament of Victoria
+Q4335763,Defence Science and Technology Group
+Q16927441,RAAF Woomera Range Complex
+Q123281721,Collège des Godrans
+Q625158,Kaunas University of Technology
+Q7894634,University College School
+Q1319362,Janelia Research Campus
+Q7417591,Sanford Burnham Prebys Medical Discovery Institute
+Q3577978,École du service de santé des armées de Bordeaux
+Q1339583,Val-de-Grâce
+Q3145139,Hôpital Boucicaut
+Q7587793,"St. Edmund's College, Ware"
+Q4854165,Bancroft School
+Q58072309,Kharkiv Practical Technological Institute
+Q13360278,"Faculty of Science, Palacký University Olomouc"
+Q7728318,The Crypt School
+Q6156410,"University ""Marta Abreu"" of Las Villas"
+Q16847098,Institute for Cross-Disciplinary Physics and Complex Systems
+Q40747090,
+Q174570,London School of Economics and Political Science
+Q1207293,University of Illinois
+Q4496116,Hartford International University for Religion and Peace
+Q975653,NewYork–Presbyterian Hospital
+Q1278206,Eastern Kentucky University
+Q644478,University of Galway
+Q110587,Royal Irish Academy
+Q2000624,North Dakota State University
+Q2278254,Sherborne School
+Q674773,Science Museum
+Q6941088,History of Science Museum
+Q49162637,DNAX Research Institute
+Q49162809,The Kennedy Institute of Rheumatology
+Q1278221,Eastern Michigan University
+Q4732213,Alleyn's School
+Q7380723,Rush Medical College
+Q6486299,Langley School
+Q5299089,DuPont Central Research
+Q30258173,National Association For Equal Opportunity in Higher Education
+Q283032,Pondicherry University
+Q7270299,"Queen Elizabeth's Grammar School, Horncastle"
+Q523926,Royal Academy of Dramatic Art
+Q7587619,St Clement Danes School
+Q7374233,Royal Grammar School Worcester
+Q1542352,Upper Canada College
+Q5123747,The City of Leicester College
+Q7005716,New Britain High School
+Q30295214,Heptares Therapeutics (United Kingdom)
+Q154950,Shell
+Q2092214,University of North Carolina Wilmington
+Q139901,Northern Arizona University
+Q1781094,University of Northern Iowa
+Q6984798,Nebraska Wesleyan University
+Q3495253,St. Edward's University
+Q5685015,Hawkesbury Agricultural College
+Q5360031,Elgin High School
+Q620875,Goodyear Tire and Rubber Company
+Q1538540,Goshen College
+Q1131966,NSCAD University
+Q7896486,Temerty Faculty of Medicine
+Q3140964,Hospital for Sick Children
+Q7983886,Wesley College
+Q1444157,Lycée Hoche
+Q5093943,Chestnut Hill Academy
+Q30263165,Research Complex at Harwell
+Q832355,Wuhan University of Technology
+Q52579,LKAB
+Q474816,Geological Survey of Sweden
+Q7572977,Spalding Grammar School
+Q1418313,Finsbury Technical College
+Q86086220,City and Guilds College
+Q7895524,University of Illinois College of Medicine
+Q7535073,Skidmore College
+Q5013781,Gurdon Institute
+Q760690,University of the Andes
+Q5918039,Instituto de Biología y Medicina Experimental
+Q2000129,University of Hawaiʻi at Mānoa
+Q4996765,Buller High School
+Q14692455,University of Maryland Global Campus
+Q29987138,Miami Medical College
+Q49126,Harvard Business School
+Q1745633,University of Hertfordshire
+Q1476505,Mount Sinai Hospital
+Q1138374,St. John's University
+Q159334,secondary school
+Q818846,Novo
+Q29576228,de Duve Institute
+Q101003782,Jadavpur University Faculty of Science
+Q4461132,Degussa
+Q1475020,Furman University
+Q9008662,Instituto-Escuela
+Q1192619,Yokohama National University
+Q7774452,The Whitby High School
+Q17623895,Cermav
+Q33534136,European Molecular Biology Laboratory Hamburg
+Q16197435,Lombard College
+Q4253367,University of Lucknow
+Q7588644,St. John's College
+Q1248821,University of Catania
+Q8048827,Yankton College
+Q2537306,VINITI
+Q4422083,Skolkovo Institute of Science and Technology
+Q528189,Shelby
+Q12744205,Central School in Bucharest
+Q461340,"Paris Observatory, PSL University"
+Q8059757,Ysgol Syr Hugh Owen
+Q66007291,Ysgol Gynradd Bethel
+Q1259453,University of Santiago
+Q1291811,Toruńskie Gimnazjum Akademickie
+Q679689,Geneva Library
+Q682992,Lanxess
+Q203624,Kanagawa University
+Q4671107,Academia del Perpetuo Socorro
+Q2171033,Royal High School
+Q105427200,UCLA Division of Life Sciences
+Q5250893,Deerfield Academy
+Q3652444,First Tiflis Male Gymnasium
+Q7877461,Ueno Gakuen University
+Q11555804,Rakunan Junior and Senior High School
+Q30926156,"Graduate School of Engineering and Faculty of Engineering, Kyoto University"
+Q1148082,Nara Women's University
+Q1152190,Ritsumeikan University
+Q168115,Toray Industries
+Q15501569,Open University of Japan
+Q4614484,Tokyo Polytechnic University
+Q1322412,Saitama University
+Q1067916,Okayama University
+Q1321803,Chiba University
+Q11582085,Sagami Central Chemical Research Institute
+Q112328210,Kyoto Imperial University
+Q10274383,Escola Politécnica de Lisboa
+Q11838083,"Faculty of Chemistry, Gdańsk University of Technology"
+Q11815238,University of Kalisz
+Q7895595,University of Kentucky College of Engineering
+Q5562775,Stefan Batory Gymnasium and Lyceum
+Q9379353,"Faculty of Chemistry, Warsaw University of Technology"
+Q5474469,Foundation for Polish Science
+Q11783873,International Institute of Molecular and Cell Biology
+Q9367901,VI Liceum Ogólnokształcące im. Tadeusza Reytana
+Q9379362,"Faculty of Chemistry, University of Warsaw"
+Q9379670,"Faculty of Law and Administration, University of Warsaw"
+Q12799544,Faculty of Science and Mathematics
+Q12788723,Faculty of Natural Sciences and Technology of the University of Ljubljana
+Q931642,Kraków University of Technology
+Q213624,Ministry of Foreign Affairs of Poland
+Q11829008,Przemysłowy Instytut Elektroniki
+Q1646874,Helsinki University of Technology
+Q135643653,Global Catastrophic Risk Institute
+Q3246712,SUNY Downstate Health Sciences University
+Q10859684,Institution of Chemical Engineers
+Q670649,Irkutsk State University
+Q4135690,Geological Institute of the Russian Academy of Sciences
+Q12715675,Ministry of Industry
+Q2822400,Academy of Natural Sciences of Drexel University
+Q4856083,Bank of Chester County
+Q34051,Lamont–Doherty Earth Observatory
+Q5628567,H. Sophie Newcomb Memorial College
+Q10934160,Utopia University
+Q5698189,Hefei University
+Q30259214,Institute of Modern Physics
+Q901932,Wyeth
+Q97162788,Temple Health
+Q12760815,"Chemistry Faculty, University of Belgrade"
+Q980969,Mexican Petroleum Institute
+Q179501,Pontifical University of Salamanca
+Q607331,Universidad de San Carlos de Guatemala
+Q7894349,Universidad del Valle de Guatemala
+Q1333283,Elphinstone College
+Q1054905,Morgan State University
+Q25463170,Roche Holding
+Q6659715,Livingstone College
+Q898992,Pharmacia
+Q4046487,Parke-Davis
+Q5620894,Picatinny Arsenal
+Q834678,IHE Delft Institute for Water Education
+Q6979352,National Water and Sewerage Corporation
+Q51079104,National Environment Management Authority of Uganda
+Q1425316,SLB
+Q14685705,Newark High School
+Q24534683,Western Regional Research Center
+Q273605,École normale supérieure de lettres et sciences humaines
+Q1163431,PSL Research University
+Q3268927,Saint-Marc Lycée
+Q48746356,Institut Curie
+Q545054,Dirección de Inteligencia Nacional
+Q7593891,St Kevin's College
+Q2579532,University of Sherbrooke
+Q2983768,Collège de Lisieux
+Q3551587,University of France
+Q3152082,Institut de recherche d'Hydro-Québec
+Q3578287,École normale supérieure de Saint-Cloud
+Q3151978,Institut de biologie physico-chimique
+Q1142714,St. Xavier High School
+Q5182086,Cranfield Institute
+Q7074490,Oatlands College
+Q1810862,Lebedev Physical Institute
+Q4386632,All-Russian Scientific Research Institute Of Technical Physics
+Q49258,Colorado Springs
+Q632465,Radford University
+Q922647,Monmouth University
+Q5772639,Hislop College
+Q6505256,Laxminarayan Institute of Technology
+Q2687517,Jinan University
+Q5428851,Faculty of Exact and Natural Sciences (UBA)
+Q16250196,"Faculty of Chemistry and Pharmacy, Sofia University"
+Q4208094,Kazakh National Medical University
+Q4465695,Turan University
+Q5970567,IES Beatriz Galindo
+Q32821,CEU San Pablo University
+Q5761764,Centre of Metabolomics and Bioanalysis
+Q140849984,Escuela Internacional de Doctorado CEU
+Q3348933,"Medical College and Hospital, Kolkata"
+Q291019,Indian Council of Medical Research
+Q5638342,Haffkine Institute
+Q107564729,Cerus Corporation
+Q4475843,Dr. Bhimrao Ambedkar University
+Q895457,Bowling Green State University
+Q15934902,"The Chinese University of Hong Kong, Shenzhen"
+Q3684876,Commonwealth Fund
+Q7129474,Pan-Atlantic University
+Q7567994,South Mountain High School
+Q5918873,Jožef Stefan Institute
+Q624571,Sonoma State University
+Q1689439,University of Lethbridge
+Q56070723,ASAPbio
+Q368923,Saigon University
+Q105169372,University of Southern California School of Pharmacy
+Q48788,Riga State Gymnasium No.1
+Q460889,Museo Nacional Centro de Arte Reina Sofía
+Q4201531,S.I. Vavilov Institute for the History of Natural Science and Technology
+Q4201733,Institute of Socio-Political Research
+Q4480803,MSU Faculty of Political Science
+Q7595311,St Peter's College
+Q85795275,"Queen's College, North Adelaide"
+Q15262144,Newcome's School
+Q161885,Kingdom of Great Britain
+Q7848030,Truro Cathedral School
+Q4133147,King William's College
+Q17530644,Old Grammar School
+Q860450,Chelsea College of Art and Design
+Q991099,Queen Elizabeth College
+Q45132492,University of Adelaide Faculty of Sciences
+Q1912065,Max Planck Institute for Biology Tübingen
+Q5158770,Concord Academy
+Q5061191,Central High School
+Q14683220,Lynbrook High School
+Q111387693,Cerence Inc.
+Q1916637,Carol Davila University of Medicine and Pharmacy
+Q12730483,"National Institute of Research and Development for Microbiology and Immunology ""Cantacuzino"""
+Q7374329,Royal Institute of Chemistry
+Q458666,Gheorghe Asachi Technical University of Iași
+Q30282419,"Institute of Macromolecular Chemistry ""Petru Poni"""
+Q4221178,Kyrgyz State Medical Academy
+Q46492,Meiji University
+Q30266148,Kobayasi Institute of Physical Research
+Q4824596,Australian Radiation Protection and Nuclear Safety Agency
+Q5758964,Highland Park Community College
+Q5078673,Charles H. Wright Museum of African American History
+Q6504630,Lawrence Technological University
+Q56358887,V. I. Vernadsky Institute of General and Inorganic Chemistry of the National Academy of Sciences of Ukraine
+Q671421,Institute for Scientific Information
+Q1665138,Institute for Defense Analyses
+Q6823838,Methodist Ladies' College
+Q269792,Ferrero SpA
+Q132735866,Akeso
+Q6375890,Katedralskolan
+Q7123995,Paducah Tilghman High School
+Q6878526,Mission Bay High School
+Q5299210,DuPont Experimental Station
+Q7989203,Westminster School
+Q11652417,Nagasaki Medical College
+Q5430183,Fairfax High School
+Q48740238,Fénelon - La Trinité School
+Q1232190,Institut d'Égypte
+Q3578345,École royale du génie de Mézières
+Q60851178,
+Q1664911,Podravka
+Q7269951,Queen's College
+Q126938536,The Glynn Research Foundation Limited
+Q930291,Willamette University
+Q18749253,University of Oregon College of Arts and Sciences
+Q14707199,Port Richmond High School
+Q12119146,"152 Franka Street, Lviv"
+Q6860967,Milton Academy
+Q1979667,Neue Nikolaischule
+Q3515551,ETH Board
+Q1195404,Murray Edwards College
+Q4770537,Anschutz Medical Campus
+Q6973875,National Jewish Health
+Q894654,Nikitsky Botanical Garden
+Q24935099,"All-Russian Research Institute of Physiology, Biochemistry and Nutrition of Animals"
+Q3268619,Lycée Chaptal
+Q110221359,DuPont
+Q675823,Natural History Museum of Basel
+Q3113538,Kuwait Oil Company
+Q20516656,Institute of Fine Organic Chemistry
+Q1814701,Philippine Women's University
+Q7185275,Philippine Women's University – School of Fine Arts and Design
+Q30253613,Quality Education For Minorities Network
+Q6410016,Kimbolton School
+Q7593574,St John's College
+Q2002703,University of Tabriz
+Q401034,Ahmadu Bello University
+Q7082913,Olabisi Onabanjo University
+Q24969359,Methodist Boys' High School
+Q1791348,VTT Technical Research Centre of Finland
+Q1849843,Xavier University
+Q4227955,Lewis & Clark College
+Q7590249,St. Mary's College of Maryland
+Q3446076,Bridgewater State University
+Q11005271,Toronto French School
+Q5259353,Denstone College
+Q7587279,St. Berchmans College
+Q4475791,Gauhati University
+Q20990740,Administrative Staff College of Nigeria
+Q3268681,"Lycée Fénelon, Paris"
+Q604924,SRI International
+Q1266514,Autonomous University of Zacatecas
+Q7592065,St. Vincent's Institute of Medical Research
+Q7906670,Virginia Commonwealth University School of Medicine
+Q15261439,Neale-Wade Academy
+Q834077,Rohm and Haas
+Q3035299,Hellenic Open University
+Q1270831,University of Redlands
+Q7894361,Catholic University of Salvador
+Q2096604,Sharif University of Technology
+Q30272660,Kaibara Morikazu Medical Science Promotion Foundation
+Q1152050,University of Yamanashi
+Q11469737,Yamanashi Prefectural Nirasaki High School
+Q4389652,Kitasato University
+Q11448365,The Kitasato Institute
+Q11525436,Tokyo Metropolitan Sumida Technical High School
+Q107638717,"Faculty of Pharmaceutical Sciences, Tokyo University of Science"
+Q1751928,Linnaeus University
+Q7895977,University of North Texas Health Science Center
+Q5109092,Christchurch School
+Q2230156,University of Mons-Hainaut
+Q47461791,Colegio Escuelas Pías of Jaca
+Q104176836,Faculty of Medicine of the University of Zaragoza
+Q995138,Bryanston School
+Q4852909,Baltimore Polytechnic Institute
+Q6375889,Katedralskolan
+Q3268847,"Lycée Michelet, Vanves"
+Q3287074,Manufacture royale de glaces de miroirs
+Q3268994,Liceo Classico Massimo D'Azeglio
+Q367300,Magyar Televízió
+Q1037259,TV2
+Q1094569,RTL
+Q108169082,Chinoin Gyógyszer és Vegyészeti Termékek Gyára
+Q137655799,Argonne Cancer Research Hospital
+Q137660129,Franklin McLean Memorial Research Institute
+Q368643,University of Coimbra
+Q14914376,University of Lisbon (1911–2013)
+Q7403797,Sale Grammar School
+Q5882770,Hollywood High School
+Q6914108,Morristown-Beard School
+Q5383987,Epsom College
+Q1640648,University of Canberra
+Q6996689,Nersisian School
+Q9842,primary school
+Q284992,Darmstadt University of Applied Sciences
+Q1457829,Friedrich Miescher Lab
+Q67146961,"Department of Mathematics ""Federigo Enriques"""
+Q815543,Royal Belgian Institute for Space Aeronomy
+Q1912080,Max Planck Institute for Meteorology
+Q19933513,Faculty of Educational Studies
+Q671363,Université Cheikh Anta Diop
+Q2084549,Azerbaijan State Agricultural University
+Q12836442,Scientific Research Institute of Plant Protection and Technical Plants
+Q2495825,University of Arkansas at Pine Bluff
+Q39047679,Altheimer-Sherrill High School
+Q6913630,Morris Brown College
+Q913861,San Diego State University
+Q104145690,Massachusetts Institute of Technology Department of Mechanical Engineering
+Q6954888,NOKUT
+Q6065437,Istanbul Faculty of Medicine
+Q7865231,UNC Lineberger Comprehensive Cancer Center
+Q12241652,University of North Carolina School of Medicine
+Q5140383,Codsall Community High School
+Q61365714,András Fáy High School
+Q8030853,"Women's Christian College, Chennai"
+Q5289309,St. Stephen's College
+Q3595204,National Aerospace Laboratories
+Q4688351,Aeronautical Development Agency
+Q7687809,Tata Institute of Fundamental Research Hyderabad
+Q14957003,International Centre for Theoretical Sciences
+Q7895148,University of Burdwan
+Q7969745,Warner Pacific University
+Q2946099,University of Vincennes
+Q858206,Johns Hopkins Bloomberg School of Public Health
+Q7902782,Utica University
+Q1511732,Max Planck Institute of Geoanthropology
+Q1458579,University of Putra Malaysia
+Q1142275,Universiti Malaysia Sabah
+Q4327703,University of Nottingham Malaysia Campus
+Q187998,Cesare Borgia
+Q236853,Ludovico Sforza
+Q5123253,City Law School
+Q15235804,Kesteven and Grantham Girls' School
+Q7707489,Texas Academy of Mathematics and Science
+Q6716293,MIT Chemistry Department
+Q5061183,Central High School
+Q102212738,Weizmann Institut for Videnskab - Institut for Videnskabsundervisning
+Q1592883,Herzliya Hebrew Gymnasium
+Q4948183,Boston University Wheelock College of Education & Human Development
+Q6537817,Lexington High School
+Q463665,American Cancer Society
+Q6469995,Lady Brabourne College
+Q13059056,Bethune College
+Q618604,National Advisory Committee for Aeronautics
+Q8000116,Carter G. Woodson High School
+Q4638918,St Paul's Girls' School
+Q7051393,Norland Place School
+Q7208904,Poland Seminary High School
+Q6023665,Indiana University South Bend
+Q6851442,Miles Laboratories
+Q1782724,University of Central Arkansas
+Q2255004,AlliedSignal
+Q7527890,Sir John Leman High School
+Q465697,American Medical Association
+Q4813475,Athens College
+Q6973660,National Institute of Health
+Q19605676,Northern Regional Research Lab
+Q5147634,Collège Sévigné
+Q6759742,Margaret Morrison Carnegie College
+Q1397589,Central China Normal University
+Q8032649,Woodford County High School
+Q5611372,Grove Academy
+Q7270328,Queen Elizabeth Grammar School
+Q7410755,Allsopp’s
+Q162494,Schulpforta
+Q5085977,Charlotte Hall Military Academy
+Q98511019,
+Q18474196,St. Ignatius College
+Q7588662,St. John's Diocesan Girls' Higher Secondary School
+Q56355836,Kyiv State Medical Institute
+Q12131981,Institute of biology of the Taras Shevchenko National University of Kyiv
+Q831926,Deutsche Schule Istanbul
+Q6063394,Üsküdar University
+Q13565107,Northwestern University
+Q181052,Ames Research Center
+Q6971399,National Centre for Cell Science
+Q6191938,Jiashan Senior High School
+Q7591528,St. Philip's School
+Q4031160,Myasishchev 3M
+Q1473658,Walter Reed Army Medical Center
+Q5746255,Hessle High School
+Q82606,Pembroke College
+Q4803876,Ascham St. Vincent's School
+Q837544,Donghua University
+Q30281529,Foundation for Applied Molecular Evolution
+Q3540690,Ithaca College
+Q16997461,Ithaca College School of Humanities and Sciences
+Q864860,University of New Zealand
+Q5088797,Cheadle Hulme School
+Q6682770,Los Gatos High School
+Q5048331,Case Western Reserve University School of Medicine
+Q41566939,Texas A&M Health Science Center
+Q7076440,Ochsner Medical Center
+Q14692015,Naval Surface Warfare Center Indian Head Division
+Q891082,Boise State University
+Q4681111,Addiction Research Center
+Q6973751,National Institute on Drug Abuse
+Q10906760,Nanjing Tech University
+Q5289201,Dollar Academy
+Q1637611,Palacký University Olomouc
+Q273600,École nationale vétérinaire d'Alfort
+Q1738772,Agricultural University of Tirana
+Q48756,CNES
+Q186638,University of Versailles Saint-Quentin-en-Yvelines
+Q10943718,University of Wisconsin-Superior
+Q4314967,Armenian National Agrarian University
+Q5764876,Himachal Pradesh University
+Q7896201,University of Rajasthan
+Q880999,Helmholtz Centre for Environmental Research
+Q4811950,Asutosh College
+Q3260662,Jawaharlal Institute of Postgraduate Medical Education and Research
+Q7653743,Swanson School of Engineering
+Q30123274,Institute of Experimental Botany of the Czech Academy of Sciences
+Q7247886,University of Kalyani
+Q3533478,Ramakrishna Mission Vivekananda College
+Q7929576,Vikram University
+Q7903414,Uttarpara Govt. High School
+Q1230739,University of Texas at Arlington
+Q504723,University of Siegen
+Q1751060,University of Trieste
+Q24907705,Mar Thoma College
+Q816377,Bemidji State University
+Q7928229,Vidyasagar University
+Q64343228,Midnapore College
+Q86019572,Cardiff University College of Physical Sciences and Engineering
+Q86026760,University of East Anglia School of Chemistry
+Q6123139,Boots
+Q4906809,Bigelow Laboratory for Ocean Sciences
+Q1476687,Merz Pharma
+Q7894641,University College Thiruvananthapuram
+Q4854061,Banchory Academy
+Q20688250,Southwest Medical University
+Q7750731,The Maynard School
+Q1786078,Loyola Marymount University
+Q4647838,A. H. Parker High School
+Q6423659,Knoxville College
+Q7913119,Van Andel Institute
+Q4782975,Aquinas College
+Q100993333,University at Buffalo - Downtown Campus
+Q12793602,National Institute of Chemistry
+Q7401228,Saint Felix School
+Q7764350,The Simpsons
+Q6970209,National Agency for Food and Drug Administration and Control
+Q7032906,Federal Ministry of Information and National Orientation
+Q7557201,Soldan International Studies High School
+Q834825,Le Mans Université
+Q69808,Vichy France
+Q7526900,Sir George Monoux College
+Q5507658,Fukui University of Technology
+Q6973022,National Health and Medical Research Council
+Q1605137,Hendrix College
+Q249723,Schering-Plough
+Q12204508,Ajman University
+Q9296651,1st General Secondary School named after Nicolaus Copernicus in Łódź
+Q2357515,Stryker Corporation
+Q6861711,Milwaukee Country Day School
+Q4954524,Bradfield College
+Q24940848,Agriculture academy in Dublany
+Q7460307,Shades Valley High School
+Q5046867,Carshalton Boys Sports College
+Q6510660,Leavenworth High School
+Q1286396,Society for Science
+Q7527717,Sir John Deane's College
+Q7056353,North Platte High School
+Q635078,United States Army War College
+Q6805312,Medford High School
+Q11525490,Tokyo Metropolitan Toyama High School
+Q7591939,"St. Thomas College, Thrissur"
+Q6020720,"Indian Institute of Science Education and Research, Thiruvananthapuram"
+Q4571902,Moravian University
+Q6983301,Nazareth Area High School
+Q11815272,State Scientific Institute of Rural Economy in Puławy
+Q5146882,College of the City of New York
+Q1061504,Stockholm School of Economics
+Q184560,Secret Intelligence Service
+Q181419,Benson Idahosa University
+Q1747601,Jackson State University
+Q129527756,Margaret Lawrence University
+Q333718,Johnson & Johnson
+Q7244522,"Princess Alexandra Hospital, Brisbane"
+Q7374738,Royal Prince Alfred Hospital
+Q7595607,St Vincent's Hospital
+Q1424081,Marmara University
+Q5636716,Haberdashers' Aske's School for Girls
+Q1884493,Magnolia Petroleum Company
+Q2914968,Women's Auxiliary Air Force
+Q63418788,British Air Commission
+Q5395822,Erskine College
+Q80171,Vasyl' Stus Donetsk National University
+Q12074695,
+Q8009431,William Fremd High School
+Q7634594,Suffolk University Law School
+Q6784250,Massachusetts Department of Environmental Protection
+Q3279500,All India Institutes of Medical Sciences
+Q3944939,Beltsville Agricultural Research Center
+Q100993106,University of Delhi - South Campus
+Q1129191,Control Data Corporation
+Q1808326,Sultan Qaboos University
+Q702771,Tierpark Berlin
+Q5142896,Colegio San Andrés
+Q3056815,University of Huddersfield
+Q3529297,Nalanda College
+Q2280221,Shrewsbury School
+Q5547834,Georgia Tech Research Institute
+Q1526305,Hebrew Union College – Jewish Institute of Religion – Cincinnati
+Q1888661,Southern Oregon University
+Q1501547,General Atomics
+Q5649375,Hanover College
+Q138182,Beijing Film Academy
+Q7488523,Shanghai Theatre Academy
+Q4392558,Journal of Physical Chemistry
+Q59536987,Molecular Sciences Software Institute
+Q7559974,Somerville House
+Q6120110,University of Toronto Mississauga
+Q20709264,CUNY School of Medicine
+Q97798640,St Trinnean's School
+Q7179813,Pfizer UK
+Q180514,Victoria University
+Q7412111,Samuel Marsden Collegiate School
+Q1520608,University of Cyprus
+Q4661969,Aaron Diamond AIDS Research Center
+Q43895734,Caribou Biosciences
+Q1277357,Edinburgh Napier University
+Q1816202,University of Wolverhampton
+Q1665127,Institut Universitaire de France
+Q6411031,King Edward VI King’s Norton School for Boys
+Q1247564,Robinson College
+Q2007225,Wolfson College
+Q1678733,University of the Free State
+Q100948390,University of Stellenbosch Faculty of Science
+Q3296074,United States Rubber Company
+Q624564,"California State University, Stanislaus"
+Q465952,Amoco
+Q15228323,Ilkley Grammar School
+Q2994406,Conseil national de l'Ordre des médecins
+Q7969801,Warner–Lambert
+Q1064071,Charles Darwin University
+Q4819523,Auckland Girls' Grammar School
+Q2302473,University of Crete
+Q6078098,Isabella Thoburn College
+Q7864725,Grainger College of Engineering
+Q17051097,Health Research Council of New Zealand
+Q759253,Auergesellschaft
+Q436350,University of Duisburg
+Q163255,Botanic Garden and Botanical Museum Berlin
+Q188617,Kew Gardens
+Q1668564,Psyche
+Q2284916,Sigmund Freud Institut
+Q414052,"Academy of Fine Arts, Munich"
+Q7986095,West Nottingham Academy
+Q7645505,Surbiton High School
+Q7751495,The Milne School
+Q17574356,Haagaas School
+Q917374,Norwegian Armed Forces
+Q8008568,William Ellis School
+Q1711558,University of Plymouth
+Q3047150,University of Bedfordshire
+Q7571407,Southwestern College
+Q6978828,National Taipei University of Technology
+Q7851946,Tulane University School of Liberal Arts
+Q7074057,Oakland Technical High School
+Q7005796,New Brunswick High School
+Q104176955,Faculty of Sciences of the University of Zaragoza
+Q690146,National University of Misiones
+Q1410332,National University of Lesotho
+Q1570483,University of Eswatini
+Q3547145,Birmingham City University
+Q61187321,Medical University of Pécs
+Q841999,Kyoto Prefectural University
+Q845138,Japan Advanced Institute of Science and Technology
+Q3268798,Lycée Lamartine
+Q21062258,"Zewail City of Science, Technology and Innovation"
+Q15205156,Broughton High School
+Q5492094,Franklin W. Olin College of Engineering
+Q1076729,Vietnam National University
+Q65056785,Edo State Polytechnic
+Q1805243,Alcorn State University
+Q3551493,Southwestern University
+Q7896167,"University of Puerto Rico, Río Piedras Campus"
+Q7896645,University of Wisconsin–Madison College of Engineering
+Q4359655,Dillard University
+Q1730032,Wilberforce University
+Q15732430,Gokhale Memorial Girls' College
+Q106995996,Astex Pharmaceuticals
+Q7240,Lockheed Martin
+Q6199182,Jimei University
+Q7707444,Texas A&M AgriLife
+Q447354,Clausthal University of Technology
+Q319642,Chevron Corporation
+Q30292440,Golisano Children's Hospital
+Q5764322,Hilo High School
+Q1278253,Eastern Washington University
+Q3151034,"Corps of bridges, waters and forests"
+Q3152372,Institut national agronomique
+Q5033636,"Canterbury College, Kent"
+Q6840881,MidKent College (Gillingham Campus)
+Q86020258,University of Oxford Department of Chemistry
+Q6913736,Morris High School
+Q414936,Akademisches Gymnasium
+Q8564736,Fort Hamilton High School
+Q1229058,Benedictine High School of Pannonhalma
+Q7419896,Santa Rosa Junior College
+Q3759392,Gemological Institute of America
+Q117662714,Syracuse University Department of Chemistry
+Q819312,Bergakademie Berlin
+Q2487322,St Peter's College
+Q5378324,English Martyrs School and Sixth Form College
+Q1367401,Otto Krause Technical School
+Q2307935,University of Udine
+Q3717376,ELETTRA
+Q6973636,list of institutes and centers of the National Institutes of Health
+Q6411486,King Edward Technical College
+Q3551571,université de Bruxelles
+Q6060258,Inverness Royal Academy
+Q7748198,The Long Eaton School
+Q7987275,Westcliff High School for Boys
+Q4916445,Birkenhead School
+Q7595467,St Stanislaus' College
+Q10624540,Perstorp AB
+Q41497113,Sorbonne University
+Q16956307,Theranos
+Q6770937,Marketplace
+Q114306,Wellington College
+Q5901972,Horace Mann School
+Q7586947,St. Andrews University
+Q14715866,Stonehill College
+Q20630716,Chemours
+Q10279390,Faculty of Sciences of the University of Porto
+Q10279483,Faculty of Pharmacy of the University of Porto
+Q1979891,NOVA University Lisbon
+Q10302945,ITQB NOVA
+Q5688196,Hazelwood School
+Q1783191,Youngstown State University
+Q22117108,Royal Veterinary and Agricultural University
+Q20480237,University of Essen
+Q64,Berlin
+Q6373,British Museum
+Q56346339,
+Q2704796,National Space Development Agency
+Q271,Prytanée National Militaire
+Q2255542,Institut Fondamental d'Afrique Noire
+Q7758353,The Principia
+Q117876,Pepperdine University
+Q100993835,University of Rhode Island Narragansett Bay Campus
+Q4957284,Brandywine High School
+Q1805145,Abilene Christian University
+Q40650,Imperial Oil
+Q16979725,Oban High School
+Q18390692,Millom School
+Q1121200,Federation University Australia
+Q7269954,Queen's College
+Q4095278,Manipal Academy of Higher Education
+Q2894927,Bellevue Hospital Center
+Q897052,Bradley University
+Q7856487,Turton High School Media Arts College
+Q1321035,United States Sanitary Commission
+Q30280806,Squibb Institute for Medical Research
+Q6407977,Kilmarnock Academy
+Q351971,Adams State University
+Q1151402,D.E. Shaw
+Q5329199,East Providence High School
+Q894585,Boston Scientific
+Q7127596,Palisades Charter High School
+Q8040597,Wyss Institute for Biologically Inspired Engineering
+Q4983121,Buckhaven High School
+Q7373990,Royal College of Science and Technology
+Q109513799,Bellshill Academy
+Q111634079,Faculty of Chemistry (Weizmann Institute of Science)
+Q7054728,North Central College
+Q2904851,Seattle Pacific University
+Q6911272,Morehouse School of Medicine
+Q463303,American Academy of Arts and Sciences
+Q7435613,Scotland's Rural College
+Q906235,Bashkir State University
+Q1814435,University of New England
+Q161057,Fraunhofer Society
+Q616905,University of Augsburg
+Q683116,Swiss Federal Laboratories for Materials Science and Technology
+Q1912063,Max Planck Institute for Biogeochemistry
+Q1191344,Northern Illinois University
+Q17105410,Federal University of Technology Minna
+Q3822734,Royal Infirmary of Edinburgh
+Q606815,University of Pannonia
+Q851164,Corvinus University of Budapest
+Q12816583,Táncsics Mihály Gimnázium
+Q60795500,MSZMP Political College
+Q6979266,National University of Salta
+Q5472130,Fort Street High School
+Q3244291,Adamson University
+Q4916871,Birmingham–Southern College
+Q6966104,Narodowy Instytut Zdrowia Publicznego – Państwowy Zakład Higieny
+Q24948375,National Medicines Institute
+Q108875436,Texas A&M University College of Engineering
+Q2166701,Wilfrid Laurier University
+Q16900469,St Mary's Hospital Medical School
+Q83602,homeschooling
+Q1246977,Institute of Red Professors
+Q4201801,Institute of Philosophy
+Q4228949,Kola Science Centre RAS
+Q4294140,Fersman Mineralogical Museum
+Q3122623,Jean Sturm Gymnasium
+Q17355545,Séminaire protestant de Strasbourg
+Q3064278,Faculté de médecine de Strasbourg
+Q4917646,Bishop McDevitt High School
+Q7980233,Weinberg College of Arts and Sciences
+Q1794356,National Research Centre Kurchatov Institute
+Q4899415,Beverley Grammar School
+Q116521432,Carnegie Institution of Washington
+Q1607008,Provincial Deputation of Barcelona
+Q5945760,Institut del Teatre
+Q7588749,St. John's High School
+Q4930752,Blundell's School
+Q11655231,Kaisei Junior & Senior High School
+Q7813855,Tokyo City University
+Q7616052,Steyning Grammar School
+Q7650263,Sutton Grammar School
+Q3943517,SDA Bocconi School of Management
+Q3930985,
+Q2039033,Universidad Nacional de Asunción
+Q959524,Bocconi University
+Q6411531,King Edward VI School
+Q649830,Sorø Academy
+Q1135137,Corpus Christi College
+Q1902016,Marlborough College
+Q4303883,Moscow Mining Academy
+Q4127514,All-Russian Scientific-Research Institute Of Mineral Resources named after N.M. Fedorovsky
+Q6912519,Morley College
+Q7282173,Rafael Hernández National College
+Q7896584,University of Washington School of Medicine
+Q4128093,Second Moscow State University
+Q4201628,A.V. Topchiev Institute of Petrochemical Synthesis
+Q2903923,Yeshiva Torah Vodaas
+Q7278540,Rabbi Isaac Elchanan Theological Seminary
+Q2426185,S. I. Georgievsky Crimean State Medical University
+Q17749157,V.I. Vernadsky Crimean Federal University
+Q114415800,Scuola Normale Superiore. Classe di Scienze
+Q2297486,Università degli Studi Roma Tre
+Q7983893,Wesley College
+Q1567092,Max Planck Institute for Heart and Lung Research
+Q52110191,ELTE Faculty of Science
+Q2047109,Quaid-i-Azam University
+Q13139758,Lahore University of Management Sciences
+Q13650874,"Mount Sinai Hospital, Toronto"
+Q6134639,James Gillespie's High School
+Q1544881,University of Tampere
+Q204441,Istituto Giannina Gaslini
+Q913148,Hospital of Santa Maria Nuova
+Q1073674,University of Milan-Bicocca
+Q2034556,San Martino Polyclinic Hospital
+Q30282531,MultiMedica
+Q1607075,Leibniz Institute for Tropospheric Research
+Q6269111,Joint BioEnergy Institute
+Q40216359,Sandia National Laboratories California
+Q101009304,University of Western Ontario Faculty of Science
+Q7743384,The John Lyon School
+Q441857,University of Frankfurt
+Q590267,Alexander von Humboldt Foundation
+Q51780151,European Institute of Chemistry and Biology
+Q61932989,Régulations Naturelle et Artificielle
+Q96193275,Université Lyon 1
+Q7262368,Putney High School
+Q6819263,Meriden School
+Q823635,Royal Australian Air Force
+Q38736206,British Industrial Solvents
+Q5527032,Gateacre School
+Q110906033,Ecole Polytechnique Federale de Lausanne Lemaitre Lab
+Q828261,Gymnasium am Ostring
+Q14310,Yerkes Observatory
+Q1874094,Ludwig-Georgs-Gymnasium
+Q1351317,Damascus University
+Q1235280,Piarist Gymnasium of Budapest
+Q1622244,Eberswalde University for Sustainable Development
+Q1109215,Collegium Fridericianum
+Q221175,Latin school
+Q318186,Französisches Gymnasium Berlin
+Q1912076,Max Planck Institute of Immunobiology and Epigenetics
+Q195183,Lessing-Gymnasium
+Q48754629,Nassau Institute of Agriculture
+Q294469,Theresianum
+Q3657897,American College of Sofia
+Q7686281,Tarkio College
+Q674277,BASF Schweiz AG
+Q2983769,College of Juilly
+Q789848,Ministry for Europe and Foreign Affairs
+Q3595149,National Geophysical Research Institute
+Q1141452,Western Sydney University
+Q6165980,"Jawaharlal Nehru Medical College, Aligarh"
+Q6869651,Minto Circle
+Q7731813,The Ellen Wilkinson School for Girls
+Q5313250,Dukwon High School
+Q7306018,Redland High School for Girls
+Q1787152,Weber State University
+Q24637302,Yorkshire College
+Q556098,Pace University
+Q28211133,Tain Royal Academy
+Q5553434,Haberdashers' Aske's Boys' School
+Q628051,Autodesk
+Q10857990,John F. Kennedy University
+Q4671508,Academy of Our Lady/Spalding Institute
+Q7166150,Peoria Notre Dame High School
+Q5044478,Carol Morgan School
+Q915217,SLAC National Accelerator Laboratory
+Q7587691,St. Cuthbert's High School
+Q59114,Constructor University Bremen
+Q38589917,DowDuPont
+Q4754352,Andhra Medical College
+Q6861650,Milwaukee-Downer College
+Q1988022,Sanquin
+Q2406409,Leiden University Medical Center
+Q339484,Franklin Institute
+Q3015273,Naval Air Warfare Center Warminster
+Q6350383,Kalamazoo College
+Q4201612,Engelhardt Institute of Molecular Biology
+Q4201793,Pavlov Institute of Physiology of the Russian Academy of Sciences
+Q10921986,Harbin Medical University
+Q2887307,Seminary of Bergara
+Q815432,Keio University
+Q7896694,University of the Cape of Good Hope
+Q8022149,Williston Northampton School
+Q709204,Sapporo Agricultural College
+Q1143261,Ministry of Defence
+Q28473583,Qazan Second Male Gymnasium
+Q7059451,Northgate High School
+Q4173330,University of Lorraine
+Q3064273,Faculté de médecine d'Alger
+Q528231,"Goldsmiths, University of London"
+Q20714098,Wellcome Research Laboratories
+Q7373991,Royal College of Surgeons
+Q6410877,King's College
+Q1546906,Ca' Foscari University of Venice
+Q788375,Gresham College
+Q4459624,Poison laboratory of the Soviet secret services
+Q7813941,Tokyo Medical University
+Q5000018,Burnley Grammar School
+Q7186815,Phoenix College
+Q110597698,
+Q12335994,Slagelse Gymnasium
+Q2986634,Geological Survey of Canada
+Q11440085,Osaka Medical and Pharmaceutical University
+Q7353835,Roche Institute of Molecular Biology
+Q15242189,Leeds Modern School
+Q12127758,"3 Shevchenka Street, Kropyvnytskyi"
+Q4201431,Institute of Bioorganic Chemistry
+Q58878019,Imperial Forestry Institute
+Q107387896,St Bartholomew's Medical College
+Q7851548,Tufts University School of Engineering
+Q4971893,Broad Institute
+Q11471484,
+Q7555032,Sojo University
+Q16951,Nanyang Model High School
+Q5698213,Hefei University of Technology
+Q539881,University of La Laguna
+Q4952658,Boys High School
+Q4952707,Boys and Girls High School
+Q5149901,Columbia University School of General Studies
+Q7966759,Walton High School
+Q14706609,Jamaica High School
+Q2319266,Guinness Brewery
+Q29897367,Vilna Realschule
+Q55333895,
+Q60572651,
+Q7343847,Staunton High School
+Q4022424,South Philadelphia High School
+Q57913869,Kyiv Polytechnic Institute of Emperor Alexander II
+Q262250,International Crops Research Institute for the Semi-Arid Tropics
+Q1456658,Schumacher College
+Q1665170,Institute of Noetic Sciences
+Q72,Zurich
+Q3166571,Lancaster Royal Grammar School
+Q7053225,Norra Real
+Q66058229,P.J. Kipp & Zonen
+Q7516842,Silverton High School
+Q1017974,Butler University
+Q47510165,École d'administration
+Q3152112,Montreal Clinical Research Institute
+Q17212237,Makinohara Municipal Jitōgata Primary School
+Q909974,Tokyo University of Agriculture
+Q11581418,Morioka Agriculture and Forestry High School
+Q3578220,École nationale supérieure de chimie de Mulhouse
+Q273584,"École nationale supérieure des industries chimiques (ENSIC, Nancy)"
+Q3510740,Séminaire Saint-Joseph de Trois-Rivières
+Q7367225,Rosalind Franklin University of Medicine and Science
+Q467269,Cheltenham College
+Q2926607,Tata Chemicals Europe
+Q6898582,Mond Nickel Company
+Q17750203,
+Q8059754,Ysgol Syr Thomas Jones
+Q11722834,Environment Centre
+Q157701,Jaroslav Heyrovský
+Q31392,Comenius University
+Q3268696,lycée Georges-Clemenceau
+Q106559589,École de médecine de Nantes
+Q3563550,"Faculty of Arts, Charles University in Prague"
+Q1584160,Royal College of Surgeons of England
+Q63344317,
+Q3145308,Hôpital de la marine
+Q1972136,University of Algarve
+Q3268876,Lycée Pasteur
+Q3443446,Roussel Uclaf
+Q8484,lycée du Parc
+Q3695416,Forman Christian College
+Q5243020,"Dayal Singh College, Lahore"
+Q25539676,D.A.V. College Managing Committee
+Q1045842,The Cheesecake Factory
+Q107201837,ZanGen Pharmaceuticals
+Q16656914,Kazan State Agrarian University
+Q6391891,Kent School
+Q2782346,Saint Petersburg State Forest Technical University
+Q18331598,Sea Point High School
+Q4204279,United States Army Soldier Systems Center
+Q1124228,Royal College of Surgeons in Ireland
+Q3098071,Dublin Institute of Technology
+Q2503794,Northumbria University
+Q10387902,Universidade de Santo Amaro
+Q1631821,Universidad Michoacana de San Nicolás de Hidalgo
+Q6470215,Lady Hardinge Medical College
+Q6973680,"National Institute of Nutrition, Hyderabad"
+Q14957064,Institute of Science
+Q698950,Berlin Observatory
+Q2346031,Bothkamp Observatory
+Q1234028,Nickelhütte Aue
+Q1596484,Heinrich-von-Gagern-Gymnasium
+Q1417869,Martino-Katharineum
+Q31837791,
+Q7987907,Western High School
+Q7961213,Waksman Institute of Microbiology
+Q3551383,Bishop's University
+Q5680304,Hastings College
+Q2916582,Gymnasia Rehavia
+Q4026988,University of Evansville
+Q495347,University of Isfahan
+Q2272814,Miles College
+Q7984990,West Downs School
+Q28136204,New York Genome Center
+Q3138607,MIT Lincoln Laboratory
+Q5090408,Science History Institute
+Q7618157,Stockport Grammar School
+Q6411517,King Edward VI Camp Hill School for Boys
+Q1367577,Tennessee Valley Authority
+Q7587252,St. Bees School
+Q30281318,SmithKline Beecham
+Q202952,Hochschule Mittweida
+Q306736,Abbotsholme School
+Q2212983,Saint Michael's College
+Q2963304,Booth School of Business
+Q5049183,Cass Technical High School
+Q8012895,Stanford Law School
+Q483551,Walmart
+Q8059719,Ysgol Dyffryn Conwy
+Q86026912,University of Sussex School of Life Sciences
+Q626848,Korea Atomic Energy Research Institute
+Q4869321,Batley Grammar School
+Q4698657,Aireborough Grammar School
+Q7896362,University of Strathclyde Faculty of Science
+Q422013,AGA (Sweden)
+Q11602375,Fifth High School
+Q7291803,Randolph College
+Q5158956,Concordia College
+Q85754692,Crows Nest Boys High School
+Q1532470,Kennesaw State University
+Q4677673,Ark Acton Academy
+Q7604351,Stationers' Company's School
+Q7587249,St. Bede's Grammar School
+Q16154932,Upton Court Grammar School
+Q15226719,Hulme Grammar School
+Q6658548,Liverpool Royal Institution
+Q7894606,"University College, Bristol"
+Q2726949,Ministry of Higher Education and Research
+Q101019128,Duke University Department of Biochemistry
+Q6094511,Ithaca High School
+Q16733633,"Holy Child High School, Ghana"
+Q19975525,St Monica's Senior High School
+Q13645072,Long Beach Polytechnic High School
+Q574316,Illinois College
+Q4218999,Case School of Engineering
+Q1148782,Kumamoto University
+Q1377836,European Research Council
+Q7059380,Northfield Mount Hermon School
+Q104416069,Division of Industrial Hygiene
+Q18748726,"Royal Botanic Gardens, Kew"
+Q5945112,Huntingdon College
+Q3086568,Imam Khomeini International University
+Q85749159,Broadway High School
+Q14957107,Nil Ratan Sircar Medical College and Hospital
+Q1811146,University of the Balearic Islands
+Q5149656,Columbia College
+Q7765598,The Southport School
+Q1331280,United States Air Force Academy
+Q24958519,University of Kisubi
+Q2470103,Sint-Barbaracollege
+Q2525974,Sint-Lievenscollege
+Q6957385,Nada Junior and Senior High School
+Q140358207,Viborgs klassiska lyceum
+Q2625965,Valio
+Q4940227,Bolton School
+Q10726782,Akademické gymnázium Štěpánská
+Q7374234,Royal Grammar School
+Q101244855,
+Q124459339,Gymnasium Crossen
+Q6538152,Leyton Sixth Form College
+Q1284960,Edith Cowan University
+Q3933220,Repton School
+Q2994933,La Martiniere Lucknow
+Q5639547,Hairenik
+Q5088830,Cheam School
+Q7592927,St Cyprian's School
+Q6973712,"National Institute of Technology, Durgapur"
+Q19637838,Sibpur S.S.P.S. Vidyalaya
+Q49768,Social Democratic Party of Germany
+Q871045,"IG Bergbau, Chemie, Energie"
+Q1388394,Stiftung Arbeit und Umwelt
+Q7781988,Theodore Roosevelt High School
+Q7369684,Ross University School of Medicine
+Q7521073,Simpson College
+Q61932835,The Faraday Institution
+Q7073699,Oak Ridge High School
+Q6202608,Nanjing Jinling High School
+Q5278784,Diocesan School for Girls
+Q464880,American Heart Association
+Q7015441,Institute for Crop and Food Research
+Q5516453,Gadsden High School
+Q1852556,Philip Morris International
+Q3049027,Pakistan Atomic Energy Commission
+Q11143144,
+Q10926164,National Academy of Peiping
+Q8047472,Yali School
+Q30281882,Institute of Biophysics
+Q1326230,Nihon University
+Q16237220,Beaminster Grammar School
+Q6040925,Institute of Technology (California/Oregon)
+Q5025812,The Camden School for Girls
+Q45134992,"Stanford Humanities Center, Stanford University"
+Q7066897,Nowrosjee Wadia College
+Q16893245,"Kendriya Vidyalaya, IISc Bangalore"
+Q140077161,Misses Rayson's Boarding and Day School
+Q7621242,Strand School
+Q522119,"Green College, Oxford"
+Q4999244,Burlington High School
+Q4029848,
+Q1109207,Collegium Carolinum
+Q11971813,Oslo Geological Museum
+Q6686153,Loughborough College
+Q5328588,East High School
+Q6802145,McLean High School
+Q5854893,"Faculty of Pharmacy and Biochemistry, University of Buenos Aires"
+Q5560288,Giggleswick School
+Q1615077,Herzberg Institute of Astrophysics
+Q4879151,Bedford High School
+Q2002619,Nottingham Trent University
+Q7587046,St Anselm's College
+Q6771657,Marlborough Boys' College
+Q7310077,Reigate Grammar School
+Q3777738,Belvedere College
+Q7592981,St Dunstan's College
+Q258943,James Madison University
+Q5120242,Cincinnati Country Day School
+Q1739877,Leibniz Institute for Polymer Research
+Q679041,Robert Koch Institute
+Q99285406,University of Arkansas - Rome Center
+Q729391,University of Extremadura
+Q28134575,Catalan Institute of Nanoscience and Nanotechnology
+Q6040640,Institute of Molecular Biology and Genetics of NASU
+Q314305,Witten/Herdecke University
+Q2325266,"State Secretariat for Education, Research and Innovation"
+Q2605554,ZHAW Zurich University of Applied Sciences
+Q110636214,Max Planck Institute for Multidisciplinary Sciences
+Q20876063,Catalan Institute of Chemical Research
+Q7145106,Patna Medical College and Hospital
+Q15177600,"All India Institute of Medical Sciences, New Delhi"
+Q18128561,"National Institute of Immunology, India"
+Q5086970,Charuchandra College
+Q3347871,Indian Association for the Cultivation of Science
+Q54489,"Royal Botanic Gardens, Sydney"
+Q3731149,Harvard University Herbaria
+Q29025036,National Herbarium of New South Wales
+Q1474100,Old Dominion University
+Q10387814,State University of Santa Cruz

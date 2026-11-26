@@ -111,5 +111,12 @@ if __name__ == "__main__":
     if cmd == "data":
         out = build_data()
         print({k: len(v) for k, v in out.items()})
+    elif cmd == "analyses":
+        from . import export
+        res = export.run_all()
+        print(f"analyses done in {res['seconds']}s")
+        for k, v in sorted(res["sizes"].items()):
+            if not k.startswith("details/"):
+                print(f"  {k:24} {v / 1024:8.1f} KB")
     else:
         raise SystemExit(f"unknown command {cmd}")

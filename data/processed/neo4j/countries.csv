@@ -1,0 +1,292 @@
+label,iso3,modern_name,kind,region,lat,lon
+United States,USA,United States,modern,North America,39.5,-95.5
+Germany,DEU,Germany,modern,Western Europe,51.2,10.4
+United Kingdom,GBR,United Kingdom,modern,Western Europe,53.5,-1.8
+France,FRA,France,modern,Western Europe,46.6,2.4
+Canada,CAN,Canada,modern,North America,49.5,-88.0
+India,IND,India,modern,South Asia,21.0,78.0
+People's Republic of China,CHN,China,modern,East Asia,33.0,108.0
+China,CHN,China,modern,East Asia,33.0,108.0
+Australia,AUS,Australia,modern,Oceania,-28.0,140.0
+Poland,POL,Poland,modern,Central & Eastern Europe,52.1,19.4
+Sweden,SWE,Sweden,modern,Northern Europe,60.1,15.6
+Switzerland,CHE,Switzerland,modern,Western Europe,46.8,8.2
+Austria,AUT,Austria,modern,Western Europe,47.6,14.1
+Japan,JPN,Japan,modern,East Asia,36.2,138.3
+Kingdom of the Netherlands,NLD,Netherlands,modern,Western Europe,52.2,5.5
+Netherlands,NLD,Netherlands,modern,Western Europe,52.2,5.5
+Israel,ISR,Israel,modern,Middle East & North Africa,31.4,35.0
+New Zealand,NZL,New Zealand,modern,Oceania,-41.0,174.0
+Spain,ESP,Spain,modern,Southern Europe,40.2,-3.7
+Hungary,HUN,Hungary,modern,Central & Eastern Europe,47.2,19.5
+Russia,RUS,Russia,modern,Former USSR,55.8,37.6
+Italy,ITA,Italy,modern,Southern Europe,42.8,12.6
+Norway,NOR,Norway,modern,Northern Europe,60.5,9.0
+Kingdom of Denmark,DNK,Denmark,modern,Northern Europe,56.0,10.0
+Belgium,BEL,Belgium,modern,Western Europe,50.6,4.6
+Argentina,ARG,Argentina,modern,Latin America & Caribbean,-34.0,-64.0
+Romania,ROU,Romania,modern,Central & Eastern Europe,45.9,24.9
+Estonia,EST,Estonia,modern,Northern Europe,58.6,25.0
+Brazil,BRA,Brazil,modern,Latin America & Caribbean,-14.2,-51.9
+Mexico,MEX,Mexico,modern,Latin America & Caribbean,23.6,-102.5
+Nigeria,NGA,Nigeria,modern,Sub-Saharan Africa,9.1,8.7
+Taiwan,TWN,Taiwan,modern,East Asia,23.7,121.0
+Czech Republic,CZE,Czech Republic,modern,Central & Eastern Europe,49.8,15.5
+Ireland,IRL,Ireland,modern,Western Europe,53.2,-8.0
+South Korea,KOR,South Korea,modern,East Asia,36.5,127.8
+Iran,IRN,Iran,modern,Middle East & North Africa,32.4,53.7
+South Africa,ZAF,South Africa,modern,Sub-Saharan Africa,-30.6,22.9
+Greece,GRC,Greece,modern,Southern Europe,39.1,22.0
+Finland,FIN,Finland,modern,Northern Europe,62.0,25.7
+Turkey,TUR,Turkey,modern,Middle East & North Africa,39.0,35.2
+Pakistan,PAK,Pakistan,modern,South Asia,30.4,69.3
+Portugal,PRT,Portugal,modern,Southern Europe,39.6,-8.0
+Chile,CHL,Chile,modern,Latin America & Caribbean,-33.5,-70.7
+Bulgaria,BGR,Bulgaria,modern,Central & Eastern Europe,42.7,25.5
+Egypt,EGY,Egypt,modern,Middle East & North Africa,26.8,30.8
+Slovenia,SVN,Slovenia,modern,Central & Eastern Europe,46.1,14.8
+Philippines,PHL,Philippines,modern,Southeast Asia,12.9,121.8
+Ukraine,UKR,Ukraine,modern,Former USSR,49.0,31.2
+Bangladesh,BGD,Bangladesh,modern,South Asia,23.7,90.4
+Ghana,GHA,Ghana,modern,Sub-Saharan Africa,7.9,-1.0
+Peru,PER,Peru,modern,Latin America & Caribbean,-9.2,-75.0
+Latvia,LVA,Latvia,modern,Northern Europe,56.9,24.6
+Colombia,COL,Colombia,modern,Latin America & Caribbean,4.6,-74.3
+Lithuania,LTU,Lithuania,modern,Northern Europe,55.2,23.9
+Serbia,SRB,Serbia,modern,Central & Eastern Europe,44.0,20.9
+Uruguay,URY,Uruguay,modern,Latin America & Caribbean,-32.5,-55.8
+Croatia,HRV,Croatia,modern,Central & Eastern Europe,45.1,15.2
+Malaysia,MYS,Malaysia,modern,Southeast Asia,4.2,101.98
+Vietnam,VNM,Vietnam,modern,Southeast Asia,14.1,108.3
+Uganda,UGA,Uganda,modern,Sub-Saharan Africa,1.4,32.3
+Armenia,ARM,Armenia,modern,Former USSR,40.1,45.0
+Venezuela,VEN,Venezuela,modern,Latin America & Caribbean,6.4,-66.6
+Luxembourg,LUX,Luxembourg,modern,Western Europe,49.8,6.1
+Saudi Arabia,SAU,Saudi Arabia,modern,Middle East & North Africa,23.9,45.1
+Uzbekistan,UZB,Uzbekistan,modern,Former USSR,41.4,64.6
+Kazakhstan,KAZ,Kazakhstan,modern,Former USSR,48.0,67.0
+Slovakia,SVK,Slovakia,modern,Central & Eastern Europe,48.7,19.7
+Jamaica,JAM,Jamaica,modern,Latin America & Caribbean,18.1,-77.3
+Azerbaijan,AZE,Azerbaijan,modern,Former USSR,40.1,47.6
+Kenya,KEN,Kenya,modern,Sub-Saharan Africa,-0.02,37.9
+Senegal,SEN,Senegal,modern,Sub-Saharan Africa,14.5,-14.5
+Ethiopia,ETH,Ethiopia,modern,Sub-Saharan Africa,9.1,40.5
+Cuba,CUB,Cuba,modern,Latin America & Caribbean,21.5,-77.8
+Trinidad and Tobago,TTO,Trinidad and Tobago,modern,Latin America & Caribbean,10.7,-61.2
+Moldova,MDA,Moldova,modern,Former USSR,47.4,28.4
+Morocco,MAR,Morocco,modern,Middle East & North Africa,31.8,-7.1
+Sri Lanka,LKA,Sri Lanka,modern,South Asia,7.9,80.8
+Cyprus,CYP,Cyprus,modern,Southern Europe,35.0,33.2
+Iraq,IRQ,Iraq,modern,Middle East & North Africa,33.2,43.7
+Nepal,NPL,Nepal,modern,South Asia,28.4,84.1
+Zimbabwe,ZWE,Zimbabwe,modern,Sub-Saharan Africa,-19.0,29.2
+Thailand,THA,Thailand,modern,Southeast Asia,15.9,100.99
+Ivory Coast,CIV,Ivory Coast,modern,Sub-Saharan Africa,7.5,-5.5
+Kuwait,KWT,Kuwait,modern,Middle East & North Africa,29.3,47.5
+Costa Rica,CRI,Costa Rica,modern,Latin America & Caribbean,9.7,-83.8
+Georgia,GEO,Georgia,modern,Former USSR,42.3,43.4
+Indonesia,IDN,Indonesia,modern,Southeast Asia,-2.5,118.0
+Honduras,HND,Honduras,modern,Latin America & Caribbean,15.2,-86.2
+Singapore,SGP,Singapore,modern,Southeast Asia,1.35,103.8
+Jordan,JOR,Jordan,modern,Middle East & North Africa,31.2,36.5
+Haiti,HTI,Haiti,modern,Latin America & Caribbean,18.97,-72.3
+Angola,AGO,Angola,modern,Sub-Saharan Africa,-11.2,17.9
+Belarus,BLR,Belarus,modern,Former USSR,53.7,28.0
+Albania,ALB,Albania,modern,Central & Eastern Europe,41.2,20.2
+North Korea,PRK,North Korea,modern,East Asia,40.3,127.5
+Yemen,YEM,Yemen,modern,Middle East & North Africa,15.6,48.5
+United Arab Emirates,ARE,United Arab Emirates,modern,Middle East & North Africa,23.4,53.8
+Cameroon,CMR,Cameroon,modern,Sub-Saharan Africa,7.4,12.4
+Guatemala,GTM,Guatemala,modern,Latin America & Caribbean,15.8,-90.2
+Palestine,PSE,Palestine,modern,Middle East & North Africa,31.9,35.2
+Papua New Guinea,PNG,Papua New Guinea,modern,Oceania,-6.3,143.96
+Sudan,SDN,Sudan,modern,Sub-Saharan Africa,12.9,30.2
+Democratic Republic of the Congo,COD,Democratic Republic of the Congo,modern,Sub-Saharan Africa,-4.0,21.8
+Lebanon,LBN,Lebanon,modern,Middle East & North Africa,33.9,35.9
+Syria,SYR,Syria,modern,Middle East & North Africa,34.8,38.9
+Somalia,SOM,Somalia,modern,Sub-Saharan Africa,5.2,46.2
+Mauritius,MUS,Mauritius,modern,Sub-Saharan Africa,-20.3,57.6
+El Salvador,SLV,El Salvador,modern,Latin America & Caribbean,13.8,-88.9
+Algeria,DZA,Algeria,modern,Middle East & North Africa,28.0,1.7
+Niger,NER,Niger,modern,Sub-Saharan Africa,17.6,8.1
+Myanmar,MMR,Myanmar,modern,Southeast Asia,21.9,96.0
+Benin,BEN,Benin,modern,Sub-Saharan Africa,9.3,2.3
+Liechtenstein,LIE,Liechtenstein,modern,Western Europe,47.2,9.6
+Bolivia,BOL,Bolivia,modern,Latin America & Caribbean,-16.3,-63.6
+North Macedonia,MKD,North Macedonia,modern,Central & Eastern Europe,41.6,21.7
+Mongolia,MNG,Mongolia,modern,East Asia,46.9,103.8
+Namibia,NAM,Namibia,modern,Sub-Saharan Africa,-22.96,18.5
+Mozambique,MOZ,Mozambique,modern,Sub-Saharan Africa,-18.7,35.5
+Tanzania,TZA,Tanzania,modern,Sub-Saharan Africa,-6.4,34.9
+Dominica,DMA,Dominica,modern,Latin America & Caribbean,15.4,-61.4
+Eswatini,SWZ,Eswatini,modern,Sub-Saharan Africa,-26.5,31.5
+Bosnia and Herzegovina,BIH,Bosnia and Herzegovina,modern,Central & Eastern Europe,43.9,17.7
+Kyrgyzstan,KGZ,Kyrgyzstan,modern,Former USSR,41.2,74.8
+Tunisia,TUN,Tunisia,modern,Middle East & North Africa,34.0,9.5
+Kosovo,XKX,Kosovo,modern,Central & Eastern Europe,42.6,20.9
+Ecuador,ECU,Ecuador,modern,Latin America & Caribbean,-1.8,-78.2
+Equatorial Guinea,GNQ,Equatorial Guinea,modern,Sub-Saharan Africa,1.7,10.3
+Libya,LBY,Libya,modern,Middle East & North Africa,26.3,17.2
+Belize,BLZ,Belize,modern,Latin America & Caribbean,17.2,-88.5
+Oman,OMN,Oman,modern,Middle East & North Africa,21.5,55.9
+Madagascar,MDG,Madagascar,modern,Sub-Saharan Africa,-18.8,46.9
+Lesotho,LSO,Lesotho,modern,Sub-Saharan Africa,-29.6,28.2
+Iceland,ISL,Iceland,modern,Northern Europe,64.9,-18.6
+Cape Verde,CPV,Cape Verde,modern,Sub-Saharan Africa,16.0,-24.0
+Tajikistan,TJK,Tajikistan,modern,Former USSR,38.9,71.3
+Turkmenistan,TKM,Turkmenistan,modern,Former USSR,38.97,59.6
+Burkina Faso,BFA,Burkina Faso,modern,Sub-Saharan Africa,12.2,-1.6
+Paraguay,PRY,Paraguay,modern,Latin America & Caribbean,-23.4,-58.4
+United Kingdom of Great Britain and Ireland,GBR,United Kingdom,historical,Western Europe,53.5,-1.8
+Kingdom of Great Britain,GBR,United Kingdom,historical,Western Europe,53.5,-1.8
+Kingdom of England,GBR,United Kingdom,historical,Western Europe,53.5,-1.8
+England,GBR,United Kingdom,subnational,Western Europe,53.5,-1.8
+Scotland,GBR,United Kingdom,subnational,Western Europe,53.5,-1.8
+Wales,GBR,United Kingdom,subnational,Western Europe,53.5,-1.8
+Kingdom of Ireland,IRL,Ireland,historical,Western Europe,53.2,-8.0
+Irish Free State,IRL,Ireland,historical,Western Europe,53.2,-8.0
+Soviet Union,RUS,Russia,historical,Former USSR,55.8,37.6
+Russian Empire,RUS,Russia,historical,Former USSR,55.8,37.6
+Russian Republic,RUS,Russia,historical,Former USSR,55.8,37.6
+Russian Socialist Federative Soviet Republic,RUS,Russia,historical,Former USSR,55.8,37.6
+Russian Soviet Federative Socialist Republic,RUS,Russia,historical,Former USSR,55.8,37.6
+Ukrainian Soviet Socialist Republic,UKR,Ukraine,historical,Former USSR,49.0,31.2
+Ukrainian People's Republic,UKR,Ukraine,historical,Former USSR,49.0,31.2
+Ukrainian State,UKR,Ukraine,historical,Former USSR,49.0,31.2
+West Ukrainian People's Republic,UKR,Ukraine,historical,Former USSR,49.0,31.2
+Belarusian People's Republic,BLR,Belarus,historical,Former USSR,53.7,28.0
+Armenian Soviet Socialist Republic,ARM,Armenia,historical,Former USSR,40.1,45.0
+Azerbaijan Soviet Socialist Republic,AZE,Azerbaijan,historical,Former USSR,40.1,47.6
+Azerbaijan Democratic Republic,AZE,Azerbaijan,historical,Former USSR,40.1,47.6
+Democratic Republic of Georgia,GEO,Georgia,historical,Former USSR,42.3,43.4
+Transcaucasian Democratic Federative Republic,GEO,Georgia,historical,Former USSR,42.3,43.4
+Kazakh Soviet Socialist Republic,KAZ,Kazakhstan,historical,Former USSR,48.0,67.0
+Moldavian Soviet Socialist Republic,MDA,Moldova,historical,Former USSR,47.4,28.4
+Grand Duchy of Finland,FIN,Finland,historical,Northern Europe,62.0,25.7
+Duchy of Estonia,EST,Estonia,historical,Northern Europe,58.6,25.0
+British Raj,IND,India,historical,South Asia,21.0,78.0
+Dominion of India,IND,India,historical,South Asia,21.0,78.0
+Empire of Japan,JPN,Japan,historical,East Asia,36.2,138.3
+Republic of China,CHN,China,historical,East Asia,33.0,108.0
+Qing dynasty,CHN,China,historical,East Asia,33.0,108.0
+Ming dynasty,CHN,China,historical,East Asia,33.0,108.0
+Eastern Han,CHN,China,historical,East Asia,33.0,108.0
+British Hong Kong,HKG,Hong Kong,historical,East Asia,22.3,114.2
+Kingdom of Prussia,DEU,Germany,historical,Western Europe,51.2,10.4
+Prussia,DEU,Germany,historical,Western Europe,51.2,10.4
+German Reich,DEU,Germany,historical,Western Europe,51.2,10.4
+German Empire,DEU,Germany,historical,Western Europe,51.2,10.4
+Weimar Republic,DEU,Germany,historical,Western Europe,51.2,10.4
+Nazi Germany,DEU,Germany,historical,Western Europe,51.2,10.4
+West Germany,DEU,Germany,historical,Western Europe,51.2,10.4
+German Democratic Republic,DEU,Germany,historical,Western Europe,51.2,10.4
+German Confederation,DEU,Germany,historical,Western Europe,51.2,10.4
+German Empire of 1848/1849,DEU,Germany,historical,Western Europe,51.2,10.4
+Confederation of the Rhine,DEU,Germany,historical,Western Europe,51.2,10.4
+Holy Roman Empire,DEU,Germany,historical,Western Europe,51.2,10.4
+Kingdom of Bavaria,DEU,Germany,historical,Western Europe,51.2,10.4
+Electorate of Bavaria,DEU,Germany,historical,Western Europe,51.2,10.4
+Kingdom of Saxony,DEU,Germany,historical,Western Europe,51.2,10.4
+Electorate of Saxony,DEU,Germany,historical,Western Europe,51.2,10.4
+Kingdom of Württemberg,DEU,Germany,historical,Western Europe,51.2,10.4
+Duchy of Württemberg,DEU,Germany,historical,Western Europe,51.2,10.4
+Kingdom of Hanover,DEU,Germany,historical,Western Europe,51.2,10.4
+Electorate of Hanover,DEU,Germany,historical,Western Europe,51.2,10.4
+Brunswick-Lüneburg,DEU,Germany,historical,Western Europe,51.2,10.4
+Duchy of Brunswick,DEU,Germany,historical,Western Europe,51.2,10.4
+Grand Duchy of Hesse,DEU,Germany,historical,Western Europe,51.2,10.4
+Landgraviate of Hesse-Kassel,DEU,Germany,historical,Western Europe,51.2,10.4
+Landgraviate of Hesse-Darmstadt,DEU,Germany,historical,Western Europe,51.2,10.4
+Electorate of Hesse,DEU,Germany,historical,Western Europe,51.2,10.4
+Grand Duchy of Baden,DEU,Germany,historical,Western Europe,51.2,10.4
+Grand Duchy of Oldenburg,DEU,Germany,historical,Western Europe,51.2,10.4
+Grand Duchy of Mecklenburg-Schwerin,DEU,Germany,historical,Western Europe,51.2,10.4
+Saxe-Weimar-Eisenach,DEU,Germany,historical,Western Europe,51.2,10.4
+Saxe-Coburg and Gotha,DEU,Germany,historical,Western Europe,51.2,10.4
+Saxe-Altenburg,DEU,Germany,historical,Western Europe,51.2,10.4
+Duchy of Saxe-Meiningen,DEU,Germany,historical,Western Europe,51.2,10.4
+Schwarzburg-Rudolstadt,DEU,Germany,historical,Western Europe,51.2,10.4
+Schaumburg-Lippe,DEU,Germany,historical,Western Europe,51.2,10.4
+Principality of Lippe,DEU,Germany,historical,Western Europe,51.2,10.4
+Duchy of Anhalt,DEU,Germany,historical,Western Europe,51.2,10.4
+Anhalt-Bernburg,DEU,Germany,historical,Western Europe,51.2,10.4
+Duchy of Berg,DEU,Germany,historical,Western Europe,51.2,10.4
+Margraviate of Brandenburg,DEU,Germany,historical,Western Europe,51.2,10.4
+Principality of Ansbach,DEU,Germany,historical,Western Europe,51.2,10.4
+Electoral Palatinate,DEU,Germany,historical,Western Europe,51.2,10.4
+Prince-Bishopric of Paderborn,DEU,Germany,historical,Western Europe,51.2,10.4
+Prince-Bishopric of Speyer,DEU,Germany,historical,Western Europe,51.2,10.4
+Prince-Bishopric of Würzburg,DEU,Germany,historical,Western Europe,51.2,10.4
+Free City of Frankfurt,DEU,Germany,historical,Western Europe,51.2,10.4
+Hamburg,DEU,Germany,subnational,Western Europe,51.2,10.4
+Bremen,DEU,Germany,subnational,Western Europe,51.2,10.4
+Lübeck,DEU,Germany,subnational,Western Europe,51.2,10.4
+Austrian Empire,AUT,Austria,historical,Western Europe,47.6,14.1
+Habsburg monarchy,AUT,Austria,historical,Western Europe,47.6,14.1
+Austria–Hungary,AUT,Austria,historical,Western Europe,47.6,14.1
+Cisleithania,AUT,Austria,historical,Western Europe,47.6,14.1
+Kingdom of Hungary,HUN,Hungary,historical,Central & Eastern Europe,47.2,19.5
+Czechoslovakia,CZE,Czech Republic,historical,Central & Eastern Europe,49.8,15.5
+Kingdom of Lombardy–Venetia,ITA,Italy,historical,Southern Europe,42.8,12.6
+Second Polish Republic,POL,Poland,historical,Central & Eastern Europe,52.1,19.4
+Polish People's Republic,POL,Poland,historical,Central & Eastern Europe,52.1,19.4
+Congress Poland,POL,Poland,historical,Central & Eastern Europe,52.1,19.4
+Kingdom of Poland,POL,Poland,historical,Central & Eastern Europe,52.1,19.4
+Duchy of Warsaw,POL,Poland,historical,Central & Eastern Europe,52.1,19.4
+Polish–Lithuanian Commonwealth,POL,Poland,historical,Central & Eastern Europe,52.1,19.4
+Socialist Federal Republic of Yugoslavia,SRB,Serbia,historical,Central & Eastern Europe,44.0,20.9
+Federal People's Republic of Yugoslavia,SRB,Serbia,historical,Central & Eastern Europe,44.0,20.9
+Kingdom of Yugoslavia,SRB,Serbia,historical,Central & Eastern Europe,44.0,20.9
+"Kingdom of Serbs, Croats and Slovenes",SRB,Serbia,historical,Central & Eastern Europe,44.0,20.9
+Yugoslavia,SRB,Serbia,historical,Central & Eastern Europe,44.0,20.9
+Federal Republic of Yugoslavia,SRB,Serbia,historical,Central & Eastern Europe,44.0,20.9
+Serbia and Montenegro,SRB,Serbia,historical,Central & Eastern Europe,44.0,20.9
+Independent State of Croatia,HRV,Croatia,historical,Central & Eastern Europe,45.1,15.2
+Kingdom of Italy,ITA,Italy,historical,Southern Europe,42.8,12.6
+Kingdom of Sardinia,ITA,Italy,historical,Southern Europe,42.8,12.6
+Duchy of Savoy,ITA,Italy,historical,Southern Europe,42.8,12.6
+Grand Duchy of Tuscany,ITA,Italy,historical,Southern Europe,42.8,12.6
+Duchy of Milan,ITA,Italy,historical,Southern Europe,42.8,12.6
+Republic of Venice,ITA,Italy,historical,Southern Europe,42.8,12.6
+Republic of Florence,ITA,Italy,historical,Southern Europe,42.8,12.6
+Papal States,ITA,Italy,historical,Southern Europe,42.8,12.6
+Cisalpine Republic,ITA,Italy,historical,Southern Europe,42.8,12.6
+Prince-Bishopric of Trent,ITA,Italy,historical,Southern Europe,42.8,12.6
+Ancient Rome,ITA,Italy,historical,Southern Europe,42.8,12.6
+Kingdom of France,FRA,France,historical,Western Europe,46.6,2.4
+Dutch Republic,NLD,Netherlands,historical,Western Europe,52.2,5.5
+Batavian Republic,NLD,Netherlands,historical,Western Europe,52.2,5.5
+Holland,NLD,Netherlands,subnational,Western Europe,52.2,5.5
+Denmark–Norway,DNK,Denmark,historical,Northern Europe,56.0,10.0
+Republic of Geneva,CHE,Switzerland,historical,Western Europe,46.8,8.2
+Canton of Geneva,CHE,Switzerland,subnational,Western Europe,46.8,8.2
+Hispanic Monarchy,ESP,Spain,historical,Southern Europe,40.2,-3.7
+al-Andalus,ESP,Spain,historical,Southern Europe,40.2,-3.7
+Caliphate of Córdoba,ESP,Spain,historical,Southern Europe,40.2,-3.7
+Andalusia,ESP,Spain,subnational,Southern Europe,40.2,-3.7
+Kingdom of Portugal,PRT,Portugal,historical,Southern Europe,39.6,-8.0
+Kingdom of Greece,GRC,Greece,historical,Southern Europe,39.1,22.0
+Kingdom of Romania,ROU,Romania,historical,Central & Eastern Europe,45.9,24.9
+United Principalities of Moldavia and Wallachia,ROU,Romania,historical,Central & Eastern Europe,45.9,24.9
+Ottoman Empire,TUR,Turkey,historical,Middle East & North Africa,39.0,35.2
+Kingdom of Pontus,TUR,Turkey,historical,Middle East & North Africa,39.0,35.2
+Abbasid Caliphate,IRQ,Iraq,historical,Middle East & North Africa,33.2,43.7
+Umayyad Caliphate,SYR,Syria,historical,Middle East & North Africa,34.8,38.9
+Buyid dynasty,IRN,Iran,historical,Middle East & North Africa,32.4,53.7
+Samanid Empire,UZB,Uzbekistan,historical,Former USSR,41.4,64.6
+Babylonia,IRQ,Iraq,historical,Middle East & North Africa,33.2,43.7
+Mandatory Palestine,ISR,Israel,historical,Middle East & North Africa,31.4,35.0
+United Arab Republic,EGY,Egypt,historical,Middle East & North Africa,26.8,30.8
+First Syrian Republic,SYR,Syria,historical,Middle East & North Africa,34.8,38.9
+Second Syrian Republic,SYR,Syria,historical,Middle East & North Africa,34.8,38.9
+Union of South Africa,ZAF,South Africa,historical,Sub-Saharan Africa,-30.6,22.9
+Cape Colony,ZAF,South Africa,historical,Sub-Saharan Africa,-30.6,22.9
+Portuguese Cape Verde,CPV,Cape Verde,historical,Sub-Saharan Africa,16.0,-24.0
+New Spain,MEX,Mexico,historical,Latin America & Caribbean,23.6,-102.5
+Province of Canada,CAN,Canada,historical,North America,49.5,-88.0
+Republic of Hawaii,USA,United States,historical,North America,39.5,-95.5
+Crown Colony of Malta,MLT,Malta,historical,Southern Europe,35.9,14.4
+Northern Cyprus,CYP,Cyprus,historical,Southern Europe,35.0,33.2
+statelessness,,,non_country,,,
+British Pakistanis,,,non_country,,,
+Santa Prisca,,,non_country,,,
