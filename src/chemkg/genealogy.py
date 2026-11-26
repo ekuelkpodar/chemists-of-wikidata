@@ -83,7 +83,7 @@ def metrics(g: nx.DiGraph, seed: int = 42) -> pd.DataFrame:
     comms = nx.community.louvain_communities(g.to_undirected(), seed=seed, resolution=1.0)
     cid = {n: i for i, c in enumerate(sorted(comms, key=len, reverse=True)) for n in c}
     df["community"] = df.qid.map(cid)
-    return df.sort_values("descendants", ascending=False).reset_index(drop=True)
+    return df.sort_values(["descendants", "qid"], ascending=[False, True], kind="stable").reset_index(drop=True)
 
 
 def family_trees(g: nx.DiGraph, m: pd.DataFrame, k: int = 10, max_nodes: int = 1500) -> list[dict]:
@@ -96,7 +96,7 @@ def family_trees(g: nx.DiGraph, m: pd.DataFrame, k: int = 10, max_nodes: int = 1
     # covered by roots already chosen.
     chem = {n for n, d in g.nodes(data=True) if d["in_dataset"]}
     chosen, covered = [], set()
-    for r in m[m.is_root].sort_values(["chem_descendants", "birth_year"], ascending=[False, True]).itertuples():
+    for r in m[m.is_root].sort_values(["chem_descendants", "birth_year", "qid"], ascending=[False, True, True], kind="stable").itertuples():
         if len(chosen) == k:
             break
         cd = nx.descendants(g, r.qid) & chem
@@ -131,7 +131,7 @@ def chemist_families(g: nx.DiGraph, m: pd.DataFrame, k: int = 10) -> list[dict]:
     """Chemistry's own founding families: in-dataset chemists ranked by chemist descendants,
     greedily skipping anyone who is a descendant of an already chosen founder."""
     chosen, covered = [], set()
-    for r in m[m.in_dataset].sort_values("chem_descendants", ascending=False).itertuples():
+    for r in m[m.in_dataset].sort_values(["chem_descendants", "qid"], ascending=[False, True], kind="stable").itertuples():
         if len(chosen) == k:
             break
         if r.qid in covered:

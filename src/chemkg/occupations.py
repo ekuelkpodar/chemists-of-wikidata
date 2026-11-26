@@ -54,14 +54,17 @@ def cooccurrence(person_occupation: pd.DataFrame, people_ok: set[str]) -> tuple[
                          columns=["a", "b", "n"])
     if len(edges):
         edges["jaccard"] = edges.n / (edges.a.map(n) + edges.b.map(n) - edges.n)
-    return nodes, edges.sort_values("n", ascending=False).reset_index(drop=True)
+    nodes = nodes.sort_values("occupation", kind="stable").reset_index(drop=True)
+    if not len(edges):
+        return nodes, edges
+    return nodes, edges.sort_values(["n", "a", "b"], ascending=[False, True, True], kind="stable").reset_index(drop=True)
 
 
 def first_appearance(person_occupation: pd.DataFrame, people: pd.DataFrame, k: int = 3) -> pd.DataFrame:
     """Per occupation: earliest holder's birth year, and the birth year by which k holders
     exist (robust to single mis-tagged early figures), plus total holders with a birth year."""
     po = annotate(person_occupation).merge(people[["qid", "name", "birth_year"]], on="qid")
-    po = po.dropna(subset=["birth_year"]).sort_values("birth_year")
+    po = po.dropna(subset=["birth_year"]).sort_values(["birth_year", "qid"], kind="stable")
     rows = []
     for occ, g in po.groupby("occupation"):
         rows.append({"occupation": occ, "domain": g.domain.iloc[0],
@@ -69,7 +72,7 @@ def first_appearance(person_occupation: pd.DataFrame, people: pd.DataFrame, k: i
                      "first_qid": g.qid.iloc[0],
                      f"year_k{k}": int(g.birth_year.iloc[k - 1]) if len(g) >= k else None,
                      "median_year": float(g.birth_year.median()), "n": int(len(g))})
-    return pd.DataFrame(rows).sort_values(f"year_k{k}", na_position="last").reset_index(drop=True)
+    return pd.DataFrame(rows).sort_values([f"year_k{k}", "occupation"], na_position="last", kind="stable").reset_index(drop=True)
 
 
 def growth_by_decade(person_occupation: pd.DataFrame, people: pd.DataFrame,

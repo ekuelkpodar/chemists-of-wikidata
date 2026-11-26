@@ -86,14 +86,16 @@ def build_edges(ds: Dataset) -> pd.DataFrame:
 
 def summarise(edges: pd.DataFrame) -> dict:
     d = edges[~edges.method.isin(["undirected", "border_shift"])]
-    corridors = d.groupby(["origin", "dest"]).size().rename("n").reset_index().sort_values("n", ascending=False)
+    corridors = d.groupby(["origin", "dest"]).size().rename("n").reset_index().sort_values(
+        ["n", "origin", "dest"], ascending=[False, True, True], kind="stable")
     by_era = d.dropna(subset=["era"]).groupby(["era", "origin", "dest"]).size().rename("n").reset_index()
     inflow = d.groupby("dest").size()
     outflow = d.groupby("origin").size()
     net = (inflow.reindex(inflow.index.union(outflow.index), fill_value=0)
            - outflow.reindex(inflow.index.union(outflow.index), fill_value=0)).rename("net")
     balance = pd.DataFrame({"inflow": inflow, "outflow": outflow}).fillna(0).astype(int).join(net)
-    balance = balance.sort_values("net", ascending=False)
+    balance = balance.rename_axis("iso3").reset_index().sort_values(
+        ["net", "iso3"], ascending=[False, True], kind="stable").set_index("iso3")
     era_net = []
     for era, g in d.dropna(subset=["era"]).groupby("era"):
         i, o = g.groupby("dest").size(), g.groupby("origin").size()

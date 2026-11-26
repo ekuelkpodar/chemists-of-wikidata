@@ -33,8 +33,10 @@ jobs:
           .venv/bin/python -m chemkg.pipeline analyses
       - name: Committed web data matches a fresh build (reproducibility check)
         run: |
-          if ! git diff --quiet -- web/public/data/findings.json web/public/data/cog.json web/public/data/migration.json; then
-            echo "::error::Rebuilt data differs from the committed web/public/data"; git diff --stat; exit 1
+          # Headline outputs must be byte-identical; model-score files may differ in the last float digit across BLAS builds.
+          files="web/public/data/findings.json web/public/data/cog.json web/public/data/migration.json web/public/data/survival.json"
+          if ! git diff --quiet -- $files; then
+            echo "::error::Rebuilt data differs from the committed web/public/data"; git diff --stat -- $files; git diff -- $files | cut -c1-300 | head -40; exit 1
           fi
 
   build:

@@ -52,7 +52,7 @@ def build(ds: Dataset, r: dict) -> list[dict]:
     if len(bal):
         top = bal.index[0]
         top_c = cor.iloc[0]
-        losers = bal.sort_values("net").head(3)
+        losers = bal.rename_axis("iso3").reset_index().sort_values(["net", "iso3"], kind="stable").set_index("iso3").head(3)
         out.append({
             "id": "migration", "chart": "migration",
             "hook": (f"{_cap(_name(top))} is chemistry's great talent magnet: a net gain of {int(bal.loc[top, 'net'])} migrant chemists, "
@@ -88,9 +88,10 @@ def build(ds: Dataset, r: dict) -> list[dict]:
     # 4. genealogy ---------------------------------------------------------------
     gm = r["genealogy"]["metrics"]
     if len(gm):
-        roots = gm[gm.is_root].sort_values(["chem_descendants", "birth_year"], ascending=[False, True]).iloc[0]
-        mentor = gm[gm.in_dataset].nlargest(1, "chem_descendants").iloc[0]
-        nob = gm[gm.in_dataset].nlargest(1, "nobel_descendants").iloc[0]
+        roots = gm[gm.is_root].sort_values(["chem_descendants", "birth_year", "qid"], ascending=[False, True, True], kind="stable").iloc[0]
+        ind = gm[gm.in_dataset]
+        mentor = ind.sort_values(["chem_descendants", "qid"], ascending=[False, True], kind="stable").iloc[0]
+        nob = ind.sort_values(["nobel_descendants", "qid"], ascending=[False, True], kind="stable").iloc[0]
         g = r["genealogy"]["graph"]
         out.append({
             "id": "genealogy", "chart": "genealogy",

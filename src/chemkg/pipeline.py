@@ -45,7 +45,7 @@ def build_data() -> dict[str, pd.DataFrame]:
 
 def quality_report(people, pc, po, pairs, raw_counts) -> dict:
     n = len(people)
-    flags = people.quality_flags.explode().value_counts().to_dict()
+    flags = dict(sorted(people.quality_flags.explode().value_counts().items(), key=lambda kv: (-kv[1], kv[0])))
 
     def pct(k):
         return round(100 * k / n, 1)

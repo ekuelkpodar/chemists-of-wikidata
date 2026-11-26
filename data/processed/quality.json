@@ -49,9 +49,9 @@
     "death_missing_presumed_dead": 38,
     "no_english_label": 24,
     "misaligned_source_row": 15,
-    "non_country_citizenship": 3,
-    "lifespan_under_15": 3,
     "lifespan_over_110": 3,
+    "lifespan_under_15": 3,
+    "non_country_citizenship": 3,
     "unknown_value_country": 3,
     "bce_date": 2,
     "suspected_non_human": 1

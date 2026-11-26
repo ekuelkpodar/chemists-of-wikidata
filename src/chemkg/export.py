@@ -20,6 +20,11 @@ def _write(name: str, obj) -> int:
     return len(s)
 
 
+def _top(df: pd.DataFrame, col: str, n: int = 25) -> pd.DataFrame:
+    """Deterministic top-n: ties broken by QID so outputs are identical across platforms."""
+    return df.sort_values([col, "qid"], ascending=[False, True], kind="stable").head(n)
+
+
 def _records(df: pd.DataFrame) -> list[dict]:
     return to_jsonable(df.astype(object).where(df.notna(), None).to_dict("records"))
 
@@ -49,7 +54,7 @@ def run_all() -> dict:
         "flows": _records(mig["by_era"]),
         "balance": _records(mig["balance"].reset_index(names="iso3")),
         "era_net": _records(mig["era_net"]),
-        "migrants": _records(migrants.sort_values("birth_year")),
+        "migrants": _records(migrants.sort_values(["birth_year", "qid", "origin", "dest"], kind="stable")),
     })
     results["migration"] = mig
 
@@ -117,9 +122,9 @@ def run_all() -> dict:
             "node_cols": ["id", "name", "by", "in", "nobel", "nc", "desc", "pr", "comm"],
             "edges": [[a, b] for a, b in g.edges],
             "top": _records(gm.head(50)[node_cols]),
-            "top_pagerank": _records(gm.nlargest(25, "pagerank")[node_cols]),
-            "top_nobel_lineages": _records(gm.nlargest(25, "nobel_descendants")[node_cols]),
-            "top_chemist_mentors": _records(gm[gm.in_dataset].nlargest(25, "chem_descendants")[node_cols]),
+            "top_pagerank": _records(_top(gm, "pagerank")[node_cols]),
+            "top_nobel_lineages": _records(_top(gm, "nobel_descendants")[node_cols]),
+            "top_chemist_mentors": _records(_top(gm[gm.in_dataset], "chem_descendants")[node_cols]),
             "trees": [{k: v for k, v in t.items() if k != "tree"} for t in trees],
             "chemist_families": genealogy.chemist_families(g, gm),
         })
@@ -137,8 +142,8 @@ def run_all() -> dict:
     anomalies.to_parquet(PROCESSED / "date_anomalies.parquet", index=False)
     sizes["imputation.json"] = _write("imputation.json", {
         "country": c_rep, "specialty": s_rep,
-        "country_examples": _records(c_pred.nlargest(15, "p_1")),
-        "country_pred_dist": c_pred.pred_1.value_counts().head(15).to_dict(),
+        "country_examples": _records(c_pred.round({"p_1": 3, "p_2": 3}).sort_values(["p_1", "qid"], ascending=[False, True], kind="stable").head(15)),
+        "country_pred_dist": dict(sorted(c_pred.pred_1.value_counts().items(), key=lambda kv: (-kv[1], kv[0]))[:15]),
         "country_confident": int((c_pred.p_1 >= 0.6).sum()), "country_missing": int(len(c_pred)),
         "specialty_pred_dist": s_pred[s_pred.p >= 0.5].pred.value_counts().to_dict(),
         "anomaly_counts": anomalies.check.value_counts().to_dict(),
