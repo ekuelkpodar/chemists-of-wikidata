@@ -1,0 +1,13 @@
+# Reconstructed query behind data/raw/chemist.csv (Wikidata Query Service, card view).
+# The export itself is the source of truth; this documents its shape.
+SELECT ?item ?itemLabel ?birthDate ?deathDate ?countryLabel ?occupationLabel ?wikipediaURL WHERE {
+  VALUES ?occupation { wd:Q593644 }            # chemist, plus subclasses via P279*
+  ?item wdt:P31 wd:Q5 ;
+        wdt:P106/wdt:P279* ?occupation .
+  ?item wdt:P106 ?occ .  ?occ wdt:P279* wd:Q593644 . BIND(?occ AS ?occupationNode)
+  ?wikipediaURL schema:about ?item ; schema:isPartOf <https://en.wikipedia.org/> .
+  OPTIONAL { ?item wdt:P569 ?birthDate }
+  OPTIONAL { ?item wdt:P570 ?deathDate }
+  OPTIONAL { ?item wdt:P27 ?country }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
